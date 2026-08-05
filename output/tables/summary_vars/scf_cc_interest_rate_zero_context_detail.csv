@@ -1,0 +1,13 @@
+group,card_ownership_status,card_balance_status,payoff_frequency_status,n_rows,zero_rate_weight,group_weight,share_of_group_weight
+Borrow,has credit card,positive primary/store balance,sometimes pays total balance,15,89940.68000000001,3279593.6739999996,2.7424336347832585
+Borrow,has credit card,positive primary/store balance,hardly ever pays total balance,15,81498.67400000001,3279593.6739999996,2.485023515141712
+Borrow and save,has credit card,positive primary/store balance,hardly ever pays total balance,25,160418.99399999998,17828104.496000014,0.8998095901669874
+Borrow and save,has credit card,positive primary/store balance,sometimes pays total balance,20,84574.01000000001,17828104.496000014,0.47438587775259766
+Save,no credit cards,no primary/store balance,other/unknown X432=0,2455,14531183.349999981,45523858.83999998,31.919928846699648
+Save,has credit card,positive primary/store balance,hardly ever pays total balance,65,399673.78599999996,45523858.83999998,0.8779435579147844
+Save,has credit card,no primary/store balance,always/almost always pays total balance,75,365115.202,45523858.83999998,0.8020304326205052
+Save,has credit card,no primary/store balance,other/unknown X432=0,85,294426.84199999995,45523858.83999998,0.6467528225909068
+Save,has credit card,no primary/store balance,sometimes pays total balance,25,173622.89199999996,45523858.83999998,0.38138878474740484
+Save,has credit card,positive primary/store balance,sometimes pays total balance,20,135994.134,45523858.83999998,0.29873156069209894
+Save,has credit card,positive primary/store balance,always/almost always pays total balance,20,107677.518,45523858.83999998,0.2365298565274262
+Save,has credit card,no primary/store balance,hardly ever pays total balance,10,80322.50600000001,45523858.83999998,0.17644046011632006

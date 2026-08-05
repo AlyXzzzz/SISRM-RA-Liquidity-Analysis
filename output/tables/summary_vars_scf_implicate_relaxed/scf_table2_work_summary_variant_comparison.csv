@@ -1,0 +1,41 @@
+characteristic,candidate,variable,group,paper,replication,diff
+Head works full-time,primary fork: raw X4511 == 1,head_full_time,Borrow,76,74.74295207461724,-1.2570479253827642
+Head works full-time,primary fork: raw X4511 == 1,head_full_time,Borrow and save,85,89.79953450234706,4.799534502347058
+Head works full-time,primary fork: raw X4511 == 1,head_full_time,Save,80,77.95397650692092,-2.046023493079076
+Head works full-time,primary fork: raw X4511 == 1,head_full_time,Population,81,80.96515600621981,-0.034843993780185656
+Head works full-time,summary LF == 1,head_full_time_summary_lf,Borrow,76,88.14324447925492,12.143244479254918
+Head works full-time,summary LF == 1,head_full_time_summary_lf,Borrow and save,85,96.08284999587765,11.082849995877652
+Head works full-time,summary LF == 1,head_full_time_summary_lf,Save,80,87.55105711267956,7.551057112679558
+Head works full-time,summary LF == 1,head_full_time_summary_lf,Population,81,89.86283758409053,8.862837584090528
+Head works full-time,summary OCCAT1 == 1,head_full_time_summary_occat1_one,Borrow,76,71.20269619107698,-4.797303808923019
+Head works full-time,summary OCCAT1 == 1,head_full_time_summary_occat1_one,Borrow and save,85,83.3166849192109,-1.6833150807891002
+Head works full-time,summary OCCAT1 == 1,head_full_time_summary_occat1_one,Save,80,70.64264621461824,-9.357353785381761
+Head works full-time,summary OCCAT1 == 1,head_full_time_summary_occat1_one,Population,81,74.06108047016679,-6.938919529833214
+Head works full-time,summary OCCAT1 in 1:2,head_full_time_summary_occat1_broad,Borrow,76,81.9852006459261,5.985200645926099
+Head works full-time,summary OCCAT1 in 1:2,head_full_time_summary_occat1_broad,Borrow and save,85,94.22546608793455,9.22546608793455
+Head works full-time,summary OCCAT1 in 1:2,head_full_time_summary_occat1_broad,Save,80,84.28570444643674,4.285704446436739
+Head works full-time,summary OCCAT1 in 1:2,head_full_time_summary_occat1_broad,Population,81,86.831811106576,5.831811106575998
+Head works full-time,summary LF == 1 & OCCAT1 in 1:2,head_full_time_summary_lf_occat1_broad,Borrow,76,81.9852006459261,5.985200645926099
+Head works full-time,summary LF == 1 & OCCAT1 in 1:2,head_full_time_summary_lf_occat1_broad,Borrow and save,85,94.22546608793455,9.22546608793455
+Head works full-time,summary LF == 1 & OCCAT1 in 1:2,head_full_time_summary_lf_occat1_broad,Save,80,84.28570444643674,4.285704446436739
+Head works full-time,summary LF == 1 & OCCAT1 in 1:2,head_full_time_summary_lf_occat1_broad,Population,81,86.831811106576,5.831811106575998
+Head white-collar/prof.,primary fork: summary OCCAT2 in 1:2,head_white_collar_prof,Borrow,48,49.98832388893062,1.9883238889306227
+Head white-collar/prof.,primary fork: summary OCCAT2 in 1:2,head_white_collar_prof,Borrow and save,61,66.92114842986726,5.921148429867259
+Head white-collar/prof.,primary fork: summary OCCAT2 in 1:2,head_white_collar_prof,Save,58,57.58504828921652,-0.4149517107834768
+Head white-collar/prof.,primary fork: summary OCCAT2 in 1:2,head_white_collar_prof,Population,58,59.70898694355967,1.7089869435596725
+Head white-collar/prof.,raw X7401 in 1:2,head_white_collar_prof_raw,Borrow,48,38.91679832530378,-9.08320167469622
+Head white-collar/prof.,raw X7401 in 1:2,head_white_collar_prof_raw,Borrow and save,61,56.501301987881156,-4.498698012118844
+Head white-collar/prof.,raw X7401 in 1:2,head_white_collar_prof_raw,Save,58,48.61860213911582,-9.381397860884178
+Head white-collar/prof.,raw X7401 in 1:2,head_white_collar_prof_raw,Population,58,50.25008668498313,-7.749913315016869
+Head white-collar/prof.,summary OCCAT1 == 1,head_white_collar_occat1_summary,Borrow,48,71.20269619107698,23.20269619107698
+Head white-collar/prof.,summary OCCAT1 == 1,head_white_collar_occat1_summary,Borrow and save,61,83.3166849192109,22.3166849192109
+Head white-collar/prof.,summary OCCAT1 == 1,head_white_collar_occat1_summary,Save,58,70.64264621461824,12.642646214618239
+Head white-collar/prof.,summary OCCAT1 == 1,head_white_collar_occat1_summary,Population,58,74.06108047016679,16.061080470166786
+Head white-collar/prof.,summary OCCAT2 == 1,head_white_collar_occat2_summary,Borrow,48,16.44349573775889,-31.55650426224111
+Head white-collar/prof.,summary OCCAT2 == 1,head_white_collar_occat2_summary,Borrow and save,61,35.26562976681355,-25.734370233186453
+Head white-collar/prof.,summary OCCAT2 == 1,head_white_collar_occat2_summary,Save,58,32.49190454781179,-25.508095452188208
+Head white-collar/prof.,summary OCCAT2 == 1,head_white_collar_occat2_summary,Population,58,32.44415263538062,-25.555847364619382
+Head white-collar/prof.,summary OCCAT2 in 1:2,head_white_collar_occat2_broad_summary,Borrow,48,49.98832388893062,1.9883238889306227
+Head white-collar/prof.,summary OCCAT2 in 1:2,head_white_collar_occat2_broad_summary,Borrow and save,61,66.92114842986726,5.921148429867259
+Head white-collar/prof.,summary OCCAT2 in 1:2,head_white_collar_occat2_broad_summary,Save,58,57.58504828921652,-0.4149517107834768
+Head white-collar/prof.,summary OCCAT2 in 1:2,head_white_collar_occat2_broad_summary,Population,58,59.70898694355967,1.7089869435596725

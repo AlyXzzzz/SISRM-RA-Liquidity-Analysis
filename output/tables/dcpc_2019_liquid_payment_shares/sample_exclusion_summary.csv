@@ -1,0 +1,9 @@
+sample_status,n_transactions
+retained_for_analysis,5913
+not_in_selected_telyukova_crosswalk,5427
+not_a_payment,2830
+not_matched_to_october_2019_diary_day,832
+missing_or_nonpositive_amount,41
+missing_or_invalid_payment_instrument,35
+not_diary_day_1_to_3,13
+missing_merchant_category,4

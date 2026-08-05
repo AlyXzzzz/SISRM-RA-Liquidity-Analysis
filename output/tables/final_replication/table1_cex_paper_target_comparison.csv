@@ -1,0 +1,4 @@
+table,source,statistic,group,paper,replication,diff
+Table 1,CEX 2001 appendix timing,Puzzle size (%),Borrow,7,7.339632283680377,0.3396322836803769
+Table 1,CEX 2001 appendix timing,Puzzle size (%),Borrow and save,29,29.5303469243859,0.5303469243858991
+Table 1,CEX 2001 appendix timing,Puzzle size (%),Save,64,63.13002079193393,-0.86997920806607

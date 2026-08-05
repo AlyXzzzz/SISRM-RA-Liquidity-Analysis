@@ -1,0 +1,26 @@
+detail,component,exclusion_group,cq_var,pq_var,fred_series,appendix_role,note
+food_total,food,food_alcohol_tobacco,FOODCQ,FOODPQ,CPIUFDNS,cash_good,Food in/out in Appendix A.3.
+alcohol,alcohol,food_alcohol_tobacco,ALCBEVCQ,ALCBEVPQ,CUUR0000SAF116,cash_good,Special liquid-use category despite credit option.
+tobacco,tobacco,food_alcohol_tobacco,TOBACCCQ,TOBACCPQ,CUUR0000SEGA,cash_good,Special liquid-use category despite credit option.
+rent_total,rent,other,RENDWECQ,RENDWEPQ,CUUR0000SEHA,cash_good,Rented dwelling = rent excluding as pay + rent as pay.
+rent_excluding_as_pay,rent,other,RNTXRPCQ,RNTXRPPQ,CUUR0000SEHA,cash_good,Compact-script rent component.
+rent_as_pay,rent,other,RNTAPYCQ,RNTAPYPQ,CUUR0000SEHA,cash_good,Compact-script rent component.
+mortgage_interest,mortgage,other,MRTINTCQ,MRTINTPQ,CUUR0000SEHC,cash_good,Mortgage-interest expense summary.
+owned_home_mortgage_principal,mortgage,other,EMRTPNOC,EMRTPNOP,CUUR0000SEHC,cash_good,Main-home mortgage-principal outlay.
+vacation_home_mortgage_principal,mortgage,other,EMRTPNVC,EMRTPNVP,CUUR0000SEHC,cash_good,Vacation-home mortgage-principal outlay.
+owned_dwelling_repairs_insurance_other,home_repairs_maintenance,other,MRPINSCQ,MRPINSPQ,CUUR0000SAH3,cash_good,"Owned-dwelling repairs, maintenance, housing insurance, other."
+utilities,utilities,other,UTILCQ,UTILPQ,CUUR0000SAH2,cash_good,"Utilities, fuels, public services."
+property_taxes,property_taxes,property_taxes,PROPTXCQ,PROPTXPQ,CUUR0000SEHC,cash_good,Property taxes.
+household_operations_total,household_operations,other,HOUSOPCQ,HOUSOPPQ,CUUR0000SAH3,cash_good,HOUSOP = domestic services + other household expenses; includes childcare through DOMSRV.
+other_household_expenses,household_operations,other,OTHHEXCQ,OTHHEXPQ,CUUR0000SAH3,cash_good,Narrower household operations excluding domestic services.
+domestic_services_ex_childcare,household_operations,other,DMSXCCCQ,DMSXCCPQ,CUUR0000SAH3,cash_good,Domestic services excluding childcare.
+childcare,childcare,other,BBYDAYCQ,BBYDAYPQ,CUUR0000SEEB,cash_good,Babysitting and child daycare.
+household_furnishings_equipment,household_furnishings_equipment,other,HOUSEQCQ,HOUSEQPQ,CUUR0000SAH3,durable_sensitivity,Appendix A.3 puts household furnishings/major appliances under durables.
+public_transportation,public_transportation,other,PUBTRACQ,PUBTRAPQ,CUUR0000SETG,cash_good,Public transportation.
+health_insurance,health_insurance,other,HLTHINCQ,HLTHINPQ,CUUR0000SAM2,cash_good,Health insurance is explicitly included.
+cash_contributions,cash_contributions,other,CASHCOCQ,CASHCOPQ,CPIAUCNS,cash_good,Cash contributions; charity contributions are liquid-payment-dominant in Appendix A.3.
+personal_insurance_pensions,nonhealth_insurance_pensions,other,PERINSCQ,PERINSPQ,CUUR0000SEHD,insurance_sensitivity,Broad personal insurance/pensions; final paper suggests pension/insurance payments excluded.
+life_other_personal_insurance,nonhealth_insurance_pensions,other,LIFINSCQ,LIFINSPQ,CPIAUCNS,insurance_sensitivity,Life/other personal insurance.
+vehicle_insurance,nonhealth_insurance_pensions,other,VEHINSCQ,VEHINSPQ,CPIAUCNS,insurance_sensitivity,Auto insurance; final paper explicitly excludes auto insurance.
+domestic_services_total,household_operations,other,DOMSRVCQ,DOMSRVPQ,CUUR0000SAH3,double_count_sensitivity,DOMSRV = DMSXCC + BBYDAY; double-counts if added to HOUSOP.
+vacation_home_mortgage_principal_compact,mortgage,other,MRTPRNOC,MRTPRNOP,CUUR0000SEHC,legacy_sensitivity,Compact-script legacy vacation-home principal summary.

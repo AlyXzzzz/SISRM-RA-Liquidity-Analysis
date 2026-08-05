@@ -1,0 +1,11 @@
+group,cc_rate_inapp_reason,has_any_credit_card_raw,has_any_credit_card_shadow,has_visa_mc_discover_raw,has_visa_mc_discover_shadow,has_store_card_raw,has_store_card_shadow,visa_mc_discover_balance_shadow,store_card_balance_shadow,payoff_frequency_shadow,n_rows,inapplicable_weight,primary_balance,store_balance,group_weight,share_of_group_weight
+Borrow,"has cards, no Visa/MC/Discover/Optima",1,0,5,0,1,0,1,0,0,25,146885.05800000002,0,1021.7230442867782,3279593.6739999996,4.478757815776908
+Borrow,"has cards, no Visa/MC/Discover/Optima",1,0,5,0,1,0,1,941,0,5,24554.296,0,990.0559812425493,3279593.6739999996,0.7486993341480631
+Borrow and save,"has cards, no Visa/MC/Discover/Optima",1,0,5,0,1,0,1,0,0,45,244993.0039999999,0,1657.7883897452036,17828104.496000014,1.3741954679195847
+Save,no credit cards,5,0,0,1,0,1,1,1,1,2430,14343752.091999982,0,0,45523858.83999998,31.508207910083193
+Save,"has cards, no Visa/MC/Discover/Optima",1,0,5,0,1,0,1,0,0,210,1233454.5080000001,0,110.74554008602311,45523858.83999998,2.7094682643998826
+Save,"has cards, no Visa/MC/Discover/Optima",1,0,5,0,5,0,1,1,1,80,293401.57999999996,0,0,45523858.83999998,0.6445006804699952
+Save,no credit cards,5,16,0,14,0,14,1,1,1,20,143740.62599999996,0,0,45523858.83999998,0.31574789497787664
+Save,no credit cards,5,16,0,14,0,14,14,14,14,5,43690.632000000005,0,0,45523858.83999998,0.09597304163857656
+Save,"has cards, no Visa/MC/Discover/Optima",1,0,5,0,1,0,1,921.5,0,5,28951.53,0,100.00000000000001,45523858.83999998,0.06359638821865746
+Save,"has cards, no Visa/MC/Discover/Optima",1,0,5,5,5,0,14,1,14,5,1025.262,0,0,45523858.83999998,0.0022521421209116474

@@ -1,0 +1,10 @@
+measure,qyear_gap,interview_gap,n_pairs
+benchmark,1,1,55929
+benchmark,2,2,1122
+benchmark,3,3,149
+excluding_food,1,1,55752
+excluding_food,2,2,1122
+excluding_food,3,3,148
+excluding_food_property_taxes,1,1,55666
+excluding_food_property_taxes,2,2,1134
+excluding_food_property_taxes,3,3,151

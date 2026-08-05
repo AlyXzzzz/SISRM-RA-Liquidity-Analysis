@@ -1,0 +1,21 @@
+detail,table_good,component,exclusion_group,best_survey,cq_var,pq_var,fred_series,in_cash_definition
+food_at_home,Food at home,food,food_alcohol_tobacco,IS,FDHOMECQ,FDHOMEPQ,CPIUFDNS,TRUE
+food_away,Food away,food,food_alcohol_tobacco,DS,FDAWAYCQ,FDAWAYPQ,CUUR0000SEFV,TRUE
+alcohol,Alcohol,alcohol,food_alcohol_tobacco,DS,ALCBEVCQ,ALCBEVPQ,CUUR0000SAF116,TRUE
+tobacco,Tobacco,tobacco,food_alcohol_tobacco,DS,TOBACCCQ,TOBACCPQ,CUUR0000SEGA,TRUE
+mortgage_interest,Mortgage,mortgage,other,IS,MRTINTCQ,MRTINTPQ,CUUR0000SEHC,TRUE
+owned_home_mortgage_principal,Mortgage,mortgage,other,IS,EMRTPNOC,EMRTPNOP,CUUR0000SEHC,TRUE
+vacation_home_mortgage_principal,Mortgage,mortgage,other,IS,EMRTPNVC,EMRTPNVP,CUUR0000SEHC,TRUE
+property_taxes,Property tax,property_taxes,property_taxes,IS,PROPTXCQ,PROPTXPQ,CUUR0000SEHC,TRUE
+owned_dwelling_repairs_insurance_other,Repairs/maintenance,repairs_maintenance,other,IS,MRPINSCQ,MRPINSPQ,CUUR0000SAH3,TRUE
+rent,Rent,rent,other,IS,RENDWECQ,RENDWEPQ,CUUR0000SEHA,TRUE
+utilities,Utilities,utilities,other,IS,UTILCQ,UTILPQ,CUUR0000SAH2,TRUE
+household_operations,Other household ops,household_operations,other,IS,HOUSOPCQ,HOUSOPPQ,CUUR0000SAH3,TRUE
+household_furnishings_equipment,Other household ops,household_operations,other,IS,HOUSEQCQ,HOUSEQPQ,CUUR0000SAH3,TRUE
+public_transportation,Public transportation,public_transportation,other,IS,PUBTRACQ,PUBTRAPQ,CUUR0000SETG,TRUE
+health_insurance,Health insurance,health_insurance,other,IS,HLTHINCQ,HLTHINPQ,CUUR0000SAM2,TRUE
+cash_contributions,Cash contributions,cash_contributions,other,IS,CASHCOCQ,CASHCOPQ,CPIAUCNS,TRUE
+auto_repairs,Auto repairs,auto_repairs,other,IS,MAINRPCQ,MAINRPPQ,CUUR0000SETD,FALSE
+medical_services,Medical expenses excluding insurance,medical_ex_health_insurance,other,IS,MEDSRVCQ,MEDSRVPQ,CUUR0000SAM,FALSE
+prescription_drugs,Medical expenses excluding insurance,medical_ex_health_insurance,other,IS,PREDRGCQ,PREDRGPQ,CUUR0000SAM,FALSE
+medical_supplies,Medical expenses excluding insurance,medical_ex_health_insurance,other,IS,MEDSUPCQ,MEDSUPPQ,CUUR0000SAM,FALSE

@@ -1,0 +1,9 @@
+variant,debt_variable,mean_abs_diff,max_abs_diff
+"primary: finance charges > 0, average balance 2/5",cc_debt_finance_positive_average_balance,0.9687351869799846,1.4531027804698713
+"finance charges > 0, fifth-interview balance",cc_debt_finance_positive_fifth_balance,1.3831388771191444,2.074708315678823
+fifth-interview balance only,cc_balance_fifth,3.1324897708834047,4.698734656325193
+finance charges / 0.14 implied balance,cc_debt_implied_from_finance_charges,3.3501625649180595,5.025243847377215
+"finance charges >= 14% of $500, average balance 2/5",cc_debt_finance_ge_70_average_balance,4.806843180940711,7.210264771410948
+implied balance capped at average balance 2/5,cc_debt_implied_capped_at_average_balance,5.236003205302626,7.854004807953814
+average second/fifth balance only,cc_balance_average_2_5,8.696401017205526,13.044601525808382
+finance charges >= 14% of average balance 2/5,cc_debt_apr14_average_balance,16.412928390562975,24.619392585844395

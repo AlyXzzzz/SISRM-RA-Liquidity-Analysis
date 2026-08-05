@@ -1,0 +1,13 @@
+detail,component,exclusion_group,fred_series,n_records,n_households,nominal_sum,real_sum,n_negative_cost,n_topcoded_cost,n_published_integrated
+alcohol,alcohol,food_alcohol_tobacco,CUUR0000SAF116,21904,4957,1350033.6666666842,1349991.8991733463,0,0,4781
+food_total,food,food_alcohol_tobacco,CPIUFDNS,68200,11119,16031143.33331863,16031292.285028305,0,0,16748
+health_insurance,health_insurance,other,CUUR0000SAM2,117183,6448,10313356.333292661,10315312.315022161,0,44,117183
+household_operations_total,household_operations,other,CUUR0000SAH3,76636,10502,7710306.999999979,7710776.114260322,6,236,74505
+mortgage_interest,mortgages,other,CUUR0000SEHC,26461,4756,15006888.666667275,15011131.03974445,0,0,26461
+owned_dwelling_repairs_insurance_other,owned_dwelling_repairs_insurance_other,other,CUUR0000SAH3,20065,6046,9806754.333336059,9805365.530837262,0,10,20065
+property_taxes,property_taxes,property_taxes,CUUR0000SEHC,41379,7852,11862378.916666763,11865625.634670716,0,1109,41379
+public_transportation,public_transportation,other,CUUR0000SETG,20833,4237,4183112.666666778,4184307.92291132,0,18,13570
+rent_as_pay,rents,other,CUUR0000SEHA,819,225,538686.666666965,539142.1116796212,0,0,819
+rent_excluding_as_pay,rents,other,CUUR0000SEHA,24758,4693,22999817.333356958,23007382.663408678,0,667,24758
+tobacco,tobacco,food_alcohol_tobacco,CUUR0000SEGA,11353,2442,1634774.333332327,1635287.6937144909,0,0,11353
+utilities,utilities,other,CUUR0000SAH2,204512,12347,20482990.66666668,20485936.72929175,0,543,204512

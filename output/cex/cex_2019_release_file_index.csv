@@ -1,0 +1,11 @@
+file_type,source_zip,source_file,archive_year,collection_year,collection_quarter,is_boundary_quarter,n_rows
+FMLI,intrvw19.zip,intrvw19/fmli191x.csv,2019,2019,1,FALSE,5623
+FMLI,intrvw19.zip,intrvw19/fmli192.csv,2019,2019,2,FALSE,5493
+FMLI,intrvw19.zip,intrvw19/fmli193.csv,2019,2019,3,FALSE,5337
+FMLI,intrvw19.zip,intrvw19/fmli194.csv,2019,2019,4,FALSE,5248
+FMLI,intrvw19.zip,intrvw19/fmli201.csv,2019,2020,1,TRUE,5202
+MTBI,intrvw19.zip,intrvw19/mtbi191x.csv,2019,2019,1,FALSE,463265
+MTBI,intrvw19.zip,intrvw19/mtbi192.csv,2019,2019,2,FALSE,448193
+MTBI,intrvw19.zip,intrvw19/mtbi193.csv,2019,2019,3,FALSE,441621
+MTBI,intrvw19.zip,intrvw19/mtbi194.csv,2019,2019,4,FALSE,432099
+MTBI,intrvw19.zip,intrvw19/mtbi201.csv,2019,2020,1,TRUE,433367

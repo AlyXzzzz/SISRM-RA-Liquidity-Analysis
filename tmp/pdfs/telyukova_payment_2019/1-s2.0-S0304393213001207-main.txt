@@ -1,0 +1,1164 @@
+                                                         Journal of Monetary Economics 60 (2013) 900–916
+
+
+
+                                                       Contents lists available at ScienceDirect
+
+
+                                              Journal of Monetary Economics
+                                              journal homepage: www.elsevier.com/locate/jme
+
+
+
+
+Precautionary money demand in a business-cycle model$
+Irina A. Telyukova a,n, Ludo Visschers b,c
+a
+  University of California, San Diego, 9500 Gilman Drive, 0508, La Jolla, CA 92093-0508, United States
+b
+  Universidad Carlos III de Madrid, Spain
+c
+  University of Edinburgh, United Kingdom
+
+
+
+
+a r t i c l e in f o                                    abstract
+
+Article history:                                        Precautionary demand for money is significant in the data, and may have important impli-
+Received 22 March 2011                                  cations for business-cycle dynamics of velocity and other nominal aggregates. Accounting
+Received in revised form                                for such dynamics is a standing challenge in monetary macroeconomics: standard
+21 August 2013
+                                                        business-cycle models that have incorporated money have failed to generate realistic
+Accepted 22 August 2013
+Available online 31 August 2013
+                                                        predictions in this regard. In those models, the only uncertainty affecting money demand
+                                                        is aggregate. We investigate a model with uninsurable idiosyncratic uncertainty about
+Keywords:                                               liquidity need. The resulting precautionary motive for holding money produces substan-
+Precautionary money demand                              tial improvements in accounting for business-cycle behavior of nominal variables, at no
+Velocity of money
+                                                        cost to real variables.
+Business cycle
+                                                                                                           & 2013 Elsevier B.V. All rights reserved.
+Idiosyncratic risk
+
+
+
+
+1. Introduction
+
+   In monetary macroeconomics, it is an outstanding challenge to account for business-cycle behavior of nominal
+aggregates and their interaction with real aggregates. Previous models that have tried to incorporate money explicitly
+through, for example, cash-in-advance constraints, have done so while assuming that agents face only aggregate risk, which
+has resulted in the demand for money being largely deterministic, so that the cash-in-advance constraint almost always
+binds. Such models have unrealistic implications for the dynamics of nominal variables, as well as for the interaction
+between real and nominal variables, when compared to the data (Cooley and Hansen, 1995; Hodrick et al., 1991).
+   This paper presents a theoretical and quantitative investigation of aggregate business-cycle implications of the
+precautionary demand for money. Precautionary motive for holding liquidity appears strong in the data. Telyukova (2013)
+documents that the median household has about 50% more liquidity than it spends on average per month, and that
+controlling for observables, consumption of goods requiring a liquid payment method (e.g. cash or check) exhibits volatility
+consistent with the presence of significant idiosyncratic risk. This risk and the resulting precautionary money demand
+may have important implications for aggregate money demand and other nominal variables. The goal of this paper is to
+investigate whether precautionary demand for money can help account for business-cycle dynamics of the velocity of
+money, interest rates and inflation, and their interaction with real variables.
+   We study the relevant mechanisms qualitatively and quantitatively in a model that combines, in each period, two types
+of markets in a sequential manner, and where both aggregate and idiosyncratic uncertainty are present. The first-subperiod
+market, termed the “credit market”, is Walrasian. It is close to a standard real business-cycle model, with the production
+
+
+    ☆
+        First version: June 2008.
+    n
+        Corresponding author. Tel.: þ1 858 822 2097.
+        E-mail address: itelyukova@ucsd.edu (I.A. Telyukova).
+
+0304-3932/$ - see front matter & 2013 Elsevier B.V. All rights reserved.
+http://dx.doi.org/10.1016/j.jmoneco.2013.08.006
+                                      I.A. Telyukova, L. Visschers / Journal of Monetary Economics 60 (2013) 900–916                                 901
+
+
+function subject to aggregate productivity shocks, but has two distinguishing features. First, households have to decide how
+much money to carry out of this market for future cash consumption. Second, part of the output in the credit market is
+carried into the cash market by retail firms, who buy these goods on credit and subsequently transform them into cash good.
+This introduces an explicit link between the real and monetary sectors of the economy, as credit-market capital becomes
+indirectly productive in the cash market.
+    The second market is also competitive, but in it, agents must consume with money; this is the “cash market”.1 At the
+start of this subperiod, households are subject to uninsurable idiosyncratic preference shocks which determine how much
+of the cash goods they want to consume, but the realization of the shock is not known at the time when agents make their
+portfolio decisions. This generates precautionary motive for holding money. We show analytically how the idiosyncratic
+shocks, and the resulting heterogeneity of households, result in amplified dynamics of velocity of money, and how in their
+absence, the model can produce counterfactual nominal dynamics under standard parameter values.
+    The calibration of the model is in itself a contribution. All the existing models of the type mentioned above that have
+looked at aggregate behavior of nominal variables have been calibrated to aggregate data. Instead, this paper also uses
+household-level data on liquid consumption from the Consumer Expenditure Survey, like in Telyukova (2013), to calibrate
+idiosyncratic preference risk in the cash market. In general, in the few contexts where precautionary liquidity demand has
+appeared, it has been treated as a free parameter (e.g. Faig and Jerez, 2006). The use of household data tightly disciplines
+measurement of the risk, and hence of the extent of precautionary money demand.
+    Once calibrated, the model's equilibrium is computed to investigate the effects of real productivity shocks and monetary
+policy shocks. The main finding is that precautionary demand for money makes a dramatic difference for a variety of
+dynamic moments of nominal aggregates in the data, relative to a version of the model with the idiosyncratic risk shut
+down. The key factor is to break the link between aggregate money demand and aggregate consumption. In deterministic
+monetary business-cycle models, the cash-in-advance constraint in practice always binds, so that aggregate money demand
+is equivalent to aggregate cash-good consumption. This tightly links the volatilities of money demand and aggregate
+consumption; the latter, in turn, is not volatile enough in the data to generate observed volatility of money demand (or its
+inverse, velocity) and other nominal aggregates. In contrast, in the model with precautionary money demand, agents
+generally hold more money than they spend, so that total money demand is now linked only to the consumption of agents
+whose preference shock realizations make them spend all of their money in trade. Velocity of money is significantly more
+volatile in this heterogeneous-agent setting, thanks to the agents whose cash constraint does not bind, who are absent in
+models with only aggregate risk. In other words, idiosyncratic risk in this context does not average out in a way that can
+be captured by a representative agent model (see the discussion in Hodrick et al., 1991). In addition, the magnitude of
+idiosyncratic volatility is much higher than aggregate volatility: the standard deviation of aggregate consumption is 0.5%;
+the standard deviation of household-level cash consumption turns out to be around 19%.
+    Introducing uninsurable idiosyncratic risk into the model also changes the nature of the inflation tax, and thus has an
+impact on welfare costs of inflation. In any cash-credit goods model, the nominal interest rate drives a wedge between the
+marginal rate of transformation and the marginal rate of substitution between cash and credit goods. Without idiosyncratic
+shocks, this wedge affects all households equally, since all have a binding cash constraint. The cost of a positive nominal
+interest rate is in having to hold the money to transact in the cash market, but the allocation equates the marginal utilities
+across households. Instead, with uninsurable idiosyncratic risk, the additional inefficiency is that the allocation of total cash-
+good consumption among households is also unequal. The agents whose idiosyncratic shock realization causes their cash
+constraint to bind have marginal utility that is higher than that of the unconstrained agents, and thus, ex post, bear more of
+the cost of inflation. This raises the welfare cost of inflation. The nature of the inflation tax in the model with idiosyncratic
+risk also depends on whether inflation increases are anticipated. A surprise increase in inflation can exacerbate this last
+distortion.
+    These results suggest that in many monetary contexts, especially those aimed at accounting for aggregate data facts, it is
+important not to omit idiosyncratic uncertainty that gives rise to precautionary demand for money. As one example, we
+demonstrate that omitting this empirically relevant mechanism may cause the standard practice of calibrating monetary
+models to the aggregate money demand equation, as has been done in many cash-in-advance models and monetary search
+models, to produce misleading results for parameters and counterfactual quantitative implications.
+    This paper is related to several strands of literature. On the topic of precautionary demand for liquidity,2 the key mecha-
+nism in this model is close to Telyukova (2013), Telyukova and Wright (2008) and Faig and Jerez (2006). In Telyukova and
+Wright (2008) and Telyukova (2013), the idiosyncratic uncertainty about liquidity need is shown, respectively, theoretically
+
+
+
+    1
+      This setup is consistent with both cash-credit goods models in the manner of Lucas and Stokey (1987) and monetary search models in the style of
+Lagos and Wright (2005). In theory, money-search-style idiosyncratic matching shocks could be interpreted as a type of idiosyncratic preference shock
+(Wallace, 2001). However, with matching shocks, agents spend all or none of their money, while a crucial part of the argument here is that a preference
+shock may cause a household to spend only part of their money holdings. The natural empirical counterparts of the two types of shocks are also different.
+    2
+      The subject of precautionary money demand goes back to at least Keynes (1936), who defined its reason as “to provide for contingencies requiring
+sudden expenditure and for unforeseen opportunities of advantageous purchases”. Precautionary demand for money is often modeled in Baumol–Tobin-
+style inventory-theoretic models, from Whalen (1966) to fully dynamic stochastic models such as Alvarez and Lippi (2009). Uninsurable idiosyncratic
+liquidity shocks are also an essential element of models based on Diamond and Dybvig (1983). Lucas (1980) studies the equilibrium in a cash-in-advance
+model with precautionary demand for money.
+902                                       I.A. Telyukova, L. Visschers / Journal of Monetary Economics 60 (2013) 900–916
+
+
+and quantitatively, to be relevant for household portfolio decisions to hold liquid assets and credit card debt simultaneously.
+Faig and Jerez (2006) look at the behavior of velocity and nominal interest rates over the long run. They find that with
+precautionary liquidity demand, the simulated time series of velocity over the last century, interpreted as a series of steady
+states, fits the empirical series well. Lagos and Rocheteau (2005) study steady state properties of a monetary economy with
+idiosyncratic preference shocks.3 Wang and Shi (2006) are also interested in aggregate behavior of nominal variables, but
+with search intensity as the key mechanism behind velocity fluctuations over the business cycle.
+    Section 2 below describes the model. Section 3 demonstrates analytically the impact of precautionary demand for money
+on the dynamic behavior of money, velocity and interest rates, and discusses the inflation tax. Section 4 describes the
+calibration strategy for several versions of the model. In Section 5 we discuss the quantitative role of precautionary liquidity
+demand, and show how omission of precautionary demand may lead model calibration and implications astray. Section 6
+shows the effect of precautionary demand on welfare costs of anticipated and unanticipated inflation. Section 7 concludes.
+
+2. Model
+
+   The economy is populated by a measure 1 of infinitely lived households, who rent labor and capital to firms, consume
+goods bought from the firms, and save. Two markets are open sequentially during the period. In the first subperiod, a
+Walrasian market opens, in which all parties involved in transactions are known and all trades can be enforced. In the
+second subperiod, the market is competitive, in the sense that all agents are price takers, but money is assumed essential in
+trade.4 Since in the first subperiod households use cash or credit for consumption, and as discussed below, retail firms buy
+on credit, we will refer to this as the “credit market”,5 while the second subperiod will be termed the “cash market”.
+   There are two types of firms in the economy. Production firms use capital and labor as inputs in production, and their
+output is used for consumption and capital investment in the credit market. Part of their output is also bought in the credit
+market by retail firms, who then transform the goods one-for-one into retail goods to be sold in the cash market.
+
+2.1. Households
+
+      Households maximize lifetime expected discounted utility,
+           1                              
+        E0 ∑ βt ðUðct ÞAht þ ϑt uðqϑ;t ÞÞ                                                                                                             ð1Þ
+             t¼0
+
+where 0 o β o 1. While here for analytical tractability the utility function is assumed separable, in computation both
+separable and CES utility functions will be used. Inada conditions on UðÞ and uðÞ ensure that consumers participate in both
+markets. Utility depends on consumption ct and time spent working ht A ½0; 1 in the first subperiod, and on consumption qt
+and the preference shock ϑt in the second. First-subperiod utility follows the Hansen (1985)–Rogerson (1988) specification
+of indivisible labor with lotteries. The taste shock ϑt is realized when the credit market is already closed and money holdings
+can no longer be adjusted, as described below. This will lead to precautionary demand for money.
+    Households start the period with money holdings Mt and choose M            ~ t money to bring into the cash market, before ϑt
+occurs. Households also own capital kt and nominal bonds Bt sold to them by retail firms, as detailed below. Let wage, capital
+rent, and the return on nominal bonds be wt ; r t ; it1 , respectively. Let the nominal price of the credit good be Pt. The budget
+constraint, expressed in nominal terms, is
+                                                                        ~ t þ P t kt þ 1 þ Bt þ 1
+         M t þð1 þ r t δÞP t kt þ wt P t ht þBt ð1 þ it1 Þ ¼ P t ct þ M                                                                              ð2Þ
+Further, given nominal price Ψ t of the cash good, consumption qϑ;t in the cash market, conditional on the preference shock
+                                           ~ t : From now on, we will normalize household money and nominal bond holdings by
+realization ϑt , has to satisfy Ψ t qϑ;t r M
+the aggregate money supply Mt , rendering them stationary, which will lead to the following normalizations: mt ¼ M t =Mt ,
+bt ¼ Bt =Mt , pt ¼ P t =Mt and ψ t ¼ Ψ t =Mt . In addition, to formulate the budget constraint in real terms below, ϕt ¼ 1=pt will
+denote the value of one unit of normalized money in terms of the credit good.
+
+2.2. Firms
+
+   The problem of the production firm is standard. Given a constant returns to scale production function yt ¼ ezt f ðkt ; ht Þ,
+where zt is the stochastic productivity level, the firm solves maxkt ;ht fezt f ðkt ; ht Þwt ht r t kt g. The solution is characterized by
+the usual first-order conditions.
+
+    3
+      In another broadly related paper, Hagedorn (2008) shows that strong liquidity effects can arise when precautionary demand for money is taken into
+account in a cash-credit good model with banking.
+    4
+      Temzelides and Yu (2004) derive sufficient conditions under which money is essential in competitive markets. See also Levine (1991) and Rocheteau
+and Wright (2005).
+    5
+      In the data, credit cards are a complex contract that for some households is a convenience device, while for others, a long-term revolving credit
+arrangement. Here, the credit market is a natural simplification not meant to capture credit cards tightly. Following survey data, cash consumption will be
+defined as goods which cannot be paid by credit.
+                                       I.A. Telyukova, L. Visschers / Journal of Monetary Economics 60 (2013) 900–916                                  903
+
+
+    Retail firms exist for two periods: they buy the goods in the credit market, selling nominal bonds to households to do so,
+sell the goods in the subsequent cash market, and settle their debt in the following credit market, before disbanding. Free
+entry in the retail market yields the following condition, expressed in nominal terms at time t:
+                             
+                    ψ t qt qt
+       Π rt ¼ max              ¼ 0:                                                                                       ð3Þ
+               qt   1 þ it ϕt
+All cash receipts from retail sales go towards repayment next period. The repayment equals the current nominal value for
+the qt goods purchased in the credit market, and is discounted using the nominal interest rate. Since the cash market is
+competitive, retail firms sell all their goods in equilibrium, and the cash market price is higher than the credit market price
+by a factor 1þi, adjusted for marginal utility.
+
+2.3. Monetary policy and aggregate shocks
+
+   The monetary authority follows an interest rate feedback rule:
+                                      
+      1 þ it þ 1     1 þ it ξii 1 þ π t ξiπ yt ξiy
+                 ¼                                 expðεmp
+                                                        t þ 1 Þ:                                                                                       ð4Þ
+        1 þi         1 þi       1þπ         y
+The variables with bars denote central bank's long-run target levels of output, inflation and the nominal interest rate. The
+term εmpt denotes a stochastic monetary policy shock which is realized at the beginning of period t. At the end of the period,
+the government makes a lump sum transfer ϖ t Mt . The rate of money supply growth ϖ t is adjusted by the central bank to
+make it arise as the equilibrium price.
+    The second, independent, aggregate shock process is on the productivity level zt. As is standard in business-cycle literature,
+zt follows an AR(1) of the form zt þ 1 ¼ ξzz zt þ εzt þ 1 .
+
+2.4. Recursive formulation of the household problem
+
+   From now on, we will conserve notation by omitting time subscripts, and using primes to denote t þ1. The aggregate
+state variables in this economy are S ¼ ðK; z; i1 ; i; ð1 þ ϖ 1 Þϕ1 Þ: the aggregate capital stock, the technology shock, previous
+interest rate in the economy, current interest rate, and the previous period's post-injection real value of money, which
+households need to determine the current rate of inflation. The individual state variables at the beginning of the credit
+market are s ¼ ðk; m; bÞ: capital holdings, and money and bond holdings normalized by the money stock. The credit good is
+the numeraire. The household solves
+                                                                                       
+                                                                                   b′
+       Vðk; m; b; SÞ ¼      max           UðcÞAh þEϑ ϑuðqϑ Þ þ βEz′;i′ V k′; m′;     ; S′                                         ð5Þ
+                       c;h; ~
+                           m;k′;b′;fqϑ g                                          1þϖ
+
+       s:t:         ~ þ k′ þ ϕb′ ¼ ϕm þ ϕbð1 þ i1 Þ þ ð1 þ rδÞk þ wh
+               c þ ϕm                                                                                                                                  ð6Þ
+
+             ~
+       ψqϑ r m                                                                                                                                         ð7Þ
+
+              ð1 þ ϖ 1 Þϕ1
+       π¼                                                                                                                                              ð8Þ
+                    ϕ
+
+                  ~
+                  m   ψqϑ    ϖ
+       m′ ¼              þ                                                                                                                            ð9Þ
+                1 þϖ 1 þ ϖ 1 þ ϖ
+
+       z′ ¼ ξzz z þε′1                                                                                                                                ð10Þ
+
+         þi′Þ ¼ ξii ð1d
+       ð1d            þ iÞ þ ξiπ π^ þ ξiy y^ þε′2                                                                                                     ð11Þ
+x^ refers to log-deviations of the variable x from its target level. Denote the policy functions of the household's problem by
+gðs; SÞ, with g x ðÞ as the policy function for the choice variable x. Assume that these functions, and the value functions, are
+stationary, i.e. not time-dependent.
+
+Definition 1. A Symmetric Monetary Equilibrium is a set of pricing functions ϕðSÞ, ψðSÞ, w(S), r(S); law of motion K′ðSÞ, value
+function Vðs; SÞ and policy functions g c ðs; SÞ, g h ðs; SÞ, g k ðs; SÞ, g b ðs; SÞ, g m ðs; SÞ, fg q;ϑ ðs; SÞg, all ϑ, such that: (i) households optimize
+by solving (5), given prices and laws of motion; (ii) production and retail firms optimize, as in Section 2.2; (iii) free entry of
+retailers implies Π r ¼ 0; (iv) the aggregate law of motion follows from the aggregation of all individual decisions:
+         R1
+K′ðSÞ ¼ 0 g ik ðs; SÞ di. Finally, (v) all markets clear:
+       Z 1
+           g im ðs; SÞ di ¼ 1
+        0
+       Z 1                      Z 1
+           ϕðSÞg ib ðs; SÞ di ¼     ½Eϑ g iq;ϑ ðs; SÞ di
+         0                       0
+904                                      I.A. Telyukova, L. Visschers / Journal of Monetary Economics 60 (2013) 900–916
+
+          Z 1
+                g ih ðs; SÞ di ¼ HðSÞ
+           0
+                                        Z 1                             Z 1
+          ð1δÞK þez f ðHðSÞ; KÞ ¼            g ic ðs; SÞ di þK′ðSÞ þ         ½Eϑ g iq;ϑ ðs; SÞ di
+                                         0                               0
+
+
+
+
+    Appendix A presents the analysis of the equilibrium conditions of the problem,6 to show that the quasi-linear
+specification of the utility function allows equilibria in which the distribution of wealth created by the idiosyncratic shocks
+in the cash market washes out in the following credit market, as long as h remains in the interior. The following result is
+immediate:
+
+Result 1. The choice of c; ~
+                          m; k′; b′ only depends on the aggregate states S.
+
+    Further, it can be shown that for low enough realizations of the shock ϑ, cash balances are not spent in full, and that
+the resulting qϑ is efficient, equalizing the marginal utilities of credit- and cash-good consumption. In contrast, if a shock ϑ
+results in a binding cash constraint, then for any ϑ 4 ϑ, the constraint will also bind. This leads to underconsumption of the
+cash good relative to social optimum.
+    What does this say about consumer payment behavior? In the data, it is reasonable to expect that different consumers
+make different choices with respect to how much to consume with cash versus credit. In the model, the cash market is
+meant to capture transactions which cannot be paid using credit. However, the “credit” market in the first subperiod is more
+flexible: the model is silent on whether households pay using credit or cash, as these methods can be costlessly transferred
+one into the other. Thus the model implicitly can accommodate the kind of heterogeneity in portfolios and payment
+methods seen in the data. In order to discipline the model, we will, in calibration, match the total volume of consumer
+transactions done by liquid payment methods (cash, check, debit) in aggregate data. Since the dynamics of interest are of
+aggregate variables, individual heterogeneity in payment methods will not affect them beyond getting the transaction
+shares right.
+
+
+3. Idiosyncratic uncertainty and nominal dynamics
+
+    In this section, we demonstrate analytically that there are at least three ways in which idiosyncratic shocks to cash-good
+preferences can improve the quantitative performance of the model. First, the dynamic behavior of the value of money and
+prices varies significantly with the probability the marginal dollar is spent, i.e. that the cash constraint binds. As a result, the
+model with idiosyncratic shocks can accommodate values of the relative risk aversion (RRA) parameter in the standard RBC
+calibration range (s A ½1; 4), whereas the model without shocks would require s o1 to produce realistic dynamics of prices.
+Second, part of velocity fluctuation is now generated in the cash market, thus increasing the overall magnitude of velocity
+volatility, and velocity now depends in an intuitive way on nominal interest rates. Third, the standard general-equilibrium
+substitution channel in cash-credit good models between cash and credit good consumption is dampened, because cash
+consumption will now only adjust for the binding realization of the shock. Most proofs are in Appendix B.
+
+
+3.1. Dynamic behavior of real balances
+
+    The dynamic behavior of money will be an essential input for relating velocity to interest rates. It is also, however,
+empirically relevant in itself: one uncontroversial empirical regularity is the degree of persistence of interest rates, prices,
+and real balances, before and after detrending, over the business cycle. Nominal interest rates have an autocorrelation
+at quarterly frequency of 0.932; for real balances, it is 0.951.7 It seems a minimal requirement that a monetary business-
+cycle model can replicate the sign of these autocorrelations. This requirement turns out to have important implications for
+the range of the RRA parameter admissible in calibration.
+    For the sake of exposition, assume two preference shock realizations ϑi , where ϑh leads to a binding cash constraint, and
+ϑl to a non-binding constraint. Write p for the probability of the high shock ϑh . Note that if p ¼1, there are no idiosyncratic
+shocks. We temporarily simplify the utility function in the credit market to be fully linear, UðcÞ ¼ c. For the dynamics of real
+balances, the equilibrium conditions of the problem imply the relationship between real balances today ϕ and expected real
+balances tomorrow Eϕ′  ~  E½ðϕ′ðS′Þ=ð1 þ ϖÞÞU′ðc′Þ=U′ðcÞ:
+
+                       ~
+          ϕ ¼ pϑh u′ðβEϕ′Þβ  ~ þ ð1pÞβEϕ′:
+                            Eϕ′         ~                                                                                                        ð12Þ
+
+Recall that real balances ϕ equal normalized money supply over the price level, and since normalized money stock is 1, ϕ is
+also the real value of one unit of money. Eq. (12) gives that the real value of one unit of money is a weighted average of the
+
+      6
+      Appendices are available on the journal website.
+      7
+      The series are BP-filtered. Nominal interest rate is the rate on three-month treasury bonds. Real money balances are derived from M2 and the GDP
+deflator. Source: FRED2.
+                                      I.A. Telyukova, L. Visschers / Journal of Monetary Economics 60 (2013) 900–916                                    905
+
+
+real value of a unit of money in use on the margin, needed only with probability p, and the value when this unit is not used
+and is carried over to the next period.
+
+Lemma 1. The elasticity of real balances today with respect to real balances tomorrow evaluated at an equilibrium ϕ; β ~
+                                                                                                                      Eϕ′, is
+given by
+                     
+                 1p             1p
+      εϕ;βEϕ′
+           ~ ¼ 1       ð1sÞ þ       :                                                                                  ð13Þ
+                  1þi            1 þi
+
+
+
+                                                                                                                      ~ ¼ 1s.
+   Consider the case without idiosyncratic shocks, where the cash constraint always binds (p ¼ 1Þ. In this case, εϕ;βEϕ′
+The value of the marginal unit of money when it needs to be spent depends on the strength of the households' motive
+to smooth consumption, captured by the intertemporal elasticity of substitution (IES) 1=s. Lower real value of money
+tomorrow implies that the value of a unit of money is also lower in today's cash market; fewer goods can be bought, raising
+the marginal utility. With s 4 1, households are averse enough to variation in consumption that, when real balances
+tomorrow are expected to decrease, the marginal utility rises so much that the demand for real balances in today's
+credit market goes up. This leads to a negative autocorrelation of real balances (equivalently, εϕ;βEϕ′~ o 0). To avoid such
+counterfactual behavior of monetary variables in the setting without idiosyncratic shocks, one has to make households less
+averse to consumption fluctuations ð0 o s o 1Þ. This, however, will imply an IES that is non-standard in business-cycle
+modeling, leading to counterfactually strong responses of real variables to real shocks. In sum, with no idiosyncratic
+uncertainty, one must face a tradeoff between counterfactual monetary outcomes and counterfactual real outcomes.
+   With idiosyncratic preference shocks, one does not have to make this unattractive choice. With p o1, the second term on
+the right-hand side of (13) is positive, and real balances tomorrow in part determine directly real balances today, because
+with probability ð1pÞ the marginal unit of money is not used. Thus the elasticity of real balances today with respect to real
+balances tomorrow is brought closer to 1, and the demand for money is smoothed relative to the no-shock model. This
+means that households can have a lower IES, without implying a negative autocorrelation of real balances.8
+
+3.2. Dynamic behavior of velocity
+
+   Denote by C aggregate consumption within a period. The consumption and output velocities of money in the above
+example with two idiosyncratic shocks can be written as
+               PC c       q ð1 þ iÞ   q ð1 þ iÞ
+        Vc ¼     ¼ þ ð1pÞ l        þp h
+               M ϕ           ϕ           ϕ
+
+               PY ðyð1pÞql pqh Þ       q ð1 þ iÞ   q ð1 þ iÞ
+        Vy ¼     ¼                  þð1pÞ l        þp h
+               M        ϕ                    ϕ           ϕ
+Looking at consumption velocity, observe that as in standard cash-in-advance and cash-credit-good models, the constrained
+part of the cash market always contributes 1 to the level of consumption velocity, and nothing to velocity fluctuations,
+because qh ð1 þ iÞ=ϕ ¼ 1. Thus, if p ¼1, then all velocity movement has to come from the credit market – i.e. from c or ϕ.
+Instead, in our model, velocity fluctuations are also created in the cash market, thanks to the low shocks where the cash
+constraint does not bind.9
+   One can also see this by looking at marginal rates of substitution between cash and credit market consumption. The
+marginal rate of substitution (MRS) for the binding and non-binding cases is
+        ϑh u′ðqh Þ      i
+                   ¼ 1þ                                                                                                                               ð14Þ
+         U′ðcÞ          p
+
+        ϑh u′ðqh Þ
+                   ¼ 1:                                                                                                                               ð15Þ
+         U′ðcÞ
+Without preference shocks (p ¼1), cash market consumption thus always depends on nominal interest rates, as in (14).
+Preference shocks add agents who are not constrained (p o1), and whose cash market consumption does not depend on i,
+as in (15). Having arrived in the cash market, money holdings are predetermined, and households trade off spending a
+dollar in the cash market versus spending it in next credit market. Given competitive pricing by retail firms’, this results in
+an undistorted consumption allocation of unconstrained agents. Unconstrained agents do not adjust their consumption in
+response to changes in i, but in response to price changes, they adjust their money spending, and hence they contribute to
+fluctuations in velocity. Constrained agents respond to price changes through consumption, but the total amount of money
+spent does not move.
+
+    8
+      In calibration, we will have a nominal interest rate rule with persistence. In a setting with p¼ 1 and s 4 1, persistence in the nominal interest rate
+could be achieved by alternating expansions and contractions of the money supply. Again, this would be counterfactual.
+    9
+      Models with variable search intensity also create velocity fluctuations in the cash market (Wang and Shi, 2006). Standard search models with fixed
+match probabilities do not.
+906                                        I.A. Telyukova, L. Visschers / Journal of Monetary Economics 60 (2013) 900–916
+
+
+    This analysis also sheds light on the nature of the inflation tax, relative to the standard cash-credit goods model. One
+can distinguish between the ex-ante inflation tax, borne in the credit market, and the ex-post tax, borne after the preference
+shocks are realized. The ex-ante inflation tax affects all agents equally, as long as the nominal interest rate is positive,
+because money is costly to hold. In a model without preference shocks, this tax is reflected in the higher cash market price
+than is dictated by the technology. With preference shocks, there is an additional aspect: the nominal interest rate is the cost
+of self-insurance against these shocks, and thus households economize on carrying real balances into the cash market.
+Furthermore, at higher prices in the cash market, less is sold in total, and hence less total output is produced in the credit
+market, which leads agents to work less in the credit market.
+    For the ex-post inflation tax, without preference shocks, the wedge in the MRS (14) affects everyone equally, distorting
+allocations relative to the optimum. With preference shocks, constrained and unconstrained agents are impacted diffe-
+rentially by this tax. The MRS of the unconstrained agents implies that their allocation is optimal; on their unused cash, the
+unconstrained agents bear the tax in the form of foregone interest. Instead, the constrained agents suffer a distortion of
+consumption in the cash market. Note in addition that, for a given level of q supplied by retailers, the MRS of constrained
+households is higher than that of the unconstrained households, and higher than the opportunity cost of holding money,
+1 þi. This is contrary to the solution of a planner constrained only by q, who would equate these marginal utilities across
+preference shock realizations, like in the no-shock case. For the constrained agents, the cost of inflation is higher than the
+average in the no-shock model. We will evaluate the quantitative implications of this in the Welfare section.
+    Returning to velocity dynamics, the elasticity of consumption velocity with respect to i can be divided into credit-market
+and cash-market components εV c ;1 þ i ¼ sc ðεc;1 þ i εϕ;1 þ i Þ þ scash;nb  εψ;1 þ i , where sc is the share of the credit good in total
+consumption expenditure, and scash;nb is the share of cash consumption under non-binding preference shocks.
+
+Lemma 2. The elasticity of the cash market price with respect to the interest rate is always positive, and is given by
+
+                                        1 þi
+       εψ;1 þ i ¼ εð1 þ iÞ=ϕ;1 þ i ¼            40:                                                                                   ð16Þ
+                                       sðp þ iÞ
+
+
+   Thus, the less risk-averse the household is, or the smaller the probability of a binding constraint is, the more of the
+velocity fluctuations originate in the cash market, ceteris paribus.
+   To conclude the analytical discussion, we now incorporate the response of credit-good consumption c to changes in
+prices and interest rates. To do this, drop the linearity assumption on U(c); this adds a general-equilibrium feedback effect
+linking nominal interest rates and velocity, through substitution between cash and credit goods. The only assumption
+needed for analytical tractability is that capital is constant; while this shuts down one equilibrium effect, it does not alter the
+other effects of interest.
+
+Proposition 1. The implicit elasticity of consumption velocity with respect to the nominal interest rate, caused by a one-time
+fully anticipated money injection (in addition to the constant rate of money growth consistent with a given steady state level of
+1 þi), is
+                                                              
+                         1 1 þi                1þi          1
+       εV c ;1 þ i ¼ sc         1 þ scash;nb                                                                               ð17Þ
+                          s pþi                 pþi   εU′ðcÞ;qh þ s
+
+
+
+The proof is in Appendix B.3.
+   In (17), observe the channels through which idiosyncratic uncertainty works: (i) credit market effects through the left-
+most term; (ii) cash market channel through the right-side ð1 þ iÞ=ðp þiÞ term; and (iii) the general equilibrium substitution
+
+
+
+
+                                       Fig. 1. Contributions of idiosyncratic uncertainty to interest rate elasticity of velocity.
+                                         I.A. Telyukova, L. Visschers / Journal of Monetary Economics 60 (2013) 900–916                       907
+
+
+channel, through εU′ðcÞ;qh . We graph these components as a function of s in Fig. 1, with p ¼0.5. Idiosyncratic shocks raise the
+elasticity of velocity with respect to interest rates dramatically, as signified by the vertical difference between the grey
+dashed and black dashed lines in the graph, and allow for a positive elasticity for a much larger range of s. Note also that, in
+the difference between the top dotted and the top solid lines, the general equilibrium effect is small, but raises the elasticity
+further. Keeping the size of the cash market fixed, if p is lowered, the sensitivity of velocity to interest rates through the cash
+market channel increases.
+
+
+
+4. Calibration
+
+    The model period is a quarter. The utility function is CES:
+
+                       ððαcν þ ð1αÞϑqν Þ1=ν Þ1s
+           Uðc; qÞ ¼                                                                                                                      ð18Þ
+                                 1s
+
+We will calibrate the model both with this function and with the separable form used in most of the analytical work, which
+is a special case of the CES form. In that case, UðcÞ ¼ c1s =ð1sÞ and uðqÞ ¼ x1 q1s =ð1sÞ. The production function is Cobb–
+                     θ 1θ
+Douglas: f ðk; hÞ ¼ k h .
+    In the separable case, the parameters to be calibrated are β, s, A, θ and δ, as well as x1 and the process for the idiosyncratic
+shock ϑ. For the CES utility, the parameters are α, the share of credit goods in the consumption mix, and ν, the parameter
+that guides elasticity of substitution between cash and credit goods. Finally, the parameters of the exogenous processes fξg,
+sε1 and sε2 have to be calibrated.
+    We use the M2 measure of money supply to compute the nominal moments in the data. This choice follows the
+literature, e.g. Hodrick et al. (1991) and Wang and Shi (2006). Another reason is that M2 is more likely to be stationary than
+M1. But the most important reason for this choice is that in the data, liquid payment methods include not only cash, but also
+checks and debit cards, which implies inclusion in the monetary aggregate of checking accounts. In addition, it is intuitive, in
+studying precautionary money demand, that the monetary aggregate should include savings accounts. A concern may arise
+that some money in M2 earns interest, which does not happen in the model. In response to this concern, quantitative results
+are also presented for a modified version of the model, in which we allow interest to be paid on money that is carried over
+from period to period as savings by households. Appendix C presents this modification and the resulting equilibrium
+conditions. Notice that in this modified model, there is an extreme assumption that the representative liquid savings earn
+interest; in the data, a significant portion of the precautionary balances is held in non-interest-paying forms like cash and
+checking accounts (see Telyukova, 2013), so this approach likely overstates the share of interest-bearing liquid balances. The
+calibration of all the model versions is in Table 1.
+
+
+
+Table 1
+Calibrated parameters.
+
+ Parameter                            Separable                        CES                          Separable with im          CES with im
+
+ β                                    0.99                             0.99                         0.99                       0.99
+ s                                    2                                2                            2                          2
+ A                                    34                               5                            34                         5
+ x1                                   6                                –                            6.33                       –
+ α                                    –                                0.33                         –                          0.33
+ ν                                    –                                0.39                         –                          0.43
+ θ                                    0.36                             0.36                         0.36                       0.36
+ δ                                    0.02                             0.02                         0.02                       0.02
+ sϑ                                   0.41                             0.20                         0.39                       0.21
+
+ ξzz                                  0.94                             0.94                         0.94                       0.94
+ ξii                                  0.78                             0.78                         0.78                       0.78
+ ξiπ                                  0.13                             0.13                         0.12                       0.12
+ ξiy                                  0.01                             0.01                         0.01                       0.01
+ ξrr                                  –                                –                            0.89                       0.89
+ ξrr                                  –                                –                            0.01                       0.01
+ ξry                                  –                                –                             0.006                     0.006
+ ξrπ                                  –                                –                             0.05                      0.05
+ sε1                                  0.006                            0.006                        0.006                      0.006
+ sε2                                  0.001                            0.001                        0.001                      0.001
+ sε3                                  –                                –                            0.0007                     0.0007
+ sε2 ;ε3                              –                                –                             7  10  7                7  10  7
+
+“Separable” – benchmark model with separable utility; “CES” – benchmark with CES utility. “With im” is the version of the model with interest-
+bearing money.
+908                                    I.A. Telyukova, L. Visschers / Journal of Monetary Economics 60 (2013) 900–916
+
+
+4.1. Preference and production parameters
+
+    The preference and production parameters of the model are calibrated as follows. β ¼ 0:9901 matches the annual capital–
+output ratio of 3. s ¼ 2 is chosen within, and on the lower side of, the standard range of ½1; 4 in the literature. A is chosen
+each time to match aggregate labor supply of 0.3. The capital share of output is measured in the data to give θ ¼ 0:36.
+A quarterly depreciation rate of 2%, consistent with estimates in the data, gives δ ¼ 0:02.
+    For the separable model, the constant x1 is calibrated to match the size of the retail (cash) market. The target is 75% of the
+total consumption in the model, consistent with the aggregate fact, documented in Telyukova (2013), that roughly 75% of
+the total value of consumer transactions in 2001 took place using liquid payments methods – cash, checks, and debit cards.
+This number was quoted at 82% in 1986 in Wang and Shi (2006), based on a consumer survey.
+    In an alternative calibration, x1 is chosen to target the average level of M2 output velocity (Vy ¼1.897) in the data sample
+(1984–2007, as detailed below). This results in the size of the cash market of 50% of total consumption. The model calibrated
+this way produced the same dynamic results, so they are only shown in Section 5.3 for appropriate comparison (Table 7).
+    For the CES utility case, the parameter x1 is no longer used. The parameters α and ν have to be estimated jointly, together
+with sϑ , in a simulated method of moments procedure. For α, we target the size of the cash-good market, 75%. For the
+parameter ν, the target is the interest rate elasticity of the ratio of aggregate cash good consumption to aggregate credit good
+consumption. This measure is constructed using the Consumer Expenditure Survey over the period 1980–2004.10 Over the
+entire period, household non-durable consumption items are separated into cash goods and credit goods first, using the
+definitions discussed below for the calibration of preference shocks.11 Then using household weights, individual cash and
+credit good consumption are aggregated. For the desired elasticity, the cash-to-credit log-filtered consumption ratio is then
+regressed on the T-Bill rate. The resulting interest rate elasticity is  1.24. The model is able to hit the targets exactly in each
+calibration. In the model without interest-paying money, ν ¼ 0:39 implies the elasticity of substitution between the two
+types of goods of 1.6.
+
+4.2. Idiosyncratic preference shock process
+
+    Let the log of the preference shock be i.i.d. Nð0; sϑ Þ.12 We interpret the preference shocks as causing fluctuations in
+household liquid consumption beyond expected (e.g. seasonal or planned) fluctuations in the data. The process for this shock
+is calibrated following Telyukova (2013), based on quarterly data from the 2000–2002 Consumer Expenditure Survey (CEX).
+    The key measure is the unpredictable component of volatility of cash-good consumption in the data. This component is
+assumed to reflect optimal responses by households to unexpected preference shocks.13 The standard deviation of the shock
+process sϑ is estimated by SMM such that the standard deviation of cash-good consumption in the model matches that in
+the data.
+    The process of this measurement is described in Telyukova (2013) in detail. The first step is to separate out cash goods in
+the CEX data. Based on the American Bankers Association's 2004 survey of consumer payment methods, the following
+are defined as cash good: food, alcohol, tobacco, rents, mortgages, utilities, household repairs, childcare expenses, other
+household operations, property taxes, insurance, public transportation, and health insurance. Even in 2004, consumers
+reported paying for these types of goods with liquid assets (primarily cash and check) in 90% or more of transactions.
+This proportion would clearly be higher over the longer period of inquiry, 1984–2007. This definition is also conservative
+along some other dimensions. First, volatility of expenses could be driven by seasonality (e.g. Christmas gift shopping); to
+control for that in part, any expenses reported to be gifts are removed, and the regression analysis below also controls for
+seasonality. Second, the cash-good category excludes many situations that may be reflections of emergencies that require
+liquid payment, such as an emergency purchase of (or downpayment on) a durable to replace – rather than repair – a broken
+durable, such as a car or an appliance. Similarly, medical payments, which include co-pays or other out-of-pocket expenses,
+some of which are unpredictable and may require a liquid payment – are not included, because medical expenses may be
+payable by credit card today, even though historically this would not be the case. Thus, in measuring the volatility of cash-
+good consumption, using a lot of the “smooth” good categories while excluding many that may reflect emergencies other
+than household repairs, may understate the uncertainty that households face, against which they may hold liquid assets.
+    Using the above definition of cash goods, we estimate the following model:
+
+        log ðcliq
+              it Þ ¼ βXit þ ui þ εit
+        εit ¼ ρεi;t1 þηit :                                                                                                                             ð19Þ
+
+
+    10
+       Thanks to Dirk Krueger and Fabrizio Perri for providing us with the aggregated CEX data set for this period. All the expenditure components in their
+data set are deflated by the relevant component of the CPI.
+    11
+       Clearly, in the 1980s “cash good” in the data would have been a much broader group than the 2004 definition used here. However, in the absence of
+survey data from that period detailing which goods were and were not cash goods, the decision of when and how to change the definition over time
+becomes arbitrary. The approach here is the most conservative: to keep the definition constant.
+    12
+       Because of quasilinearity and credit markets, a shock process of the form ϑ′ ¼ ϑρ ε′ with ρ 4 0 would not change aggregate implications of the model,
+as can be shown from the first-order conditions of the problem.
+    13
+       The preference shocks reflect any situation from being locked out of one's house to a significant household repair that requires payment by cash or
+check, e.g. In these situations, not having the money to meet the expense is very costly, which is well captured by a parameter that shifts (marginal) utility.
+                                  I.A. Telyukova, L. Visschers / Journal of Monetary Economics 60 (2013) 900–916                   909
+
+
+The vector X includes, depending on specification, household observables, such as age (a cubic), education, marital status,
+race, earnings, family size, homeownership status, as well as a set of month and year dummies. ui is the household
+fixed effect. The residual εit is the idiosyncratic component of liquid consumption, consisting of persistent and transitory
+components. Since the preference shock is assumed i.i.d., the autoregressive component above is taken as predictable, and
+the innovation ηit as reflecting household response to the preference shocks. Table 2 presents the standard deviation of ηit
+based on the benchmark cash-good measure, and two alternatives that exclude some more predictable expense groups. The
+most conservative benchmark standard deviation of 19.6% is used in estimation.
+    The estimate of the standard deviation of the log-preference shock that results from the SMM procedure is sϑ ¼ 0:4045 in
+the separable model, and 0.2042 in the CES model, where in the latter case, the parameter is estimated jointly with α and ν.
+The values adjust slightly if money savings are made interest-bearing in the model. The i.i.d. shock is discretized with
+five states using the Tauchen (1986) method, with shocks at maximum two standard deviations away from their mean.
+To convince the reader that we do not overstate the amount of uncertainty in expenses through the shock calibration, Fig. 2
+presents the steady-state distribution of the log of liquid consumption in the model, and compares it to the empirical
+distribution of the log-consumption residual (ηit ), with bins centered at the same states as in the model. It is key for the
+quantitative performance of the model that the probability of binding shocks is captured correctly; in this 5-state
+calibration, this is reflected in the top consumption state, as only the top shock binds in the calibrated equilibrium. From the
+figure, it is apparent that this probability is captured accurately. The discretized shock process implies that 7% of households
+have a binding cash constraint each period and spend all of their money. This is consistent with the findings of Telyukova
+(2013) that 5–7% of households have no liquid assets at a given point in time. The remaining 93% of households, in the model
+as in the data, are wealthy enough to hold liquid assets continually.
+
+
+4.3. Aggregate shock processes
+
+   The technology and monetary policy shocks are modeled as two separate processes, as described above. For the model
+with no interest paid on money, these are estimated as
+      zt ¼ ξzz zt1 þ ε1
+                                                                    
+          1 þ it              1 þ it1             1 þ π t1           y
+      ln           ¼ ξii ln              þ ξiπ ln              þξiy ln t1 þ ε2
+           1þi                 1þi                  1þπ                  y
+
+
+zt is the Solow residual measured in the standard way, with the linear trend extracted from the Solow residual and output.
+The variables with bars capture long-term averages of the respective variables in the sample period, 1984–2007, as is
+standard in estimating central banks' targets in policy rules. The choice of years captures the period when the Federal
+
+                    Table 2
+                    Unpredictable volatility of liquid consumption, quarterly CEX data.
+
+                      Measure of cash goods                                                       Standard deviation of ηit (%)
+
+                      Benchmark                                                                   19.6
+                      Excluding food                                                              27.5
+                      Excluding food and property taxes                                           29.4
+
+                    Standard deviation, converted into percent, of the transitory component of the residual of the regression of
+                    log-cash good consumption on household characteristics, CEX 2000–2002. See Eq. (19).
+
+
+
+                                                 Steady State Distribution of Consumption States, 5 Shocks
+                                   0.7
+
+                                   0.6
+
+                                   0.5
+
+                                   0.4
+
+                                   0.3
+
+                                   0.2
+
+                                   0.1
+
+                                     0
+                                            -0.399         -0.196         0.006           0.208              0.322
+
+                                                                       Data    Model
+
+                              Fig. 2. Distribution of log-consumption of cash goods, data versus model discretization.
+910                                   I.A. Telyukova, L. Visschers / Journal of Monetary Economics 60 (2013) 900–916
+
+
+Reserve used (implicit) inflation targeting. Notice that the interest rate rule depends on endogenous variables. The interest
+rate variable is the Federal Funds rate.
+   For the model with interest-paying money, denote by R the ratio ð1 þ im Þ=ð1 þ ib Þ, where im is the interest rate paid on
+money, and ib is the interest rate on bonds. The second equation above becomes the following system, estimated by VAR
+using M2 own interest rate for im:
+                 !                     !                                  
+          1 þibt             1 þ ibt1             1 þπ t1             y
+      ln           ¼ ξii ln              þξiπ ln              þ ξiy ln t1 þ ε2
+          1 þ ib              1 þib                 1 þπ                  y
+                                                !                                  
+                                                b
+          Rt              Rt1            1 þ it1              1 þ π t1             y
+      ln       ¼ ξrr ln          þ ξri ln             þ ξrπ ln              þ ξry ln t1 þ ε3 :
+           R               R                1 þ ib                1þπ                   y
+
+
+
+
+5. Results
+
+   To highlight the quantitative role of precautionary demand for money, we compute, in addition to the four versions of
+the model above, a version of the separable benchmark with the preference shocks shut down. In this version, all agents
+receive the highest preference shock with probability 1; thus everyone's cash constraint always binds. This is the “no-shock
+model”; it closely replicates standard cash-credit goods models with only aggregate risk. The computational method is in
+Appendix D.
+
+5.1. The role of precautionary money demand
+
+   Table 3 summarizes the dynamic properties of some key nominal variables. The first column of the table presents the
+data moments. The second column presents the results for the no-shock model. The last four columns show the results in
+the model with separable and CES utility, with and without interest-paying money. Notice that none of the result moments
+are targeted in calibration.
+   For any model version, precautionary demand for money makes a dramatic difference for the performance of the model:
+without it, the model is not able to capture almost any of the moments in the data, while introducing precautionary demand
+makes the model align successfully on nearly all of the dimensions. When mean output velocity is not a target, the model
+underpredicts the level of both velocities. In this model, as in other monetary business-cycle models, money turns over only
+once a quarter, so it is not surprising that the level is not high enough. It is also not surprising that in the no-shock model,
+mean velocity is higher than in the model with shocks; when the cash constraint always binds, the cash market contributes
+exactly 1 to velocity level every period. In the model with shocks, that contribution is less than 1 for all the non-binding
+shock realizations; all but 7% of the households do not spend all of the money, and hence contribute less than 1 to velocity.
+
+Table 3
+Dynamic properties of the model.
+
+ Moment                    Data               No-shock model            Separable           CES                Separable with im       CES with im
+
+ EðV y Þ                     1.897              1.812                     1.357               1.339              1.293                   1.248
+ EðV c Þ                     1.120              1.380                     1.033               1.020              0.984                   0.950
+
+ sðV y Þ                     0.017              0.010                     0.014               0.021              0.011                   0.013
+ sðV c Þ                     0.014              0.0002                    0.012               0.019              0.006                   0.009
+
+ sðyÞ                        0.009              0.012                     0.012               0.012              0.012                   0.012
+ sð1 þ ib Þ                  0.0026             0.001                     0.002               0.0025             0.002                   0.002
+
+ corrðV y ; yÞ               0.638              0.993                     0.585               0.386              0.817                    0.684
+ corrðV y ; gy Þ             0.059              0.289                     0.142               0.078              0.217                    0.159
+ corrðV c ; gy Þ            0.094              0.110                    0.071              0.065             0.074                   0.084
+ corrðV y ; gc Þ             0.127              0.539                     0.233               0.109              0.242                    0.464
+ corrðV c ; gc Þ            0.027              0.176                    0.155              0.148             0.128                   0.134
+
+ corrðV y ; 1þ ib Þ          0.714             0.210                     0.645               0. 558             0.390                   0.585
+ corrðV c ; 1þ i Þ b         0.690             0.896                     0.897               0.648              0.912                   0.915
+ εV y ;1 þ ib                5.072             1.747                     4.546               4.744              2.542                   4.115
+ εV c ;1 þ ib                4.158             0.123                     5.072               5.046              3.363                   4.653
+
+ corrð1 þ π; 1 þ ib Þ        0.529              0.768                     0.361              0.032              0.572                   0.465
+
+All data logged and BP filtered. Data period: 1984–2007. Velocity moments calculated based on M2. Bond interest rate is the Fed Funds rate. Inflation
+measured based on GDP deflator. gy refers to output growth. “Separable” – benchmark model with separable utility; “CES” – benchmark with CES utility.
+“With im” is the version of the model with interest-bearing money. “No-Shock” model is the version of the separable model with idiosyncratic preference
+shocks shut down.
+                                        I.A. Telyukova, L. Visschers / Journal of Monetary Economics 60 (2013) 900–916                                911
+
+
+If the level of velocity is targeted instead, the model matches the levels well without affecting the rest of the moments
+(see Table 7).
+    Focusing first on the models without interest-bearing money, as the analytical results suggested, the models with
+preference shocks do much better, in terms of volatility of velocity, than those without. This is true even with the relatively
+low risk aversion parameter, a parameter that needed to be high in both Hodrick et al. (1991) and Wang and Shi (2006) to
+begin to get significant velocity volatility. For output velocity, the separable model with the preference shocks produces 40%
+higher volatility than the no-shock model; for consumption velocity, the benchmark produces 60 times the volatility of
+the no-shock model. As discussed in the theory section, the reason is that with the introduction of preference shocks, the
+cash market contributes significantly to volatility of velocity, whereas it would contribute nothing if the cash constraint
+was always binding. Notice also that the model with precautionary demand gets the proportion of consumption velocity to
+output velocity volatility right, while it is very far off target in the no-shock model. Since consumption velocity is a major
+component of output velocity, consumption expenditure being 75% of GDP, the no-shock model is an unsatisfying theory of
+velocity dynamics because these dynamics come from the wrong source in that model.
+    Due to the properties of the exogenous driving process, output volatility is slightly and equally overpredicted in both the
+benchmark and the no-shock models. The latter, however, underpredicts volatility of velocity dramatically; thus, excess
+output volatility is not creating excess velocity volatility.
+    The model with preference shocks replicates most other moments very well too, and much better than the model
+without shocks. From the model analysis, we know that for s 4 1, as it is here, the correlation of velocity with nominal
+interest rates, and its elasticity, will be negative in the no-shock model, counter to the data. The relevant rows in the table
+confirm this. Instead, with the preference shocks, the relationship between velocity and nominal interest rates has
+the correct sign and magnitude. The correlations of output with growth of output and consumption also flip signs relative to
+data if the model has no idiosyncratic risk; with the shocks, the signs are correct, and the magnitudes mostly close.
+    The CES and separable models produce almost the same results; in the CES case, volatility of velocity is even slightly high.
+If the separable model is changed to have interest-bearing money, the role of precautionary demand for money is robust.
+The presence of interest payment on money reduces model volatility of velocity, and elasticity of velocity with respect to the
+bond interest rate, particularly in the separable model. This is not surprising: for unconstrained households, consumption in
+the cash market now responds to the movement not of the bond interest rate, but to the ratio of bond-to-money interest
+rates, which dampens the response of cash consumption. In addition, due to the extreme assumption that all precautionary
+balances earn interest, our model likely presents the lower bound on volatility of velocity. Notice, however, that with
+CES and interest-bearing money, we recover most of the volatility properties, as well as other dynamic properties, of the
+benchmark without interest-bearing money; in some dimensions, the model's performance even improves relative to data.
+This is a strong endorsement for the role of precautionary demand for money: not only does the model do well along the
+standard dimensions in the literature, where typically money is not modeled as interest-bearing and is calibrated to M2, but
+it passes an even higher bar of introducing interest-bearing money.
+    Table 4 presents the dynamic behavior of real balances (M/P), as well as autocorrelations of velocity, inflation and real
+balances. These moments, all close to the data in the benchmark model, show that velocity volatility does not come from
+excessive volatility in the value of the money stock or from volatility at the wrong frequency. Also, in the no-shock model,
+volatility of real balances is extremely low, again implying that it is unable to reproduce dynamics of the sources of velocity
+fluctuations.
+
+
+5.2. Some other aggregate facts
+
+   We now assess the performance of the model against an additional set of monetary features of the business cycle,
+presented in Table 5. The first five columns list the performance of the model against the data, while the last two show the
+comparable moments from the data sample and model of Cooley and Hansen (CH, 1995). The facts are that velocity is
+procyclical, prices are countercyclical, and that the correlation of output and inflation with the growth of money supply is
+negative, with the latter being small. The model matches these facts and gets the magnitudes about right. The correlation
+of money growth and inflation is the only fact that is affected by introduction of interest-bearing money: the sign reverses,
+
+Table 4
+Properties of velocity volatility.
+
+  Moment                        Data           No-Shock model              Separable            CES             Separable with im       CES with im
+
+  sðM=PÞ                        0.013          0.003                       0.012                0.018           0.007                   0.010
+  corr(V y ; V y;1 )           0.941          0.898                       0.898                0.902           0.901                   0.903
+  corr(V c ; V c;1 )           0.937          0.896                       0.898                0.902           0.911                   0.911
+  corr(π; π 1 )                0.901          0.870                       0.844                0.840           0.864                   0.851
+  corr(M=P; M=P 1 )            0.944          0.921                       0.898                0.901           0.908                   0.908
+
+All data logged and BP filtered. Data period: 1984–2007. Velocity and money supply moments calculated based on M2. Inflation measured based on GDP
+deflator. “Separable” – benchmark model with separable utility; “CES” – benchmark with CES utility. “With im” is the version of the model with interest-
+bearing money. “No-Shock” model is the version of the separable model with idiosyncratic preference shocks shut down.
+912                                       I.A. Telyukova, L. Visschers / Journal of Monetary Economics 60 (2013) 900–916
+
+
+although in the CES case, the magnitude approaches zero. Even so, the model performs better than the CH model on all
+dimensions. See Appendix E for cross-correlations of some real and nominal variables with output in the model.
+   Finally, Table 6 highlights some aspects of the data that the model is not so successful in capturing. As the previous
+models in its class, the model misses the liquidity effect, i.e. the negative correlation of nominal interest rates with money
+growth, and prices and inflation are too flexible relative to data. The CH cash-in-advance model similarly misses these
+moments. The absence of the liquidity effect is not surprising, since by design, the model lacks rigidity in price adjustment.
+
+
+Table 5
+More monetary business cycle facts.
+
+ Moment                  Data                  Sep.                CES                 Sep. þim           CESþ im               CH data    CH
+
+ corrðV ; yÞ               0.64                  0.58                0.39                0.82               0.68                  0.37        0.948
+ corrðp; yÞ               0.13                 0.28               0.10               0.26              0.28                 0.57       0.22
+ corrðg m ; yÞ            0.11                 0.15               0.10               0.27              0.25                 0.12       0.01
+ corrðg m ; πÞ            0.06                 0.13               0.40                0.38               0.07                 0.29        0.92
+
+All data logged and BP filtered. Data period: 1984–2007. Velocity moments calculated based on M2. Inflation and prices measured based on GDP deflator.
+gm refers to money supply growth. “Separable” – benchmark model with separable utility; “CES” – benchmark with CES utility. “With im” is the version of
+the model with interest-bearing money.
+
+
+                       Table 6
+                       Liquidity effect.
+
+                          Moment                Data                         Separable model           CH data             CH model
+
+                          corrðgm ; iÞ           0.7(M1)/0.07(M2)              0.79                     0.27               0.72
+                          corrðy; iÞ              0.54                         0.13                      0.40              0.01
+                          corrðy; πÞ              0.37                         0.25                      0.34              0.14
+                          corrðg m ; pÞ           0.03                          0.61                     0.16               0.43
+
+                       All data logged and BP filtered. Data period: 1984–2007. Money supply moments calculated based on M2.
+                       Bond interest rate is the Fed Funds rate. Inflation measured based on GDP deflator. gm refers to money
+                       supply growth. “Separable” – benchmark model with separable utility.
+
+
+                   Table 7
+                   No-shock model targeting money demand in the data, separable utility.
+
+                     Moment                             Data                     Separable                       No-shock model
+                                                                                 (target EðV y Þ)                (target money demand)
+
+                     EðV y Þ                              1.897                    1.898                           1.895
+                     EðV c Þ                              1.120                    1.445                           1.442
+
+                     sðV y Þ                              0.017                    0.014                           0.028
+                     sðV c Þ                              0.014                    0.011                           0.003
+
+                     sðyÞ                                 0.009                    0.012                           0.022
+                     sðcÞ                                 0.005                    0.003                           0.012
+                     sðinvÞ                               0.050                    0.044                           0.114
+
+                     sð1þ iÞ                              0.0026                   0.002                           0.002
+
+                     corrðV y ; yÞ                        0.638                    0.602                           0.905
+                     corrðV y ; g y Þ                     0.059                    0.145                           0.411
+                     corrðV c ; g y Þ                    0.094                   0.070                          0.185
+                     corrðV y ; g c Þ                     0.127                    0.262                           0.323
+                     corrðV c ; g c Þ                    0.027                   0.139                           0.256
+
+                     corrðV y ; 1 þ iÞ                    0.714                    0.638                           0.333
+                     corrðV c ; 1 þ iÞ                    0.690                    0.897                           0.999
+                     εV y ;1 þ i                          5.072                    4.469                           5.030
+                     εV c ;1 þ i                          4.158                    4.994                           1.763
+
+                     corrð1þ π; 1 þ iÞ                    0.529                    0.358                           0.657
+
+                     RRA s                                                         2.0                             0.15
+
+                   All data logged and BP filtered. Data period: 1984–2007. Velocity moments calculated based on M2. Bond interest
+                   rate is the Fed Funds rate. Inflation measured based on GDP deflator. gy refers to output growth. Benchmark: sepa-
+                   rable model, calibrated to target EðV y Þ. “No-Shock” model is the version of the separable model with idiosyncratic
+                   preference shocks shut down. Bolded quantities represent calibration targets. RRA s is the value of the relative risk
+                   aversion parameter needed in calibration in order to match the targets.
+                                       I.A. Telyukova, L. Visschers / Journal of Monetary Economics 60 (2013) 900–916                                       913
+
+
+5.3. Pitfalls of calibration without precautionary demand
+
+      If precautionary demand for money is omitted from the model, the standard practice of calibrating monetary models to
+aggregate money demand (e.g. Rotemberg and Woodford (1997), Lagos and Wright (2005)), which may have a significant
+precautionary component in the data, may produce misleading parameter values and thus affect the quantitative
+performance of the model. To demonstrate this, we consider a version of the separable no-shock model where the
+calibration now uses two standard targets in the monetary literature: the expected value of velocity, EðV y Þ, and the elasticity
+of inverse velocity with respect to the nominal interest rate, εV;1 þ i . This exercise produces different values for parameters
+x1 (0.51), A (3.1) and, most importantly, the RRA parameter s. The model without preference shocks can only reproduce the
+monetary targets with the value of s ¼ 0:15. This is not surprising: the analytical result was that the no-shock model cannot
+get the sign of the elasticity of velocity with respect to nominal interest rates right unless s o 1.
+      The dynamic properties of this model are presented in Table 7, which compares our separable model, now calibrated to
+match EðV y Þ, with the no-shock model with the same target. Even when targeting EðVÞ and εV ;1 þ i , the no-shock model does
+badly along other nominal dimensions, even for the same moments of consumption velocity, and now the quantitative
+implications on the real side of the model suffer noticeably as well. For instance, here the no-shock model doubles volatility
+of output, consumption and investment relative to data, while the benchmark gets these standard deviation measures fairly
+close to the data. In other words, even if one were willing to accept the calibrated parameters that this exercise requires,
+the results that the no-shock model produces are far inferior to the performance of the benchmark with preference shocks.
+This is true along both nominal and real dimensions, even though the no-shock model is rigged in its parameters to do well
+quantitatively on the nominal side.
+      With CES utility, one can derive the value of the parameter ν needed in order to match the target εV c ;1 þ i ¼ 4:15,
+as described above. First, the elasticity of consumption velocity with respect to the nominal interest rate is given by
+εV c ;1 þ i  scr ðc=ðc þ qÞÞν=ð1νÞ  4:15. With credit consumption c=ðc þ qÞ at 47% of total consumption, as was the case to target
+the expected level of consumption velocity, this expression implies the parameter ν ¼ 0:915. If we target the credit
+consumption share of 25%, as in the SMM procedure described before, then we derive ν ¼ 0:94. These values of parameters
+imply elasticity of substitution between cash and credit goods of 11.8 and 20, respectively, for the CES model with no
+preference shocks to match the elasticity target.
+      But the model with no preference shocks also gives a closed-form implication for the parameter ν that can be estimated
+in the data directly. The model with CES utility implies the MRS between cash and credit goods to be ðð1αÞ=αÞðq=cÞν1 ¼
+1 þ i. Taking logs and rearranging yields
+                q                
+                               1α 1         1
+            log      ¼ log              þ      log ð1 þiÞ:
+                  c              α ν1 ν1
+
+Based on logged and detrended data used before, the result is ν ¼ 0:85, which implies the elasticity of substitution between
+the two goods of 6.8. Thus the data targets once again prove impossible to match using the model with no precautionary
+demand. To sum up, omitting precautionary money demand from monetary models may produce inaccurate results in not
+only matching data facts, but also conducting policy experiments and drawing normative conclusions.
+
+
+6. Welfare costs of inﬂation
+
+    The model is now used, in the spirit of Lucas (2000), to evaluate the welfare cost of both anticipated and unanticipated
+inflation.14 As discussed above, in a model without precautionary demand for money, all agents bear the inflation tax
+equally: it comes from the wedge in the marginal rate of substitution between the cash and credit good created by the
+nominal interest rate. In the model with idiosyncratic risk, changes in steady state inflation distort cash-good consumption
+only for the binding shock realizations, but the constrained households value this consumption more than average, and are
+therefore more sensitive to these distortions.15 Relative to a model without precautionary demand, the first channel would
+diminish the welfare cost of inflation, because not all agents bear it, while the second would increase it for the constrained
+agents. Comparing steady states, the welfare cost of inflation is the percentage reduction in consumption under the
+Friedman Rule that would make a household indifferent between the Friedman Rule and higher inflation. This measure is
+1Δ, with π FR denoting inflation at the Friedman Rule:
+         UðΔcðπ FR ÞÞ þ E½ϑuðΔqϑ ðπ FR ÞÞAhðπ FR Þ ¼ UðcðπÞÞ þ E½ϑuðqϑ ðπÞÞAhðπÞ:
+
+We solve for Δ, and derive the steady state quantities in closed form (see Appendix F). The dashed line in panel (a)
+of Fig. 3 is the welfare cost of inflation in the no-shock model; the solid line is the cost of welfare in the model with
+idiosyncratic shocks.
+
+    14
+       For another treatment of the welfare cost of inflation in a Bewley-type model, see also Wen (2012).
+    15
+       In the model, the timing is such that it is the firms who take cash from one period to the next, after selling the cash goods. Given free entry of firms,
+the full incidence of the inflation tax is still borne by the households, because they pay a higher price for cash goods than for credit goods, adjusted for
+marginal utility.
+914                                     I.A. Telyukova, L. Visschers / Journal of Monetary Economics 60 (2013) 900–916
+
+
+
+                                              .03
+
+
+
+
+                                              .02
+
+
+
+
+                                              .01
+
+
+
+
+                                               0
+
+                                                        0        20              40             60              80      100
+                                                                         Annual Inflation (Percent)
+
+                                                                  Idiosyncratic Shocks                No−shock Model
+
+
+
+                                             .025
+
+
+
+                                              .02
+
+
+
+                                             .015
+
+                                welf_unpdf
+                                              .01
+
+
+
+                                             .005
+
+
+
+                                               0
+
+                                                    0        2               4              6               8          10
+                                                            Standard Deviation of Quarterly Inflation (Percent)
+
+                  Fig. 3. Welfare cost of inflation. (a) Inflation level and (b) inflation uncertainty, 2% annual average inflation.
+
+
+
+
+    First, the welfare cost of 10% yearly inflation, relative to the Friedman rule, is 0.2% of the efficient level of consumption
+in the no-shock model, but is more than twice that, 0.5%, in the benchmark model with idiosyncratic risk. Second, the
+difference between the two lines is increasing with the level of annual inflation. This is because not only the cost of inflation
+increases for a given constrained agent as inflation rises, but in addition, the proportion of constrained agents increases with
+inflation. At 100% inflation, where in the benchmark model close to 30% of households are constrained, compared to only 7%
+at inflation rates below 9%, the welfare cost in the no-shock model is 1.6%, while in the model with shocks, it is 2.8%. Thus, a
+model with a full distribution of idiosyncratic shocks allows a better approximation of welfare costs at high levels of
+inflation than models in which the cash constraints always binds, and in which the share of consumption subject to this
+constraint is calibrated using velocity in low-inflation data. The underestimate of welfare costs in the no-shock model is
+increasing over a large range of inflation (at least up to an annual inflation of 1200%), and is relatively stable afterwards.
+    Regarding unanticipated inflation, in the benchmark model, there is no uncertainty about inflation within a period: the
+current aggregate state is revealed at the beginning of the period, households make their decisions on how much money to
+hold, and firms set supply of the cash good, knowing the value of money, and hence the cash-good price, in advance. One
+can modify the timing of the model, however, to introduce inflation “surprises”, so that households and firms make their
+credit-market decisions before they know the second-subperiod price level. We modify the benchmark to allow households
+to find out the aggregate state of the economy for period tþ1 at the start of subperiod 2 of t. The information structure in
+this model is meant to be comparable to Svensson (1985); the details are in Appendix G.
+    This timing adjustment adds a distortion from increases in inflation, because the cash-good price ψ t will adjust mid-
+period to the information regarding next period's aggregate state. Now retail firms decide on how much good qt to take out
+of the credit market, and households choose money holdings, before they know ψ t . Suppose that households observe that
+inflation will be higher than expected, implying lower value of money ϕt þ 1 . The constrained households cannot increase
+their cash-good consumption, and can buy less in the high-shock state than they expected before. However, the supply of
+                                        I.A. Telyukova, L. Visschers / Journal of Monetary Economics 60 (2013) 900–916                                       915
+
+
+the cash good is fixed from the credit market, and the shortfall of demand from constrained households has to be made up
+by demand from unconstrained households. This means that relative to a case without unexpected inflation, the MRS of a
+constrained household will increase as its consumption will decline, while that of an unconstrained household will be lower
+than 1, so the distortion between the two types of households is exacerbated by unexpected inflation changes. Thus, an
+unexpected increase in inflation would decrease welfare by a larger amount than an expected increase, because q cannot
+adjust. As a result, a mean-preserving increase in the variance of inflation shocks can lower ex-ante welfare in this version of
+the model, whereas it would have no impact in the model with no inflation surprises. As panel (b) of Fig. 3 shows, welfare
+cost of inflation uncertainty accelerates as the standard deviation of log-inflation increases; the welfare cost of 10% standard
+deviation of inflation is just below 2.5% of consumption.
+
+7. Conclusion
+
+    This study demonstrates, theoretically and quantitatively, the importance of modeling the precautionary motive for
+holding liquidity. By incorporating idiosyncratic expenditure risk into a standard monetary model with aggregate risk,
+and by carefully calibrating the idiosyncratic shocks to data, we find that the model matches many dynamic moments of
+nominal variables well, and greatly improves on the performance of existing monetary models without such shocks.
+In addition, omitting precautionary demand while targeting, in calibration, data properties of money demand – a standard
+calibration practice – produces inferior performance in terms of matching the data, potentially misleading implications
+for parameters of the model, and an understatement of welfare costs of inflation, and may therefore adversely affect the
+model's policy implications as well.
+
+
+Acknowledgments
+
+   For helpful comments, we thank Alexander Wolman and an anonymous referee, as well as Jonathan Chiu, Makoto
+Nakajima, Fernando Alvarez, Manuel Amador, Paul Beaudry, Miquel Faig, Belén Jerez, Allen Head, Amartya Lahiri, Fernando
+Martin, Martin Schneider and Shouyong Shi as well as seminar participants at UCLA, UCSD, UC Irvine, UC Riverside, Stanford,
+University of Carlos III Madrid, University of Chicago, UBC, SFU, Zürich, Leicester and conference participants at EERTEC
+Florence, 2009 Philadelphia Fed Workshop on Monetary and Macroeconomics, LAEF Payments and Networks Conference at
+UCSB, CMSG Annual Meetings 2008, Chicago Fed Summer Workshop on Money, Banking and Payments, NES Moscow and
+IHS Vienna. We completed a previous version of this paper while visiting the Einaudi Institute for Economics and Finance.
+Visschers acknowledges SFU’s President’s Research Grant, UC3M Instituto de Economia, Project Grant ECO2010-20614 by
+Direccion General de Investigacion Cientifica y Tecnica (Spanish Ministry of Economic Affairs), the Juan de la Cierva Grant
+(Spanish Ministry of Economic Affairs), and the Bank of Spain's Programa de Investigacion de Excelencia.
+
+Appendix A. Supplementary material
+
+   Supplementary data associated with this article can be found in the online version at http://dx.doi.org/10.1016/j.jmoneco.
+2013.08.006.
+
+
+
+References
+
+Alvarez, F., Lippi, F., 2009. Financial innovation and the transactions demand for cash. Econometrica 77 (2), 363–402.
+Cooley, T., Hansen, G., 1995. Money and the business cycle. In: Cooley, T. (Ed.), Frontiers of Business Cycle Research, Princeton University Press., pp. 175–216.
+Diamond, D., Dybvig, P., 1983. Bank runs, deposit insurance, and liquidity. Journal of Political Economy 91 (3), 401–419.
+Faig, M., Jerez, B., 2006. Precautionary balances and velocity of circulation of money. Journal of Money, Credit and Banking 39 (4), 843–873.
+Hansen, G., 1985. Indivisible labor and the business cycle. Journal of Monetary Economics 16 (3), 309–327.
+Hodrick, R., Kocherlakota, N., Lucas, D., 1991. The variability of velocity in cash-in-advance models. Journal of Political Economy 99 (2), 358–384.
+Hagedorn, M., 2008. A monetary model with strong liquidity effects. Mimeo, University of Zurich.
+Keynes, J.M., 1936. The General Theory of Employment, Interest and Money. Prometheus Books.
+Lagos, R., Rocheteau, G., 2005. Inflation, output and welfare. International Economic Review 46 (2), 495–522.
+Lagos, R., Wright, R., 2005. A unified framework for monetary theory and policy analysis. Journal of Political Economy 113 (3), 463–484.
+Levine, D.K., 1991. Asset trading mechanisms and expansionary policy. Journal of Economic Theory 54 (1), 148–164.
+Lucas, R., 1980. Equilibrium in a pure currency economy. Economic Inquiry 18, 203–220.
+Lucas, R., 2000. Inflation and welfare. Econometrica 68, 247–274.
+Lucas, R., Stokey, N., 1987. Money and interest in a cash-in-advance economy. Econometrica 55 (3), 491–513.
+Rocheteau, G., Wright, R., 2005. Money in search equilibrium, in competitive equilibrium, and in competitive search equilibrium. Econometrica 73 (1),
+    175–202.
+Rogerson, R., 1988. Indivisible labor, lotteries, and equilibrium. Journal of Monetary Economics 21 (1), 3–16.
+Rotemberg, J., Woodford, M., 1997. An optimization-based econometric framework for the evaluation of monetary policy. NBER Macroeconomics Annual
+    12, 297–346.
+Svensson, L., 1985. Money and asset prices in a cash in advance economy. Journal of Political Economy 93, 919–944.
+Tauchen, G., 1986. Finite state Markov-chain approximations to univariate and vector autoregressions. Economics Letters 20, 177–181.
+Telyukova, I.A., 2013. Household need for liquidity and the credit card debt puzzle. Review of Economic Studies 80 (3), 1148–1177.
+Telyukova, I.A., Wright, R., 2008. A model of money and credit, with application to the credit card debt puzzle. Review of Economic Studies 75 (2), 629–647.
+916                                   I.A. Telyukova, L. Visschers / Journal of Monetary Economics 60 (2013) 900–916
+
+
+Temzelides, T., Yu, J., 2004. Lack-of-recall and centralized monetary trade. International Economic Review 45 (4), 1221–1227.
+Wallace, N., 2001. Whither monetary economics? International Economic Review 42 (4), 847–870.
+Wang, W., Shi, S., 2006. The variability of velocity of money in a search model. Journal of Monetary Economics 53, 537–571.
+Wen, Yi, 2012. Liquidity and Welfare. Federal Reserve Bank of St. Louis Working Paper 2012-037A.
+Whalen, E.L., 1966. A rationalization of the precautionary demand for cash. Quarterly Journal of Economics 80, 314–325.
+

@@ -1,0 +1,4 @@
+frequency,calendar_years,liquid_share_column,measure,n_stage1,n_ar,n_households_stage1,n_households_ar,rho,eta_sd_log_points,eta_sd_percent
+monthly,2018-2019,weighted_dollar_share_broad,benchmark,131847,110829,19858,19858,0.1405246873167233,0.27136654798584364,27.136654798584363
+monthly,2018-2019,weighted_dollar_share_broad,excluding_food,131417,110469,19786,19785,0.1392355688496604,0.28531715969988336,28.531715969988337
+monthly,2018-2019,weighted_dollar_share_broad,excluding_food_property_taxes,131285,110352,19767,19764,0.10935748820355934,0.32467466011964186,32.467466011964184

@@ -1,0 +1,2076 @@
+Household Need for Liquidity and the Credit Card Debt Puzzle
+Author(s): IRINA A. TELYUKOVA
+Source: The Review of Economic Studies, July 2013, Vol. 80, No. 3 (284) (July 2013), pp.
+1148-1177
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/43551459
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+.facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+
+
+
+            Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access to The Review of
+            Economic Studies
+
+
+
+
+                                                      This content downloaded from
+                                    89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                              All use subject to https://about.jstor.org/terms
+Review ofEconomic Studies (2013) 80,1148-1 177                                  doi: 10.
+                                                                                       1093/restud/rdt001
+©The Author  2013. Published byOxfordUniversity    onbehalf ofThe Review ofEconomic Studies Limited.
+                                               Press
+Advance access publication9 January
+                                  2013
+
+
+
+
+     Household                              Need                 for
+                                                                              Liquidity
+
+   and          the          Credit                 Card               Debt           Puzzle
+
+
+                                      IRINA A. TELYUKOVA
+                                  University of California, San Diego
+
+                   First
+                       version                    version
+                            received May 2009; final   accepted October 2012 (Eds.)
+
+
+            Inthe2001 U.S. Survey   ofConsumer Finances, 27% ofhouseholds report    simultaneously   revolving
+      significantcreditcarddebt  and holdingsizeable amounts  oflow-return liquid assets; thisisknown    as the
+      "creditcard ebt  puzzle". Inthis
+                                     article,
+                                           I quantitativelyevaluate the roleofliquiditydemand inaccounting
+      forthispuzzle: households thataccumulate creditcard ebt may   notpayitoff using theirmoney   inthe bank,
+      because they anticipateneeding thatmoney  insituations where  credit
+                                                                         cards cannot  be used. I characterize
+      thepuzzle insurvey   data, andcalibratea dynamic   stochastic heterogeneous-agent  model ofhousehold
+      portfoliochoice, where consumer  credit
+                                            andliquidity  coexist as means ofconsumption    andsaving,  where
+      households consume a cash good and a credit good, and where  cash consumption  issubject touncertainty.
+      The model accounts for  between 44% and 56% ofthe   households inthe data who hold   consumer   debt and
+              simultaneously,
+      liquidity                and for100% ofthe liquidityheld bya median suchousehold. Under       reasonable
+      calibrationalternatives,themodel can capture  the ntire puzzle group  size as well. One-half ofmoney
+      demand inthe   model isprecautionary.
+
+      Keywords  :Credit card ebt,  precautionarydemand for  money
+      JEL Codes : E21, E41
+
+
+
+
+                                           1.   INTRODUCTION
+In the 2001 U.S. Survey of Consumer Finances, 27% of households reported revolving an average
+of $5,766 in credit card debt, with an APR of 14%, and simultaneously, holding an average of
+$7,338 in liquid assets, with a return rate of around 1%. In fact, 84% of households who revolved
+credit card debt had some liquid assets that could be, but were not, used for credit card debt
+repayment. This apparent violation of the no-arbitrage condition has been termed the "credit card
+debt puzzle".
+   This article is the first
+                           to focus on need for liquidity as an explanation for the puzzle: households
+that accumulate credit card debt may choose not to pay itoff using money in the bank because they
+anticipate needing that money in situations where credit cards cannot be used. Some household
+monthly expenditures are not payable with credit cards. These expenses are substantial, and may
+be predictable (such as mortgage and rent payments, utilities, babysitting, and daycare services),
+or unpredictable (such as major household repairs, auto repairs, and other types of emergencies).
+Households face uncertainty regarding which types of expenses will be necessary in a given
+month, and whether credit will be accepted in payment. For example, large contractors may
+accept credit cards for home repairs, while smaller outfits may not. The unpredictable nature of
+cash needs may warrant holding large liquid balances for precautionary reasons, in addition to
+holding money for predictable cash expenses, since inability to pay in emergencies may be very
+                                                       1148
+
+
+
+
+                                         This content downloaded from
+                       89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                 All use subject to https://about.jstor.org/terms
+TELYUKOVA          NEED FOR LIQUIDITY AND THE CREDIT CARD DEBT PUZZLE 1149
+
+costly. Thus, even for a household with accumulated credit card debt, drawing down liquid assets
+below some threshold may not be optimal.
+     The goal of this article is to evaluate this hypothesis quantitatively, by answering two questions:
+( 1) Can the need for liquidity account for the number of households that revolve debt while having
+money in the bank?; and (2) How much liquidity is optimal for a household, given the risk itis
+exposed to?
+    I use data from the Survey of Consumer Finances and the Consumer Expenditure Survey to
+study in detail the demographic and economic characteristics of households that simultaneously
+borrow on credit cards and save in liquid accounts. I also present evidence that demonstrates the
+importance of liquid assets in monthly household expenditures, and the presence of considerable
+uncertainty in these expenses.
+    Next, I develop a dynamic stochastic partial-equilibrium model of household portfolio choice.
+Infinitely lived households face two types of uninsurable idiosyncratic risk, consume two goods,
+and allocate their portfolios between two assets. There is a two-market structure; in one of the mar-
+kets, credit cannot be used. The two types of idiosyncratic risk are income shocks and shocks to liq-
+uid expenses, with the latter modelled as preference shocks. Essentially, the model is a stochastic
+incomplete-market partial-equilibrium version of a Lucas-Stokey-style cash-credit good model.
+   I calibrate the model by matching it to properties of consumption out of liquid assets
+in household-level data, as well as to distributional characteristics in the data. To do this, I
+divide consumption in the data into cash-only and cash-or-credit goods, and study their relative
+properties. The calibration is based on the simulated method of moments. The benchmark
+calibrated model accounts for between 44% and 56% of households who revolve debt while
+holding money in the bank; for a median household in this category, the model accounts for 100%
+or more of its liquidity holdings. The range refers to two alternative calibrations, depending on
+the specification of the income process that households face. I also show that, with a reasonable
+alternative specification for the borrowing limit, the model can account for 100% of the size of
+the puzzle group, without compromising liquidity demand predictions. I then use the model to
+measure the quantitative contribution of each of the shocks to the puzzle. I find that expense
+shocks are essential for generating the puzzle group in the data, and that about one-half of the
+liquidity holdings in the model are precautionary.
+    There are four key contributions. First, I demonstrate that the liquidity-need hypothesis
+generates predictions that closely match the facts. Debt puzzles have prompted many researchers
+to question rationality in household decision making; this article shows that these puzzles
+can arise naturally within a standard rational-expectations framework. Second, this article is
+the first, to my knowledge, to separate consumption empirically into cash and credit goods,
+allowing   measurement   of a new type of idiosyncratic risk to expenses that leads to predictions
+of significant precautionary demand for liquidity. Third, I obtain new estimates of the elasticity
+of substitution between cash and credit goods. Previous attempts to estimate this elasticity, using
+deterministic representative-agent models, suggest that cash and credit goods are substitutes. My
+estimate, allowing for uncertainty in liquid consumption, indicates that cash and credit goods
+are complements instead. Fourth, the mechanism presented here may help account for a broader
+class of portfolio allocation puzzles related to co-existence of debt and liquidity.
+    Previous literature on the puzzle began with Gross and Souleles (2002), who document the
+phenomenon, and note that transaction demand for liquidity may contribute, but dismiss the
+contribution as likely insignificant. Lehnert and Maki (2002) study whether households may run
+up credit card debt strategically in preparation for a bankruptcy filing, to be discharged during
+the filing, while keeping assets in liquid form, in order to convert them to exemptible assets. The
+authors find that the puzzle is more prevalent in U.S. states where exemption levels are higher.
+However, my analysis indicates that most puzzle households are unlikely to file for bankruptcy,
+
+
+
+
+                                        This content downloaded from
+                      89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                All use subject to https://about.jstor.org/terms
+1150                                REVIEW OF ECONOMIC STUDIES
+
+as they hold significant positive financial and non-financial wealth. Bertaut and Haliassos (2002),
+and Haliassos and Reiter (2005) study whether households may hold liquidity and credit card debt
+simultaneously as a means of self-(or spouse) control. If one spouse in the household is the earner,
+and the other is the compulsive shopper, it is argued that the earner will choose not to pay off
+credit card debt in full in order to leave less of the credit line open for the shopper to spend. This
+motive is unlikely to account for many households in the puzzle category, since itis a costly way
+of imposing control. A household in the puzzle group loses, on average, $734 per year from the
+costs of revolving debt, which amounts to 1.5% of its total annual after-tax income. Lowering the
+credit limit or holding fewer credit cards are readily available and less costly options for control. In
+complementary empirical work, Zinman (2007) suggests that "borrowing high and lending low"
+can arise due to the liquidity premium of checking and savings accounts, which he calculates
+to be significant in survey data. Laibson et al. (2003) examine a related puzzle: the coexistence
+in household portfolios of credit card debt and retirement assets. A key difference, however, is
+that retirement assets involve a significant penalty for early withdrawal. The authors explain this
+behaviour with time-inconsistent decision making by households, which makes them patient in
+the long run, but impatient in the short run. The explanation cannot apply to the credit card debt
+puzzle, because the tradeoff is between two short-run decisions, and liquid asset withdrawal does
+not incur a penalty.
+   The article is structured as follows. In Section 2, 1 characterize the credit card debt puzzle in
+the data. Section 3 lays out the model and briefly analyses its properties. Section 4 presents
+detailed information on the calibration strategy. Section 5 shows the fitof the model and
+resulting calibration. Section 6 presents the results from the calibrated model, details the shock
+decomposition, and discusses the results. Section 7 concludes. Some details of the data are in the
+Supplementary Appendix.
+
+
+                                                   2. DATA
+
+In this section, I first
+                       describe the credit card debt puzzle in the data. I then characterize household
+use of liquid assets in consumption, and the extent of uncertainty that households may face in
+liquid consumption.
+     I use two U.S. household surveys: the 2001 Survey of Consumer Finances (SCF) and
+the Consumer Expenditure Survey (CEX) from 2000 to 2002. The SCF is a triennial cross-
+sectional survey that has detailed information on household assets and liabilities. In particular, it
+distinguishes revolving credit card debt from purchase balances that are immediately paid off,  and
+despite its cross-sectional nature, allows to assert persistence of this revolving debt. The CEX is a
+rotating panel, where each household is interviewed for five consecutive quarters, four of which
+(second through fifth) are made public. The advantage of the survey is detailed measurement of
+all aspects of household monthly consumption: in each interview, the household is asked to recall
+all of its expenditures in the preceding three months.1 Although itis less careful about measuring
+assets and credit card debt, there is sufficient information on credit card debt and liquid asset
+holdings. I use the CEX to study the properties of household consumption in goods paid by liquid
+assets versus other methods.
+    I focus on the post-college working-age population, studying all households with heads of
+age 25-64 years. I separate the samples in both surveys into three subgroups: those who have
+
+
+    1. A total
+             of65% oftheexpenditure  data arecollected via directquestions about themonth and amount of
+         while
+expenditure,  35% ofthexpenditures aremeasured byquestions onquarterly  spending,andthendivided into
+                                                                                                   three
+             amounts.
+average-monthly      The latter       applies tofood,
+                               procedure              forexample. This procedure willunderstate      of
+                                                                                              volatility
+          ofsuch
+consumption     goods; see below.
+
+
+
+
+                                         This content downloaded from
+                       89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                 All use subject to https://about.jstor.org/terms
+TELYUKO VA           NEED FOR LIQUIDITY AND THE CREDIT CARD DEBT PUZZLE                             1151
+
+                                                   TABLE 1
+                                                 card debt
+                                          Thecredit      puzzle in2001
+
+                                                                 Borrow           Borrow     Save
+                                                                                  andsave
+           Puzzle size:                                                    Percent
+                                                                                distribution
+             SCF                                                     5%                27%   68%
+             CEX                                                     7%                29%   64%
+           Interest
+                rates:
+             Credit
+                 cards                                            14.8%            13.7%     9.8%
+             Checking accounts (avg. across groups)                                 0.7%
+             Savings accounts (avg. across groups)                                  1.2%
+           Notes : Credit
+                        cards
+                            arebank-type and storecards
+                                                      thatallow revolvingdebt.Liquid assets are
+           checking,        andbrokerage
+                     savings,            accounts. Interest
+                                                         ratesonchecking  and savings accounts
+           arefrom         byBruce (2002), andrepresent
+                    a survey                           nationalaverages for
+                                                                          the ntirepopulation.
+           Credit
+               cardinterest
+                        rates
+                            areself-reported
+                                        intheSCF.
+
+
+more than $500 in revolving credit card debt and less than $500 in liquid assets ("borrowers"),
+those who have more than $500 of both ("borrowers and savers", i.e. the puzzle group), and those
+who have liquid assets but less than $500 of revolving credit card debt ("savers").2 To define the
+puzzle group, I take only the households that revolve debt habitually , that is, report repaying their
+balance off in full only sometimes or never. As credit card debt, I include only the balance due on
+the credit card left over after the last statement was paid- thus excluding recent purchases and
+balances that were paid off. The definition of liquid assets used in this article includes checking
+accounts, savings accounts, and brokerage accounts (i.e. idle money in a brokerage house that is
+not being invested in stocks). As no data are collected on household cash holdings, I am not able
+to include currency holdings in the definition of liquidity. Under the premise that those with bank
+accounts do not hold much currency, the only households that are likely to be affected by this data
+restriction are those in the borrower category, some of whom may not have bank accounts and
+are thus forced to hold currency. While there are no survey data on currency holdings in the U.S.,
+according to Prescott and Tatar (1999), between 47% and 67% of those without bank accounts in
+different surveys report not to have enough money to make itworth opening an account, which
+could be interpreted as such households spending most of their available money during the month.
+Since this is a small group in the data (see below), I do not expect exclusion of cash to have a
+strong bearing on my results. Additional details of the surveys, the sample selection process,
+and the puzzle measurement methods are described in the Supplementary data appendices A.l
+and A.2.
+
+
+2.1.   Demographics of the puzzle
+Table 1 measures the credit card debt puzzle in the data. I present measurements from both data
+sets to demonstrate that they are close. (The groups are very similar in both surveys in terms
+of relevant characteristics; I omit further comparison here.) Around 27% to 29% of the U.S.
+population were simultaneously borrowing and saving in 2001. Only between 5% and 7% of the
+population were credit card borrowers with little or no observed liquid assets, and the rest have no
+significant credit card debt. Notice that these numbers imply that of all habitual credit card debt
+
+
+
+       2. I choose the$500 threshold
+                                 tofollow
+                                        other
+                                           literature
+                                                  onthisubject.         still
+                                                                 thresholds
+                                                             Higher        yield
+                                                                               a significant
+puzzle inthe  and the
+           data,    subgroups' characteristics
+                                         arerobust
+                                                tothethreshold
+                                                           as well.
+
+
+
+
+                                            This content downloaded from
+                          89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                    All use subject to https://about.jstor.org/terms
+1152                               REVIEW OF ECONOMIC STUDIES
+
+                                                   TABLE 2
+                                                 Demographics
+
+                                         Borrow         Borrow              Save     Share in
+                                                        andsave                     population
+
+                                                         with
+                                          Share of subgroup characteristic
+           Race: white                    0.70            0.78              0.74       0.75
+           Maritalstatus: married    0.48                 0.62              0.58       0.59
+           Have dependent   children 0.45                 0.41              0.39       0.40
+           Head works  full-time     0.76                 0.85              0.80       0.81
+           Head white-collar/prof.0.48                    0.61              0.58       0.58
+           Education: less than
+                              HS     0. 13                0.05              0. 13      0. 11
+           HS/some college                0.73            0.61              0.51       0.55
+                       ormore
+           College degree                 0.14            0.33              0.36       0.34
+
+                                   averages within
+           Source : 2001 SCF. Weighted          subgroups.
+
+
+revolvers, 80-84% have some liquid assets that they could in principle use to pay down their debt.
+The last three rows of the table give average interest rates that households report paying on their
+credit card debt versus national interest average rates on checking and savings accounts. Very
+few of the puzzle households report paying zero "teaser" interest rates on credit cards, and the
+average rate is around 14% for borrower-savers, around 15% for borrowers, and around 10% for
+savers. It is also clear that there is a significant premium in credit card rates, giving the appearance
+of a violation of the standard no-arbitrage condition.
+    Table 2 breaks down some of the demographic characteristics of the subgroups from the
+SCF. Each cell of the table shows a percentage of the subgroup that has the characteristic. For
+example, the first    line shows that 70% of the borrower group, 74% of the saver group, and
+78% of    the borrower-saver    group are white. Comparing the numbers for different characteristics
+to the   overall  sample average shown in the right column, it appears that the borrower-saver
+group is not demographically distinct relative to the overall population. The group is skewed
+very slightly towards white households (78% versus 75% overall average), towards married
+households (62% versus 59%), towards heads employed full-time (84% versus 81%), and in
+white-collar occupations (61 % versus 58%). The share of households in this group with dependent
+children is on par with the overall average. They also tend to be slightly better educated: the group
+has the fewest households with education of less than high school (5% versus 11%), while the
+share of those with a college degree or above is the same as it is in the total sample. The saver
+group compares similarly to population averages, while the borrower group is the one that is
+least educated, comprises most unmarried households, and is skewed most toward non-white
+households.3
+    In addition, Figure 1 gives the size of the borrower-saver group by age category. While there
+is a slight hump in this profile between ages 30 and 50 years, the size of the puzzle is significant
+in all age groups, giving the impression that life-cycle differences are not the first-order issue for
+this puzzle.
+
+
+
+2.2.   Asset data
+
+Table 3 presents income and asset information for each subgroup. The borrower-savers are in the
+middle of the income distribution; their mean after-tax annual income is $52,114, as compared
+
+
+
+                                     informal
+       3. These conclusions areconfirmed                      here.
+                                                     notpresented
+                                               analysis,
+                                           probit
+
+
+
+
+                                        This content downloaded from
+                      89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                All use subject to https://about.jstor.org/terms
+TELYUKOVA           NEED FOR LIQUIDITY AND THE CREDIT CARD DEBT PUZZLE 1153
+
+
+
+
+                                                       Figure 1
+                              Size ofthe
+                                       puzzle group          Source : 2001 SCF
+                                                  byage,percent.
+
+                                                       TABLE 3
+                                        Income and asset holding,
+                                                               U.S. dollars
+
+                                                     Borrow            Borrow           Save     B&S 45-55th
+                                                                      and save                    debt
+                                                                                                     pctile
+    carddebt:
+Credit                              Mean              5,172             5,766             317        3,622
+                                    Median            3,340             3,800               0        3,800
+Liquidassets:                       Mean                227             7,237           17,386       7,652
+                                    Median              200             3,000            3,200       4,000
+Total
+   after-tax
+         income:                    Mean             28,032           52,114            64,331      51,843
+                                    Median           25,350           43,600            39,950      47,250
+Other
+   financial
+         assets:                    Mean              5,293           45,641           129,357      34,536
+                                    Median                0            5,100             5,500       2,300
+Netwealth:                          Mean             36,231          187,912           466,462     181,413
+                                    Median            9,450           84,640           104,830     104,450
+Liquid assets as share
+                     of             Mean               0.12              1.71             2.53        2.15
+      after-tax
+  monthly   income                  Median             0.10              0.79             0.88        0.9
+
+                              assets" include IRA's, mutual
+                       financial
+Source : 2001 SCF. "Other                                 funds,
+                                                               bond and equity          life
+                                                                                           insurance.
+                                                                                  annuities,
+                                                                            holdings,
+Netwealth               and non-financial
+            isall financial             assets, netofliabilities.
+
+to $64,331 for the saver group, and $28,032 for the borrowers. They hold, on average, about
+1.7 times their monthly income in liquid assets (and 0.8 in the median), as compared to the
+liquidity holdings of savers of 2.5 times monthly income (and equal to it in the median).4 Several
+further insights are important. First, the median borrower-saver household has $3,000 in liquid
+assets. Another way to present this is in the last column of the table: a household with credit
+
+
+
+                mayarisethathese
+      4. A concern                  could be collected atthebeginning
+                               numbers                                      say,when
+                                                                   ofthemonth,     the
+                        into
+paycheck has just arrived   theaccount. As pertheFederal Reserve Board ofGovernors,     which collects thedata,
+                                                                                                              SCF
+interviewsareconducted throughout   themonth,  and theseasset numbers,  averaged across households, thus represent
+                                                                                                                a
+monthly average onthe account. The Federal Reserve Board declined torelease interviewdates.Thus, I willtreat
+                                                                                                           liquidity
+measurements   as monthly                           treat
+                         averages, and will carefully    liquidityinthemodel tomatch    thesame average concept.
+
+
+
+
+                                            This content downloaded from
+                          89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                    All use subject to https://about.jstor.org/terms
+1154                                 REVIEW OF ECONOMIC STUDIES
+
+                                                  TABLE 4
+                                           Home ownership
+                                                       bysubgroup
+                                               Borrow         Borrow             Save            Share in
+                                                              andsave                        population
+
+                                                % of subgroup with
+                                                                 characteristic
+            Own house with
+                         mortgage                0.41           0.59             0.47             0.50
+            Own house without
+                           mortgage              0.06           0.10             0.13             0.12
+            Rent                                 0.40           0.23             0.28             0.28
+
+                                           add uptoone because some categories ofhomes areexcluded.
+            Source : 2001 SCF. Totals do not
+
+
+
+
+                                                     TABLE 5
+                                   More details onfinancial assets and housing
+
+                                                        Borrow          Borrow           Save            B&S 45-55th
+                                                                       andsave                              debt
+                                                                                                               pctile
+Money markets,
+           CD's:                     % own                3                16              23                   22
+                                     Mean                37             3,558           11,521               3,405
+                                     Median               0                 0                0                   0
+Mut.
+  funds,  stocks:
+      bonds,                         % own               19                46               44                  51
+                                     Mean            1,768             15,794           70,634               11,561
+                                     Median              0                  0                0                  100
+             lifeinsurance:
+IRA's, annuities,                    % own              22                 54               52                  54
+                                     Mean            3,287             24,670           51,735              20,757
+                                     Median              0              1,000              500                 400
+Housing, net
+           ofdebt:                   % own              42                71                62                  73
+                                     Mean           11,016             50,612           82,088              50,475
+                                     Median              0             27,000           28,000              37,000
+
+Source : 2001 SCF.
+
+
+
+
+card debt in the 45th to 55th percentile in the borrower-saver category has median liquid assets
+of $4,000. Second, a look at the significant and positive net worth of these households suggests
+that strategic bankruptcy behaviour, as per Lehnert and Maki (2001), is unlikely for at least the
+majority of the puzzle households. Finally, note that the median household in the puzzle group,
+in either presentation, has credit card debt about equal to its liquidity holdings; if it were to use
+the liquidity to pay off debt, the household would be left with little or no money in the bank in
+most cases.
+    Table 4 shows that homeowners, especially those who still have a mortgage on their home,
+are more likely to be in the puzzle group. Homeowners with a mortgage constitute 59% of
+the borrower-saver group, compared to only 50% of the overall population, while renters are
+underrepresented in this group. This is important because home owners are more likely to
+encounter significant, and potentially unexpected, expenses on homes and their maintenance.
+    One fact that comes out in the previous two tables is that the households in the puzzle category
+do have holdings of less-liquid assets- for example, households with the median amount of credit
+card debt in the borrower-saver category have a median of $2,300 in other financial assets (the
+corresponding mean is $34,536, Table 3). First, these are higher-return assets, which challenges
+the view that the puzzle could arise from lack of financial sophistication. Second, while the median
+holdings of these assets are small, such assets could perhaps be liquidated to pay down credit
+card debt, which might be a less costly option than holding on to the revolving debt. I investigate
+this possibility in Tables 5 and 6.
+
+
+
+
+                                          This content downloaded from
+                        89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                  All use subject to https://about.jstor.org/terms
+TELYUKOVA          NEED FOR LIQUIDITY AND THE CREDIT CARD DEBT PUZZLE 1155
+                                                   TABLE 6
+                                                infinancial and housing
+                           Frequency of transacting                  assets
+
+                                                                     Borrow Borrow Save
+                                                                           andsave
+                   mkt.
+             % money      who can write
+                     holders         checks                             0          47   66
+             % stock/bond    with
+                        holders       act.
+                                 trading                7                          38   48
+                    act.holders
+             % trading       who traded3              100                          67   78
+             Thus:                                Ia 93
+                                   whodid not ransact
+                             holders
+                 % of stock/bond                                                   74   63
+             % ofhome owners cashout refinance3
+                          with                                          4           3    3
+             % ofhome owners
+                          with
+                             HEL's3                                     5           1    2
+             % ofhome     with
+                      owners HELOC'sb                                   9          15   15
+
+             Source : 2001 SCF. 3Inthe      bA current
+                                     lastyear.      open line
+                                                            ofcredit,      time.
+                                                                  opened any
+
+
+
+
+   In Table 5, 1 break down household asset holdings in order of decreasing liquidity. First, the
+majority of financial assets held by borrower-saver households are retirement accounts such as
+IRA's, which are subject to large penalties for early withdrawal, and thus illiquid- these constitute
+around 60% of financial assets. Second, a median household in the borrower-saver category has
+no other financial assets; only 16% of borrower-saver households have CD's or money market
+accounts, and 46% of borrower-saver households have stocks, bonds or mutual funds. Third, the
+majority of borrower-saver households have home equity, at about $25,000 in the median, and
+just over $50,000 in the mean.
+    Table 6 presents the self-reported frequency of transacting in these assets. Given the number
+of households that have a money market account, only 4% of borrower-saver households are
+able to write checks on such an account, while CD's are subject to early-withdrawal penalties.
+Next, about 75% of those who hold either stocks or bonds directly report not transacting in them
+over the previous year. In addition, 43% of stock holders have stock of their own employer, and
+20% of stock holders have stock only of their employer, further suggesting that liquidating this
+ stock is not an option. Finally, few households report accessing their home equity. Only 4% of the
+borrower-saver homeowners reported having either refinanced their mortgage with a cash-out
+option, or taken out a home equity loan (HEL). About 15% of the borrower-saver home owners,
+and hence just 9.3% of all borrower-savers, reported having an open home equity line of credit
+(HELOC).
+    Thus, most households in the borrower-saver category either do not have assets that they can
+liquidate to pay down their credit card debt, or even if they have them, do not exercise this option.
+This is consistent with these assets having high observed or unobserved transaction costs. For
+example, transacting in stocks and bonds requires payment of brokerage fees, but capital-gains tax
+considerations may add even more significant costs. Similarly, tapping home equity is typically
+quite costly, as appraisal and closing costs are usually at 1-2% of home equity. It may be cheaper
+even for those households that do have less-liquid financial assets not to exercise these options
+in order to repay credit card debt.
+    A related issue is the optimality of the portfolio choice in the first   place where a household
+chooses to tie up assets in less liquid form (housing or stocks and bonds) while revolving credit
+card debt. From the data on holdings of less-liquid assets, it may appear puzzling that some
+borrower-saver households would not keep more liquidity in the bank and pay down their credit
+card debt, instead of allocating their portfolios to less liquid assets. However, this is not necessarily
+surprising. First, timing is key: these assets may have been locked up long before the household
+became a credit card debtor, and liquidating is then costly, as shown above. Second, thinking
+about housing purchase, the choice of how much money to use as downpayment is not just about
+
+
+
+
+                                        This content downloaded from
+                      89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                All use subject to https://about.jstor.org/terms
+1156                              REVIEW OF ECONOMIC STUDIES
+
+
+
+
+                                                   Figure 2
+                   Median credit
+                              carddebt
+                                     and liquid assets,
+                                                     borrower-saver group
+                                                                        byage
+
+
+the immediate tradeoff between debt and the amount of equity, but also about the terms of the
+mortgage for the following 30 years. For instance, putting an extra amount into a downpayment
+on a house may reduce the home owner's interest rate on the mortgage for the life of the loan; this
+benefit could easily outweigh the cost of carrying significant credit card debt at 14% for several
+years. Third, in relation to stocks and bonds, many of these assets are likely acquired passively
+by lower-income households, for example as compensation or through inheritance.
+    Finally, to address the life-cycle angle one more time, Figure 2 presents the breakdown of
+liquid assets and credit card debt for borrower-savers by age. These age profiles are fairly flat,
+confirming that life-cycle differences are not a key characteristic of the puzzle.
+
+
+
+2.3.   Liquidity and consumption
+
+Having characterized the borrower-saver group, I now turn to characterizing the role that liquid
+assets play in the portfolios and consumption of these households. The evidence presented below
+is consistent with the hypothesis that households have liquid assets to self-insure against expense
+shocks in goods that cannot be paid using credit cards, which may lead them to hold liquidity
+simultaneously with the debt.
+    Table 7 shows that liquid assets play a dominant role in consumer transactions, even though
+credit card usage grew noticeably between 1990 and 2002. In 2002, liquid payment methods-
+cash, checks, and debit cards- accounted for 77% of total consumer transactions, or 65% of their
+total value. Adding in electronic payments that are often backed by a checking account directly,
+the numbers go up to 79% and 71%, respectively. In contrast, credit cards accounted for only
+24% of the value of all consumer purchases in 2002.
+    I next characterize, using the CEX, household-level expenditures using liquid assets. I am
+interested in their magnitude, as well as their volatility, as a gauge of uncertainty against which
+households may have to insure using liquid assets. First, I separate out the group of goods that can
+be viewed as payable predominantly by liquid assets. Information on how people pay for a given
+good is not collected in the CEX. I rely on the 2004 American Bankers Association (ABA) survey
+
+
+
+
+                                       This content downloaded from
+                     89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                               All use subject to https://about.jstor.org/terms
+TELYUKO VA        NEED FOR LIQUIDITY AND THE CREDIT CARD DEBT PUZZLE 1157
+                                          TABLE 7
+                                               shares bymethod
+                             consumer transactions,
+                       Aggregate                            of payment
+
+                                 Transaction
+                                         number                        Transaction
+                                                                               value
+
+                              1999      2000       2002       1990      1999       2000   2002
+
+             Liquid           78.2      77.8       76.7       81.2      70.3       68.8   64.9
+             Checks           27.9      26.9       24.4       61.3      46.2       43.9   39.0
+             Cash             44.2      43.5       41.3       19.6       19.4      18.9   19.5
+             Debit             6.1       7.4        11.0       0.3        4.7       6.0    8.4
+             Electronic        1.5        1.8       2.4        0.7        3.4       4.2    5.6
+             Credit
+                  Cards       17.4       17.7      17.6       14.5       22.5      23.9   24.0
+
+             Source : Statistical of heU.S. 2003.
+                             Abstract
+
+of payment methods to extract the relevant goods, making some conservative assumptions along
+the way to overcome data limitations. In this survey, consumers were asked how they normally
+pay at different types of stores and for different types of bills. The details of the 2004 wave of
+this survey are available in the Supplementary Appendix A.3.
+    The ABA survey confirms the aggregate consumer transaction picture: liquid payment methods
+dominate household expenditures. Consumers report paying house-related types of bills, such as
+rents, mortgages, insurance, and utilities, by check or direct debit from the account. They also
+tend to pay for child care and tuition with liquid instruments, though I do not include intermittent
+expenses such as tuition in the cash-only group, as they are likely to skew upwards the perception
+of volatility. Home repairs are not asked about in the survey; however, in the SCF, households
+name emergencies as their number two reason for saving, preceded only by retirement planning.5
+Judging by the SCF data, households save for retirement in nonliquid retirement accounts, while
+emergencies, including home-related ones, by definition are likely to require liquid savings. In
+terms of payment methods in stores, the evidence suggests that while credit cards are dominant
+in department stores, gas stations and convenience stores, liquid payment methods dominate in
+supermarkets, drug stores, restaurants, and transit systems. Backed by this information, I choose
+the group of cash-only goods that consists of rents, mortgages, utilities, household maintenance,
+and repairs, household operations, property taxes, public transportation, health insurance, cash
+contributions, food, alcohol, and tobacco. For most of these goods, a liquid payment method is
+required. This is not true for food, alcohol and tobacco, where consumers often have the credit
+option. I include these as cash goods since consumers still predominantly choose to pay for them
+using liquid methods; this issue is discussed in more detail in the Supplementary Appendix.
+    The cash good group selection is designed to be conservative. First, no durable goods, such
+as appliance or auto purchases, are included. Thus, for example, the cash-good category excludes
+                                                                                      -
+many situations that may be reflections of emergencies that require liquid payment such as an
+                                                                     -                   -
+emergency purchase of (or downpayment on) a durable to replace rather than repair a broken
+one. Similarly, medical payments, which include co-pays or other out-of-pocket expenses, many
+of which can be unpredictable and may require a liquid payment- are not included either, because
+some medical expenses may be payable by credit card and I do not have sufficient information to
+discern the liquid portion of these payments. Instead, many of the categories that are included-
+such as food, property insurance, etc., - are paid on monthly basis and are predictable. Thus, in
+measuring the volatility of cash-good consumption using a lot of the "smooth" good categories,
+while excluding many that may reflect other types of emergencies, will tend to understate my
+
+
+    5. The question reads
+                        "What areyour
+                                    most     reasons for
+                                       important       saving?" Respondents choose as many
+                                                                                         as they
+   intheorder
+want          ofdecliningimportance.
+
+
+
+
+                                        This content downloaded from
+                      89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                All use subject to https://about.jstor.org/terms
+1158                               REVIEW OF ECONOMIC STUDIES
+
+                                                      TABLE 8
+                             Household liquidity
+                                              holding
+                                                   and consumption
+                                                              patterns
+                                                                Borrow         Borrow       Save
+                                                                              and save
+
+                                                                           U.S. Dollars
+
+             Liquidassets:                       Mean             227              7,237   17,386
+                                                 Median           200              3,000    3,200
+             Monthly
+                  cash-only
+                        good cons:               Mean           1,659              2,223    1,763
+                                                 Median         1,464              1,979    1,512
+             Liquid assets/cons:                 Mean              0.1               3.4     10.0
+                                                 Median            0.1               1.5      2.0
+
+             Source : SCF, CEX. Household levels,
+                                               weighted
+                                                     averages.
+
+
+measurements of the uncertainty in liquid expenditures that households face. Third, auto insurance
+payments and auto repairs, education expenses, and pension and insurance payments are not
+included as cash goods, even though many of these expenses may be liquid. I show below
+robustness of volatility measures to alternative definitions of the cash-only good group.
+    Table 8 presents household liquid asset holdings relative to average monthly consumption of
+cash-only goods. In the borrower-saver group, the median household has 1.5 times its average
+monthly liquid consumption in liquid assets, while the mean household has 3.4 times the amount.
+Compare these with the holdings of the savers, who have on average 10 times their mean monthly
+liquid spending, or twice the monthly spending amount in the median. This evidence is consistent
+with precautionary demand for money: households have liquid asset amounts that are in excess
+of what they spend on average per month, and those who are sufficiently well-off are holding
+much more liquidity than those in the middle. That is, richer households buffer themselves more
+fully, while borrower-saver households may be constrained from doing so completely, but still
+choose not to use all of their liquid assets to pay down debt.
+    To see further whether the notion of precautionary demand for liquidity is supported by the
+data, I look at volatility of cash-only consumption at household level as a reflection of possible
+uncertainty in liquid expenses that households face. Measuring raw volatility of consumption may
+not be fully informative about uncertainty, as itmay also reflect seasonal volatility, for example,
+as well as other factors that may be predictable to the household. In my measurement, I first
+exclude from the expenditures all purchases made as gifts, to remove some of the seasonality
+in the consumption series. Second, I filter out the predictable component of expenditures, by
+estimating the following model:6
+
+
+                                       log            = ^X¡t + u¡ + e it                            (1)
+                                             (cíř4)
+                                                £it= P£i,t-l + *?*>•
+
+The vector X includes, depending on specification, household observables, such as age (a cubic),
+education, marital status, race, earnings, family size, home ownership status, as well as seasonal
+effects (a set of month dummies). Several such specifications all produced nearly identical
+
+
+     6. One importantdistinction
+                              between  measuring  income versus
+                                                              consumption            isthat
+                                                                           uncertainty     themeasures of
+              areoften
+income volatility      translated
+                               directlyintomeasures ofincome shocks,while consumption        reflects
+                                                                                      volatility     only
+thendogenous response ofthehousehold toitsidiosyncratic      which
+                                                       shocks,    may           than
+                                                                        be larger    theresponse.
+                                                                                                E.g. after
+a breakdowninthehome,  one maychoose tomake fewer         than
+                                                     repairs  isrecommended,   toconserve thexpense. This
+mapping between         anduncertainty
+               volatility             willbe discussed further
+                                                            intheCalibration section.
+
+
+
+
+                                        This content downloaded from
+                      89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                All use subject to https://about.jstor.org/terms
+TELYUKOVA          NEED FOR LIQUIDITY AND THE CREDIT CARD DEBT PUZZLE 1159
+                                                    TABLE 9
+                                                                      , monthly
+                   Average variance of household cash- good log-consumption data
+
+                                                            Borrow           Borrow    Save
+                                                                             andsave
+                            (residual), ea
+              Liquid consumption
+                Benchmark                                    0.056            0.058    0.065
+                Excluding fooda                              0.084            0.082    0.096
+                Excluding food  andproperty
+                                         taxes               0.096            0.099    0.113
+                                           r¡¡t
+              Unpredictable liquid consumption,
+                Benchmark                                    0.053            0.057    0.064
+                Excluding fooda                              0.079            0.080    0.096
+                Excluding food           taxes
+                                andproperty                  0.092            0.098    0.113
+
+              Source : CEX. Measures variance
+                                           over time oftheunpredictablecomponentofhousehold
+                               incash-only                                  a
+              log-consumption             goods, averaged across households. "Food" includes
+              food,alcohol, and tobacco.
+
+
+
+results. Uiis the household fixed effect. The residual % is the idiosyncratic component of liquid
+consumption, which I model as an AR(1) process with a normally distributed disturbance rju.
+     Table 9, rows 1 and 4, show variance over time of log-consumption in the cash-only good
+category. To construct this measure, I firstake the variance of the residuals e and rjover the 12
+months of observation for each household, and then average this variance across households.
+Thus, I get the average measure of household-level consumption volatility, which I take to
+capture household response to idiosyncratic expense risk. First, variance of liquid consumption
+is significant in the benchmark measure, ranging between 0.056 and 0.065 for the total residual
+e , and between 0.053 and 0.064 for rç.Liquid consumption volatility is slightly higher for savers,
+and lowest for borrowers, which is consistent with differing ability of these groups, given their
+asset positions, to insure against shocks in consumption. Again, housing-related expenditures
+constitute the bulk of the cash-only good group and a sizeable portion of them is likely to be
+unpredictable. Indeed, expenses that pertain to home maintenance are the most volatile in the
+cash-only category, while expenses such as food are the least volatile.
+     To show robustness of these measures to the inclusion of food, alcohol, and tobacco, as
+well as to the inclusion of predictable but more "lumpy" expenditures, like property taxes, I
+examined many different permutations of cash-good group measurements, taking out from the
+benchmark measure above food/alcohol/tobacco, insurance payments, property tax payments, and
+other predictable expenses. I present results for two such permutations: (a) the benchmark minus
+food/alcohol/tobacco, and (b) group (a) minus property taxes. As is evident, the more I exclude
+such predictable expenses, the more volatility of the remaining group increases. The benchmark
+cash-good category gives by far the most dampened measure of consumption volatility. To be
+conservative, this is the measure I will use to calibrate the model, with the understanding that it
+gives a lower bound on liquid expenditure volatility.
+
+
+     2.3.1.   Consumption volatility and measurement error in the CEX.                   When measuring
+idiosyncratic volatility in expenses in the CEX, an important concern is that this volatility, as
+measured by variance of € above, or at least the transitory component 77,is created not by
+underlying expense shocks, but by measurement error. This issue is worth examining further
+since the standard deviation of €will be an important calibration target in the model. While there
+is uncertainty about the nature and magnitude of measurement error that is impossible to address
+conclusively, in this section, I use information from Attanasio et al. (2004, 2011) and the BLS
+(Garner et al. , 2006) to investigate its possible nature and impact on cash-good consumption.
+
+
+
+
+                                         This content downloaded from
+                       89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                 All use subject to https://about.jstor.org/terms
+1160                               REVIEW OF ECONOMIC STUDIES
+
+                                              TABLE 10
+                                  ofCEX data: cash- good categories,
+                             Quality                             1997 CEX
+
+           Good                                         Best survey CEX/PCE         Share directly
+                                                        component ratio               reported
+           Food athome*                                      IS            0.86        0.78
+           Food away*                                       DS             0.74        0.69
+           Alcohol*                                         DS            %0.35        0.88
+           Tobacco*                                         DS              0.51       0.96
+           Household operations*                             IS             1.09       0.96
+             Owner-occupied*                                 IS             1.26
+             Rent
+                + utilities*                                 IS             0.98       0.84
+               Tenant-occupied                               IS             1.05       0.85
+               Electricity                                   IS             1.02
+               Gas                                           IS             0.86
+               Water                                         IS             0.69
+               Telephone                                     IS             0.82       0.99
+            Other household opsa                             IS             1.03
+           Mass transit                                      IS             0.98       0.59
+           Taxi                                              IS             0.67
+           Health insurance                                  IS             1.84       0.90
+           Auto
+              repairs0                                       IS             0.67       0.91
+           Medical expenses, ex.insurance
+                                      premiab                IS             0.17       0.91
+
+           *Category comparably                 CEX andPCE (BLS). aOther
+                                 measured between                        household operations
+           include household insurance,furnishings,   bNot
+                                                repairs.   part ofcash-good definition.DS and
+           IS arediary andinterview  surveys,        Sources : Attanasio
+                                            respectively.              etal. (2011), Bee etal.
+           (2011), Garnerétal. (2006).
+
+
+
+    For each commodity in the cash-good category, Table 10 presents three pieces of information.
+The first shows whether the BLS considers the good to be better measured in the diary survey (DS)
+or the interview survey (IS), as cited by Attanasio et al. (20 11), Garner et al. (2006), and Bee et al.
+(201 1). According to the table, the only goods in the cash-good group that have been shown to be
+better measured by the diary than the interview are food away from home, alcohol and tobacco.
+This suggests that the interview survey, which is the one I use, is best for the majority of the cash-
+good group; this is encouraging, since the interview covers a household for twelve months, while
+the diary- only for two weeks, which would make itimpossible to measure household-level time
+variation in expenses.
+    The second column in the table reports the criterion that the BLS uses to study reliability
+of CEX measurement. This is the CEX/PCE ratio, which calculates how closely a particular
+commodity in the CEX, when aggregated using household weights, approximates total
+consumption of the same commodity in the NIPA Personal Consumption Expenditures measure.
+Garner et al. (2006), point out that many commodities in the CEX are measured differently than
+in the PCE, so that the aggregated CEX commodities are not always directly comparable and the
+ratio is often not equal to 1 for that reason. In Table 10, the comparably measured categories are
+marked by an asterisk.
+    As is clear, for most comparably measured goods that are in the cash-good category, the
+ratio of CEX to PCE is high, approaching 1, which suggests relatively accurate measurement.
+For example, one key category among cash goods is the household operations category, which
+constitutes 56% of cash-good expenses on average, and which replicates the aggregate NIPA
+measure very well. The most salient exception for cash goods overall are again alcohol and
+tobacco, and to a lesser extent, food away from home; their total share in the cash-good category
+is 11%. The BLS cites alcohol and tobacco as categories that are systematically underreported,
+due to the sensitive nature of the goods, and the CEX/PCE ratios clearly demonstrate that.
+
+
+
+
+                                         This content downloaded from
+                       89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                 All use subject to https://about.jstor.org/terms
+TELYUKO VA         NEED FOR LIQUIDITY AND THE CREDIT CARD DEBT PUZZLE                            1161
+
+    Whether one considers a CEX/PCE ratio close to 1 to be sufficient evidence of lack of
+measurement error depends on the model of measurement error that one has in mind. In particular,
+if one believes that error is mean-zero and independent across time and households, then a
+CEX/PCE ratio of 1 would only mean that the error nets out across households, but that at
+household level, there is still fluctuation created by measurement error. However, in that case we
+would expect the CEX/PCE ratio to be 1 for all commodities, while even for the subset of the
+comparable ones presented in the table, itis clear that the ratios are heterogeneous. If we examine
+comparable goods outside of the cash-good group, such as apparel, for example, we find further
+heterogeneity (for example, the ratio is 0.8 for shoes, 0.63 for women's apparel, etc.)
+    In addition, for nearly all comparably measured goods and services, we find the CEX/PCE ratio
+to be either at or below 1,and very rarely above (see Garner et al. (2006), table 2). By introspection,
+we might expect that measurement error could be the result of survey respondents forgetting
+some of their expenses. If so, when compared to NIPA data, aggregated CEX expenses should
+understate consumption, and the CEX/PCE ratios below 1 confirm that. Further, we might expect
+that households are more likely to forget smaller expenses on the goods that they purchase often,
+such as groceries or clothing, and remember well expenses that are caused by more major events,
+such as a repair. Examining the ratios broadly confirms this view; while household operations
+have CEX/PCE ratios of about 1, food and clothing have ratios of around 0.7-0.8. Under this
+view of measurement error caused by forgetting incidental expenses in more minor goods, a high
+CEX/PCE ratio is an indication of relatively less error in reporting.
+    This evidence suggests that if measurement error is present in the CEX, as is likely, itdoes
+not just consist of a classical error, but also has a significant, possibly dominant, memory error
+component. It is then useful to examine what this memory error would do not only for the mean of
+consumption, but also for the variance of measured log-consumption, relative to true consumption.
+To formalize the argument, in Supplementary Appendix B I present a simple example model of
+measurement error that includes both classical error and memory error of the sort just discussed.7
+This model demonstrates that if memory error is present, the mean of measured consumption will
+be smaller than the mean of true consumption, consistent with the CEX/PCE evidence that we
+observe in the data. In addition, I show that sufficiently large memory error would also understate
+the variance , and coefficient of variation, of measured consumption relative to true consumption.
+Thus, if both classical and memory error are present, it is possible that measured consumption
+volatility could be understated by measurement error, rather than exaggerated, if memory error is
+sufficiently large. Gottschalk and Hyunh (2010) reach a similar conclusion for earnings inequality
+in the Survey of Income and Program Participation, showing that measurement error reduces it
+by 20%.
+    Finally, the third column of the table includes the share of observations on the given good that
+are directly reported, as opposed to allocated or imputed, which could be an additional source of
+error. Again, we see that the shares of directly reported expenses are lowest for food and alcohol,
+while for household operations, for instance, they are directly reported. Incidentally, this is also
+consistent with the presence of memory error: households may be less prone to directly report
+expenses that they are more likely to forget.
+    Table 10 includes two expense categories that are not in my cash-good definition: medical
+expenses, net of insurance premia, and auto repairs. I do not include them because they may
+be payable by credit card; however, these categories are also likely to include expenses that
+result from unexpected, potentially major, events and may require a liquid payment. While
+these categories are not defined comparably in the CEX and PCE, because in the case of both,
+
+
+
+     7. I thank
+              Marjorie Flavin for                       oftheformal
+                                       theidea anda setup
+                                suggesting                       argument.
+
+
+
+
+                                        This content downloaded from
+                      89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                All use subject to https://about.jstor.org/terms
+ 1162                               REVIEW OF ECONOMIC STUDIES
+
+                                                TABLE 11
+                                  Volatilities
+                                          of individual cash- good categories
+
+            Good                                               Avgshare              Avghousehold
+                                                              ofcash-goods          coef.
+                                                                                        ofvariation
+           Food athome                                            0.23                  0.33
+           Food away                                              0.08                  0.87
+           Alcohol                                                0.02                  1.45
+           Tobacco                                                0.02                  0.92
+           Housing expenses                                       0.56                  0.39
+                                    tax
+                                rent,
+            Housing excl. mortgage,                               0.23                  0.63
+              Mortgage                                            0.17                  0.36
+             Property tax                                         0.06                  0.35
+             Repairs/maintenance                                  0.03                  2.26
+             Rent                                                 0.11                  0.39
+             Utilities                                            0.16                  0.39
+             Other household ops.                                 0.03                  1.52
+           Public transportation                                  0.02                  2.65
+           Health insurance                                       0.05                  0.71
+           Auto repairs6                                          0.02c                 2.32
+           Medical expenses, ex. insurance
+                                       premia0                    0.02e                 1.97
+           All cash goods                                         0.68e                 0.32
+
+           aOther                   include household insurance,
+                 household operations                         furnishings,
+                                                                       repairsnotelsewhere
+           classified.
+                   bNot part                      eShare given
+                            ofcash-good definition.          isoftotal
+                                                                    expenses.
+
+
+
+PCE, unlike CEX, includes payments from insurance companies and non-profits on behalf of
+households, they are categories that are measured well by the interview survey and are relatively
+free of imputation. I include them in the discussion to compare measured volatility of these
+expenses to that of the goods included in the cash-good group.
+    To sum up, although measurement error requires speculation, there is evidence that most
+cash goods are measured fairly reliably, that memory error appears to play a role, and that as a
+result, overall measurement error need not overstate volatility of consumption. I complete the
+discussion by measuring variability of reported consumption of each of the cash goods. Table 11
+shows the results, together with average share of each good in total cash-good consumption. I
+report coefficients of variation (CV) of consumption, rather than standard deviation or variance
+of logs, because for some goods, households report zero expenses in some months. Clearly, most
+categories are much more volatile than food, and certainly significantly more than the cash-good
+category overall, in some cases by orders of magnitude. If I were to remove the more stable
+items from the cash-good definition, the target volatility of consumption would increase, thus
+increasing the degree of uncertainty that drives precautionary demand for liquidity in the model.
+    It is also worth pointing out that in the data over time, there is variation in relative prices of cash
+and credit goods that I do not observe in my short time sample, nor model explicitly. The possibility
+of such price variation likely affects precautionary motive of households as well, and would act
+similarly to the idiosyncratic preference shocks in the model. Insofar as my measurements do
+not capture this source of variation, the measured volatility of cash-good consumption likely
+understates true volatility for this reason as well.
+
+
+
+2.4.    Data summary
+The facts that I documented in this section inform the modelling and calibration choices that
+I make. First, demographic analysis suggests that households in the borrower-saver category
+are not distinguishable from other households; in particular, there is not a pronounced life-cycle
+
+
+
+
+                                         This content downloaded from
+                       89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                 All use subject to https://about.jstor.org/terms
+TELYUKO VA         NEED FOR LIQUIDITY AND THE CREDIT CARD DEBT PUZZLE 1163
+
+component to the puzzle, and no obvious reason to suspect that something inherent in household
+preferences leads them to accumulate liquid assets but not use them to repay debt. Thus, the model
+is an infinite-horizon one where all agents are ex ante identical and have identical preferences.
+Second, the majority of such households have only liquid financial assets, non-liquid retirement
+ones, and a house with a mortgage. Those who do have home equity or other less-liquid financial
+assets do not frequently transact in those assets, suggesting high transactions costs. Based on
+this, the model will have two assets: a riskless bond and a liquid asset, which the agents use to
+buffer against income risk and preference risk. Third, cash-only good consumption is a significant
+portion of household expenses, so all households in the data appear to require liquid assets for
+transaction purposes, including to buffer against sizable uncertainty in consumption of such goods.
+The model will reflect this in the fact that households partly consume in a market where only
+liquid assets are accepted, and this consumption is subject to idiosyncratic preference shocks.
+
+
+
+                                                 3.   MODEL
+Time is discrete. There is a [0,1] continuum of infinitely lived agents. Each period is divided into
+two subperiods that differ by their market arrangements. There are two consumption goods: one
+consumed in subperiod 1,the other in subperiod 2. There are also two assets available to agents
+in each period. One is money, denoted myř,    which represents all liquid assets, including checks
+and debit cards. The subscript j stands for the subperiod, while t is for the period. The other
+instrument is a non-contingent bond, bjt , borrowing through which at a rate rtcaptures consumer
+credit, to be interpreted as a credit card in the current context; saving in it is also allowed. In
+the goods market in the first  subperiod, either money or credit can be used in trade. In contrast,
+during the second subperiod, consumer credit is not allowed in trade.8
+   During each period, households are subject to uninsurable idiosyncratic income and preference
+uncertainty. There is no aggregate uncertainty. The shocks on income and preferences are
+independent of each other, and do not realize simultaneously. At the beginning of the first
+subperiod, the household's income shock st realizes. I model st e S as a discrete Markov process,
+with S = {s',s2,...,sn}. The transition matrix is given by r(stist+i), with each entry denoting
+probability of entering state st+' given the currently realized state st. Agents then supply labour
+inelastically and earn their income, consume with either credit or money, and allocate their
+resources between the two instruments in a household portfolio.
+    At the start of the second subperiod, the consumer's preference shock ztrealizes, also assumed
+to be a discrete Markov process with z e Z = [z i,Z2 , ••.,z* } »and transition matrix n (zt ,Zt
+                                                                                               + 1) . After
+the realization of z, the second subperiod's market opens. Here, households choose consumption
+conditional on their preference shock realization; crucially, they cannot produce or borrow in
+this market, so they do not have access to additional income when they need to consume. Note
+that the sequential timing structure is not critical for the results. The model could have the two
+markets co-existing in time, for example; the important feature is only that a household makes its
+                                                      -
+portfolio decisions for the entire period at its start which is realistic, given that liquid spending
+opportunities can arrive continually and randomly throughout the month, while additional income
+does not.
+
+
+
+      8. The question ofwhy creditcannot  be used isbeyond the scope ofthis     There
+                                                                           article.  areseveral approaches to
+itinthemacro           insimilar
+              literature       contexts: one istoassume spatial separation      thearner
+                                                                          between        andtheshopper, as in
+                             good models; another
+Stokey-Lucas-style cash-credit                     istoassume thatagents            as inmoney
+                                                                        areanonymous,           searchmodels
+followingKiyotaki andWright (1989). See Telyukova and Wright  (2008) for         treatment
+                                                                       a theoretical      ofa monetary search
+model ofmoney   and credit
+                         thataddresses the issue inmore  detail.
+
+
+
+
+                                        This content downloaded from
+                      89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                All use subject to https://about.jstor.org/terms
+1164                               REVIEW OF ECONOMIC STUDIES
+
+    In the firstsubperiod, the household's state variables are its current knowledge of the
+                                                                       =
+idiosyncratic shock processes and its current portfolio: x't (sttZt-',mitibit). The state in the
+second subperiod also incorporates previous subperiod's consumption: X2t= {st,Zt,m2t,b2t,c't).
+Agents take prices as given. Due to the absence of aggregate uncertainty, the environment is
+stationary, and hence prices are time-invariant.
+   Lifetime utility, non-separable in the two consumption goods, is given by
+
+                                               oo
+
+                                                      u(clt,ztc2t),
+                                              /=0
+
+where it is assumed that V/= { 1,2}, where j denotes the subperiod, u e C3, Uj( -,•) > 0, ujj( -,•) <
+                                                                           =
+0, and the functions satisfy Inada conditions, limCj._^o Uj(cj,-) oo and 'imCj-+ooUj(cj,') 0. I=
+assume that the preference shock is multiplicative on the utility of second-subperiod consumption.
+I formulate the household problem recursively.9 In the first
+                                                           subperiod, a household solves the
+following problem:
+
+                   V'(st,Zt-i,mitJbit)=          max                                               (2)
+
+                           s.t.c't+m2t=St+m't+b2t-bit(l+r)
+                                               'rb        if   &u>0
+                                          r~'rs<rb ifbu<0
+                                       b2t<B
+                                       c't >0irri2t >0
+
+r is the interest rate that is charged on debt (or paid on savings) at the beginning of subperiod
+1; there is an interest spread on r, with the saving rate below the borrowing rate. There is an
+exogenous credit limit B on the household, while b2t < 0 denotes saving in the bond.
+   In the second subperiod, households choose cash-only consumption, once the preference
+shock realizes:
+
+
+         V2(st,zt,m2i,b2t,c't)=maxu(c1t,ztc2t)+ß^s,+i's,vi(st+i,zt,mit+i,bitt+i)                   (3)
+                               Cit
+                         s.t.C2t<m2t
+
+                         m,t+'=m2t-c2t
+                          b',t+'=b2t
+Notice from the third constraint that no interest on consumer debt is accumulated in this
+subperiod- this is the grace period typical of a credit card billing cycle. Note also that in this
+subperiod, no portfolio rebalancing can take place if a household experiences a low shock and
+has money left over at the end of the period. This restriction captures the continual nature of
+unpredictable expenses in the data: since in reality, expense shocks could hit any time throughout
+the month, a low expense shock at any point would not cause the household to spend the remainder
+of its precautionary liquid balances to pay off debt before the month is over.
+
+
+      9. The Principle
+                   ofOptimality
+                            applies here
+                                       as isstandard.
+                                                  Inaddition,
+                                                           existence anduniqueness areguaranteed
+as longas standard      aremade ontheutility
+                assumptions                function
+                                                 andtheconstraint
+                                                               space tomake theproblem bounded.
+
+
+
+
+                                        This content downloaded from
+                      89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                All use subject to https://about.jstor.org/terms
+TELYUKO VA         NEED FOR LIQUIDITY AND THE CREDIT CARD DEBT PUZZLE 1165
+
+    Using the state- variable notation defined above, the stationary decision rules from the first-
+subperiod problem are c'(x't), m2(x't ), and b2(x't)' the decision rule of the second-subperiod
+problem is C2(*2/)- In addition, let A.(jciř) and ß(x2 1) be the Lagrange multipliers associated with the
+credit constraint and the money constraint, respectively. We get the following Euler equations,
+which, along with the budget constraint and the Kuhn-Tucker conditions on the multipliers
+characterize the solution to the household decision problem:
+
+
+               E it'zt- 1u 1(c 11»Ztc2t ) = EitIZt-1iß^st+ 11st      1'ztu 1(c 1,í+ 1' Zt+ 1c2, t+ 1) ~ł~
+                                                                                                        ßt }   (4)
+
+      E.zt'z,-iul(clt,ZtC2t)-i>(xu) = EZt'Zt_ļ{fiESt+ļ'St(l+r)EZt+ļ'Ztu'(citt+i,Zt+iC2tt+l)}                   (5)
+                     ZtU2(c't,ZtC2t)   = ßESt+l'stEzt+i'Ztul(cU+'>Zt+'C2,t+l) + V>t                            (6)
+
+   In this model, households will insure against income shocks by saving in the bond b (or, on the
+flip side, by taking out consumer loans against this asset for consumption in the first
+                                                                                      subperiod),
+and against preference shocks by setting aside a part of their assets in the liquid asset m each
+period. That is, income uncertainty does not affect precautionary motive for holding liquidity,
+as the portfolio can be rebalanced every period; similarly, preference uncertainty does not lead
+to precautionary bond demand. Also, the bond here is modelled as one asset: households can
+borrow against it or save in it,but never do both. One could model this asset as two separate
+ones, but as long as the bond remained as liquid as itcurrently is in the model (i.e. no transactions
+costs for liquidation), and the interest rate on saving is below the interest rate on borrowing, no
+household would ever not deplete its holdings of the bond to repay all of the consumer debt.
+Hence, capturing these as one asset delivers the same result.
+    The population subgroups in the model are generated endogenously by idiosyncratic shock
+dynamics. Some agents may, after a series of low income shocks, find themselves depleting their
+savings in the bond and going into debt, but even when they accumulate debt, they will always
+choose to hold positive amounts of the liquid asset. These will be the "borrower-savers" in the
+model, and the point of the computational exercise is to evaluate how large this group can be,
+and how much money they will choose to hold optimally even when itco-exists with consumer
+credit. The "saver" and "borrower" groups also come naturally out of the model. If a household
+borrows against b and then is hit by a high preference shock, and as a result spends all of its
+money holdings at the end of the period, itwill be classified as a "borrower" for that period, as
+we will observe itat one point during the period as having no liquidity. If a household has savings
+in the asset b , then regardless of its liquidity position, it will be classified as a "saver". Clearly,
+households in the model will move in and out of these subgroups depending on their income and
+preference shock histories, so that no households would be in any subgroup permanently. This
+feature is mirrored in the data.
+    In order to compute the model, I merge the assets m' and b' into cash on hand in the first
+subperiod. I solve the problem of the household in two stages: the first-subperiod problem (the
+outer maximization) is solved by value function iteration with piecewise linear interpolation, while
+the second-subperiod problem (the inner maximization) is solved directly from the first-order
+condition, by approximating the derivative of the value function.
+
+
+
+                                            4. CALIBRATION
+
+I choose model period to be a month, which is a natural frequency for studying household decisions
+that involve credit card statements and paychecks. The functional form for the household utility
+function is of the standard CRRA form, which incorporates a CES aggregator between the two
+
+
+
+
+                                        This content downloaded from
+                      89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                All use subject to https://about.jstor.org/terms
+1166                                REVIEW OF ECONOMIC STUDIES
+
+consumption goods:
+
+
+                                           ((1 - a)c't+ztOiCi?'
+                                                                       ~v
+                         u(c't,ztc2t) =                71                   with Y   > 1.
+                                                         -y
+The utility function gives three parameters to calibrate: a, v and y . ß, the discount factor, is the
+fourth. The other parameters have to do with the shock processes on income and preferences, as
+well as prices (the interest rates). I calibrate the parameters of the income process outside the
+model and set y = 2 to be in lower part of the standard range in the literature. I set the debt limit
+B to be equal to one-half the largest annual income in the economy for all households; I discuss
+the sensitivity of the results to this choice below. The monthly interest rate on saving in nonliquid
+financial assets is set to match the annual rate of 4%, so that ^ = 0.0033. 1 set     = 0.011, which
+corresponds to the annual rate of 14%, the average interest rate paid on revolving credit card debt
+as reported by the debtors I observe in the SCF.
+    I estimate the remaining parameters within the model by a minimum distance estimator. I
+select the target moments to be unrelated to the main data observations of interest- the size of
+the credit card debt puzzle in the data, as well as the magnitude of household liquidity demand;
+these key quantities are left free to gauge the performance of the hypothesis.
+
+
+
+4. 1.   Income process
+
+The calibration of the income process at monthly frequency is a non-trivial task, as the longitudinal
+income data that are available and normally used for measuring idiosyncratic risk are annual. In
+order to calibrate the income process for the model, I use estimates of income uncertainty after
+observables have been controlled for from two different studies: Guvenen and Smith (2010),
+hereafter GS, and Heathcote et al. (2010), hereafter HSV. The two estimates differ by how
+they control for observables; in GS, the estimation is based on a heterogeneous-income-profile
+specification, while in HSV, the specification is a homogeneous-profile one. From each, I use
+the estimates of the residual income process consisting of an AR(1) component with persistence
+parameter ps and standard deviation of innovation cr^, and a transitory component with the
+standard deviation oe. The GS parameters are given at annual frequency by ps = 0.75,
+                                                                                           cr^=0.19,
+oe =0.15. The HSV estimates are p =0.97, o^ =0.10, oe =0.25. 1explore these two alternatives
+in my model because they have different implications in terms of the nature of risk that households
+face.
+    I convert these parameters into a monthly income process by simulating, at monthly frequency,
+a log-income process that also has the AR(1) + transitory component structure. The simulated
+monthly observations are then aggregated into annual ones, on which I estimate the annual process
+as described above. This estimation is done by a minimum-distance estimator on the variance-
+covariance matrix as described in Guvenen (2009). The monthly parameters pf, a™, and of are
+estimated by recursion, such that the postulated monthly process aggregates to one with the annual
+parameters listed above. For the GS process, I get pf 0.975, cr™=   = 0.076, and of =0.576; for
+                                             =                  =
+the HSV process, I get pf =0.997, cr™ 0.04, and of 0.75. 1 discretize these processes into a
+six-state Markov chain using the Rouwenhorst (1995) discretization method.
+
+
+
+4.2.    Idiosyncratic preference risk
+The remaining parameters- the discount rate ß , the parameters of the consumption aggregator a
+and v, and the preference process parameters - are calibrated together within the model. In this
+
+
+
+
+                                         This content downloaded from
+                       89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                 All use subject to https://about.jstor.org/terms
+TELYUKOVA         NEED FOR LIQUIDITY AND THE CREDIT CARD DEBT PUZZLE 1167
+
+
+
+
+                                                   Figure 3
+              Residuals oflog-consumption ofthe
+                                              cash good, benchmark
+                                                               measure,
+                                                                    all households
+
+
+
+
+subsection, I describe in some detail the calibration of preference shocks. In the subsection that
+follows, the remaining parameters are described.
+    For the preference shock parameters, I assume that the log of the preference shock, log(z¿),
+follows an AR(1) process with a Gaussian disturbance, so the parameters to calibrate are
+persistence pz and standard deviation az of this process. I then discretize this AR(1) into a five-
+state Markov chain. The choice of an AR(1) is motivated by the idea that households have both
+constant pre-committed expenditures, and some additional expenditure shocks (extreme events),
+both of which have to be captured in the shock process. In terms of data already described, the
+shock's AR(1) is meant to mirror the AR(1) in the residual of liquid consumption et, as described
+in (1).
+    The preference shock process is clearly not observed in the data, but the way households
+respond to these shocks is, through their liquid consumption. Thus, the preference shock process
+has to match properties of log-consumption of cash-only goods in the data, namely its persistence
+(measured as autocorrelation) and volatility (standard deviation). For the calibration targets, the
+standard deviation is computed by subgroup of households, so in total, I get four calibration
+targets for the shock process. As described extensively in the data section (Table 9), the volatility
+of liquid consumption is sensitive to how the cash-good group is computed. Of all the measures
+that I have examined, the benchmark measure (the most inclusive) produces the smallest volatility
+of consumption; in the estimation below, I use this benchmark measure for maximum discipline
+on the model.
+    To convince the reader that normal disturbances are a reasonable assumption for the shocks,
+and that the calibration does not overstate the tail shocks, Figure 3 plots the consumption residual
+Sit for the benchmark measure of liquid consumption, together with a non-parametric kernel
+estimator of its density (thick red line) and the corresponding normal approximation (thin green
+line). According to the graph, normal distribution approximates the actual distribution well. While
+
+
+
+
+                                       This content downloaded from
+                     89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                               All use subject to https://about.jstor.org/terms
+1168                               REVIEW OF ECONOMIC STUDIES
+
+itunderstates the density of consumption at the mean (which will be corrected by the fact that I
+will match the autocorrelation of consumption as a targeted moment), itoverstates consumption
+within one standard deviation of the mean, and understates the tails of the density. The right tail
+of the distribution determines money holdings, as itmaps to the highest preference shock, which
+causes the money constraint of the household to bind, which in turn determines liquidity demand.
+I treat this right tail conservatively in the calibration. First, in the discretization of the shocks by
+the Tauchen (1986) method, I restrict the five states to fall within just two standard deviations
+of the mean. This approximates the AR(1) well, but is an understatement of the tails in the data.
+Also, I only target up to the second moment of the residual distribution of liquid consumption,
+without attempting to match the tails.
+
+
+4.3.    Remaining parameters and mapping to targets
+To calibrate ß , a and v, I add three more targets: the mean revolving debt-to-income ratio in
+the population, the share of liquid consumption in total household consumption, and a measure
+of the elasticity of substitution between cash and credit goods. Although all seven calibration
+targets interact and jointly determine all five parameters, ß is pinned down primarily by the debt-
+to-income ratio, the time series properties of liquid consumption primarily determine the shock
+process, and a and v are pinned down by the cash-good share of consumption and the elasticity
+measure.
+    The estimation of the parameter v as part of the SMM procedure deserves some attention,
+as it is non-standard. Previous estimates of this parameter come from deterministic cash-credit
+good models, in which the cash-in-advance constraint always binds, so that aggregate cash-good
+consumption equals aggregate money demand. A direct implication of this class of models is that
+v can be measured in closed form from the regression coefficient that measures sensitivity of
+
+aggregate money demand to the gross nominal interest rate. In contrast, in my model cash-good
+consumption and money demand are distinct, due to the presence of idiosyncratic risk, so that the
+cash-in-advance constraint is often not binding. As a result, the model no longer has a closed-form
+implication for the parameter v . This is discussed in more detail in the next section.
+    Instead, I run a similar regression on household-level data, using the interest rate that the
+household currently faces as the measure of the opportunity cost of holding cash, and thus of
+the cost of the cash good. The regression is: ln(c2i/c1¿) = Ko+/ciln(l+r¿)+cü¿. Those who are
+debtors face a different opportunity cost of the cash good (r,-    = rb) than those who are savers
+   =
+(n rs ); I measure the sensitivity of the cash-credit good ratio to the cross-sectional variation in
+this cost. Since this regression parameter does not directly translate into the parameter v in closed
+form, I will run the same regression on simulated model data and estimate v such that the two
+regression coefficients match.
+    The CEX does not provide information on the interest rate that the households are paying
+on their credit card. To measure rb in the CEX, I use the fifth-interview question on the finance
+charges that the household reports paying on the credit card, dividing that amount by the average
+of the two credit card balances reported by the households in the second and fifth    interviews. For
+households who are not debtors, I assign the current Federal Funds rate (based on month and
+year) as the bond interest rate.10 The resulting regression gives the coefficient of about -0.29 on
+the interest rate (with a standard error of 0.037), suggesting a negative relationship, as would be
+expected, but little sensitivity of the consumption ratio to the interest rate.
+    I measure the cash-good share of household consumption directly in the CEX at household
+level, then average across households. The last target, the debt-to-income ratio, gauges how well
+
+
+       10.The results
+                   arerobust
+                          tousing
+                                the3-month    Bill rate
+                                        Treasury      instead.
+
+
+
+
+                                        This content downloaded from
+                      89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                All use subject to https://about.jstor.org/terms
+TELYUKOVA          NEED FOR LIQUIDITY AND THE CREDIT CARD DEBT PUZZLE 1169
+                                                  TABLE 12
+                                                     - data and model
+                                     Calibration targets
+
+          Target                                                  Data        Model       Model
+                                                                             (GS inc.)   (HSV inc.)
+          Autocorrelation (annual) oflog liquid consumption:
+                                                          0.226               0.226        0.223
+          St.dev.of logliquid consumption:  Borrowers     0.203               0.158        0.164
+          Borrowers  andsavers                            0.211               0.212        0.212
+          Savers                                                  0.217       0.248        0.236
+          Share of liquid cons intotal                            0.683       0.628        0.696
+                             logici/ c') onr
+          Regression coefficient:                               -0.285       -0.257       -0.273
+                       ratio
+          Mean debt/income                                        0.070       0.07 1       0.069
+
+
+
+
+the model does in reproducing the most relevant dimension of the aggregate economy, given
+the article's focus. As the debt measure, I choose total revolving debt, computed in the SCF.
+This measure includes all unsecured debt as well as home equity lines of credit, with credit
+card debt in the vast majority, since the uptake of home equity lines is very low in the 2001
+data.
+    In sum, I estimate the five parameters within the model based on seven moments. For each
+set of parameters in the minimization process, the procedure solves the model, simulates a 502-
+month panel of 100,000 households, computes the moments from it,and compares them with
+the moments in the data. I use the simplex method of Neider and Mead (1965), parallelized at
+parameter level as suggested by Lee and Wiswald (2007). The weighting matrix is the identity
+matrix in the first step, subsequently adjusted to correct for moments computed with highest
+variance (those moments that concern the borrower group, which is smallest in the data). Data
+covariances of the moments in question are not possible to compute in this exercise, since the
+moments come from two different data sets.
+
+
+
+
+                      5.   MODEL FIT AND RESULTING PARAMETERS
+I present the results of two calibrations, one with the GS income process, and one with the HSV
+process. In each case, all the parameters are re-estimated to the same targets. In order to assess
+the fitof the calibrated model, Table 12 presents the target moments in the data and the model.
+    The calibrated model fitsmost targets closely. The model with the GS income calibration
+understates the share of liquid consumption in total consumption slightly (model's 0.63 versus
+the data's 0.68). It matches nearly perfectly the standard deviation of log-liquid consumption
+for the borrower-saver group, although itoverpredicts somewhat the dispersion of that moment
+across groups. All other targets are matched very well. Under the HSV calibration, this pattern is
+repeated, with the share of liquid consumption in total and the dispersion of standard deviation
+of liquid consumption for savers closer to the data.
+    Table 13 presents the two resulting calibrations; the parameters are similar in both, with the
+exception of oz. The discount factor in the two calibrations is equivalent to 0.91 in annual terms.
+The parameters of the CES aggregator are in themselves of interest and a contribution of this
+article, as discussed above. In order to match the high cash-good share of consumption, a , the
+weight on cash-only goods in the CES utility function has to be high, at 0.93-0.96. The parameter
+that measures elasticity of substitution between cash and credit goods is between -2.36 and
+-3.48, that is, cash and credit goods are complements rather than substitutes, with the elasticity
+of substitution of 0.22-0.3.
+
+
+
+
+                                        This content downloaded from
+                      89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                All use subject to https://about.jstor.org/terms
+1170                               REVIEW OF ECONOMIC STUDIES
+
+                                                     TABLE 13
+                                                     Calibration
+
+                                             Parameter               Model (GS)       Model (HSV)
+
+           Interest
+                rates                            rs                    0.0033           0.0033
+                                                                   (annual rs=0.04)
+                                                 rb                    0.0107           0.0107
+           Risk aversion/IES                     y                     2.0              2.0
+           Income process parameters            pf                     0.975            0.997
+                                                or*                    0.076            0.040
+                                                of                     0.576            0.750
+           Discount rate                         ß                     0.992            0.992
+           Consumption
+                     aggregator                  a                     0.934            0.954
+            parameters                           v                    -3.482           -2.360
+           Preference
+                   shock process:                pz                    0.536            0.494
+            AR(1) withdiscretization             oz                    0.947            0.585
+
+
+
+
+     It is worthwhile to compare these estimates to previous ones from the deterministic cash-
+in-advance literature. For example, Chari et al. (1991) and others after them find a lower
+estimate for a of around 0.62. Their v tends to be on the order of 0.79-0.84, producing the
+elasticity of substitution on the order of 4.76 to 6. These results come from the model where,
+as I discussed above, (aggregate) money demand and liquid consumption are equal to each
+other. Once idiosyncratic preference uncertainty is introduced into the model, aggregate liquid
+consumption becomes much less sensitive than money demand to nominal interest rates, because
+all the households who do not hit their liquidity constraint have liquid consumption that is not
+sensitive to the movement in interest rates. (See also Telyukova and Visschers (201 1)). Insofar as
+the elasticity of substitution can still be linked to this sensitivity, the elasticity should be expected
+to be much lower in this model than in the deterministic version, which is confirmed in my results
+using micro data.
+    Finally, the estimates of the preference process are of importance, since this study presents a
+new, and to my knowledge first    effort to quantify unobservable idiosyncratic uncertainty specific
+to liquidity needs. The estimated monthly AR(1) parameter on log(z) is around 0.49-0.54. The
+AR(1) specification is flexible, encompassing anything from a very persistent shock process to
+an i.i.d. one; these estimates suggest that the extreme realizations of the shock are not persistent,
+which is to be expected given the properties of liquid consumption discussed in Section 2. The
+standard deviation of the shock process is estimated at 0.95 in the GS calibration, but only 0.59 in
+the HSV calibration. Under HSV, the agents face more persistent income risk and higher income
+dispersion, so the preference shocks need not be as disperse to match household-level standard
+deviation of liquid consumption over time.
+    Based on the analysis of the calibration targets, the parameterization described above produces
+a realistic economy in terms of the mapping to the relevant data dimensions. In Table 14, I
+examine in addition the model's implications for cross-sectional dispersion of annual income
+and consumption. Overall cross-sectional dispersion in the data results from many types of
+heterogeneity across households, from which the model abstracts.11 The income calibration takes
+this into account by putting in only the residual income dispersion, estimated after observables
+such as labour experience have been controlled for in panel data. I construct a comparable measure
+
+
+
+      11.Inmysample, overall cross-sectional variance oflog-income is0.45 and oflog-nondurable  is
+                                                                                         consumption
+0.24, whichisinlinewith
+                      thenumbers    reported,e.g.byKrueger  and Perri(2005).
+
+
+
+
+                                        This content downloaded from
+                      89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                All use subject to https://about.jstor.org/terms
+TELYUKOVA         NEED FOR LIQUIDITY AND THE CREDIT CARD DEBT PUZZLE                           1171
+
+                                                 TABLE 14
+                       Cross-sectional dispersion of annual income
+                                                                 and consumption
+
+          Target                                             Data           Model    Model
+                                                                             (GS)    (HSV)
+
+          Variance of income
+                           (GS)                              0. 11           0. 13
+          Variance of income
+                           (HSV)                             0.25                     0.31
+
+                             consumption
+          Variance of cash-only                              0.17             0.08    0.31
+          Variance of cash-or-credit
+                                 consumption                 0.54             0.07    0.24
+          Variance of total
+                         nondurable consumption              0.20             0.07    0.29
+
+                                           refer
+                The measures ofvariance here
+          Notes'.                               totheresidual variance ofthelog-variable,
+                                                                                     once
+                                          See text
+                                        for.
+          observables have been controlled          details.
+                                                  for
+
+
+of residual variation of consumption in the data, but I do not have information on labour market
+experience in the CEX annual cross-section. The consumption variance measures used in Table 14
+are derived using the HSV methodology, by first  regressing log-annual consumption (cash, credit
+and total nondurable consumption) on a cubic in potential labour market experience (age - years
+of education - 5) and an education dummy, and extracting the residual.
+    The variance of income in the model is by construction close to that in the data (the discrepancy
+comes from the fact that I decompose the annual income process into a monthly one, discretize,
+and then re-aggregate- with resulting approximation issues). The resulting variance of total (non-
+durable) consumption varies, not surprisingly, based on the properties of the stochastic process
+on income. The model with the GS income calibration, which puts more emphasis on transitory
+variation in income, produces variance of total consumption that is under one-half of that in the
+data. In contrast, the model with HSV calibration produces variance of total consumption that
+is only slightly lower than variance of income, and so overstates dispersion by about one-third.
+This is not surprising, since in the HSV calibration, the income shocks have significantly higher
+persistence than the GS case. It is well known that in models of this type, agents are unable to
+self-insure against very persistent shocks well, and do much better with transitory shocks, and
+this model confirms that result.
+   In addition, itis worthwhile to look at the components of consumption. In the GS calibration,
+cash-good consumption variance is nearly equal to credit-good consumption variance, and
+both are at about half of income variance. In the HSV calibration, cash-good consumption
+variance is higher than credit-good consumption variance; there is noticeable consumption-
+smoothing in credit goods, but not in cash goods. The intuition comes from the two sources
+of idiosyncratic uncertainty that both contribute in different ways to creating fluctuations in
+consumption. Preference shocks create individual-level volatility in cash-good consumption. The
+cross-sectional dispersion in both credit-good and cash-good consumption is driven primarily
+by income shocks, since these create long-run dispersion in wealth, which in turn translates
+into differing abilities of households to self-insure against the expense shocks. In addition,
+the dispersion is reinforced by complementarity between the two consumption goods in either
+calibration. Thus, the logic for smoothing in each component of consumption is still linked
+primarily to the properties of the income process; the more persistent this process, the harder it
+is for agents to self-insure against the fluctuations.
+    Finally, notice that both models produce the counterfactual result that credit-good consumption
+variance is equal to or below that of cash goods, and under both calibrations, the model
+underpredicts volatility of credit-good consumption. This is the result of the fact that in the
+data, many credit goods are semi-durable {e.g. clothing, vehicle maintenance expenses, etc.), and
+are likely also affected by expense shocks that I do not model.
+
+
+
+
+                                       This content downloaded from
+                     89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                               All use subject to https://about.jstor.org/terms
+1172                                REVIEW OF ECONOMIC STUDIES
+
+                                                 TABLE 15
+                                             - ubgroup size (percent
+                                         Results                  )
+
+                                                Data         Model (GS)           Model (HSV)
+
+                   Borrowers                     5.2               2.2                 7.0
+                         andsavers
+                   Borrowers                    27 .1             11.8                15.2
+                   Savers                       67.7              86.0                77.8
+
+
+
+
+                                                 TABLE 16
+                           - liquid-asset-to-income ratio,
+                       Results                          median , and mean households
+
+                                     Median household                                 Mean household
+
+                            Data    Model(GS)           Model(HSV)        Data       Model(GS)     Model(HSV)
+
+Borrowers                   0.10        0.73               1.00           0.12          0.72           0.80
+Borrowers
+      andsavers             0.79        0.82               1.18            1.71         0.79           1.00
+Savers                      0.88        0.73               0.50           2.53          0.89           1.01
+
+
+
+                                                 6. RESULTS
+
+6.1.     The credit card debt puzzle
+
+To measure how much of the puzzle is accounted for by the liquidity need hypothesis, I focus on
+the size of the three subgroups, as well as liquidity holdings of borrower-savers.
+    Table 15 gives the size of the three subgroups in the data and the model. In the model, the size
+of the borro wer-and-saver group is between 12% of the population in the GS calibration, and 15%
+in the HSV calibration, while in the data, itis 27%. Thus, the model, depending on the calibration,
+accounts for between 44% and 56% of the puzzle group size. Further, the model overstates the
+size of the saver group. Under the GS calibration, the size of the borrower group is understated.
+The reason is that the model's borrower group consists only of those who are constrained at the
+end of the month, while in the data, there may be some households who have very few liquid
+assets throughout the month and year; these households are not captured by the model, since itis
+never optimal to hold zero liquidity. Under the HSV calibration, the size of the borrower group is
+larger than in the data: more households under this calibration who are constrained at the end of
+the period are also debtors; this is likely driven by a higher dispersion of the low-income states.
+    In order to measure liquid assets, I have to map money holdings in the data to those in the
+model. As I discussed, a cross-sectional average of money holdings in the SCF reflects an average
+monthly amount of money in a bank account. Since in the model I observe money holdings at
+two points during the month, I average the two observations for each household to map to the
+observed amount in the data.
+    In Table 16, 1 present average monthly liquid asset holdings relative to income, in the model
+and data. The left three columns are for a median household. For the median borrower-saver
+household, the model matches its liquidity holdings very well, overstating them in the HSV
+calibration. For the median saver household, the model accounts for 83% of the liquidity holdings
+under the GS calibration, and 57% under the HSV calibration. Under both calibrations, and
+particularly under the HSV one, the model counterfactually predicts savers' liquidity-to-income
+ratio to be below that of borrower-savers. This is because money holdings in the model are not as
+disperse as in the data (the upper tail is not matched), while income dispersion better matches that
+in the data and is higher under the HSV calibration. Looking separately at distribution of money
+
+
+
+
+                                          This content downloaded from
+                        89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                  All use subject to https://about.jstor.org/terms
+TELYUKOVA           NEED FOR LIQUIDITY AND THE CREDIT CARD DEBT PUZZLE 1173
+                                                  TABLE 17
+                                Shock decomposition - subgroup
+                                                            size (percent
+                                                                       )
+
+                                      Benchmark              Model                       Model
+                                         (GS)            (GS, noshocks)            (GS, nopref.shock)
+
+           Borrowers                      2.2                   0.0                       15.0
+           Borrowers
+                 andsavers                11.8                  0.0                        0.0
+           Savers                        86.0                 100.0                       85.0
+
+
+
+
+holdings and income in the model by subgroup (not presented) reveals the expected increasing
+pattern of both from borrowers to savers.
+    The model is not calibrated to account for the upper tail of the wealth distribution, and thus has
+a harder time accounting for the mean household in each group. Still, for the mean borrower-saver
+household, the model matches between 46% and 58% of liquidity holdings in the data, depending
+on the calibration. Clearly, the mean saver household represents the top of the distribution, and
+the model performs the worst on this dimension, matching between 35% and 40% of liquidity
+held by these households in the data.
+    Finally, for the borrowers, the model overpredicts liquidity holdings. This comparison between
+the model and data is tenuous; itis not likely that all borrower households in the data never hold
+liquid assets during the month, given their average liquid spending documented above. Many
+of these may instead be households observed at the end of the month, when they have drawn
+down all of their liquid assets, most likely due to binding resource constraints. Thus, it may be
+more appropriate, in the borrower case, to compare the data number to the end-of-month liquid
+holdings in the model, which are 0, in which case the model and data match.
+
+
+6.2.   Sensitivity to the borrowing limit
+
+As one sensitivity check, I re-compute the model with the GS calibration and a lower borrowing
+limit, assuming that all households can borrow only up to one-half of the annual average income in
+the economy. If I do not re-estimate any of the parameters of the model, the central implications of
+the model are all robust to the re-specification; in particular, the size of the borrower-saver group,
+as well as the liquidity holdings of each group do not change. However, there is one important
+and predictable change: the debt-to-income ratio in this economy falls by more than half. If I
+instead re-estimate this economy to match the debt-to-income ratio in the data, the parameters
+change; notably, the discount factor ß has to be lowered somewhat (to about ß =0.987). In
+this circumstance, the size of the borrower-saver group in the economy comes up to 28%, thus
+matching the size of the puzzle in the data, while optimal liquidity demand remains robust.
+
+
+6.3.   Model decomposition: role of the shocks
+In order to understand the role of the idiosyncratic income and preference shocks in generating
+the credit card debt puzzle, I re-compute two versions of the model with the GS calibration, first
+shutting down all shocks, and then shutting down only preference shocks. All the parameters are
+kept the same as in the baseline calibration. Tables 17 and 18 present the results for the credit
+card debt puzzle. It is immediately clear that unless both shocks are present, the model cannot
+account for the puzzle, since it does not generate a borrower-saver group; moreover, the model
+in that case severely underpredicts liquidity demand.
+    The model with both the income and preference shocks shut down (referred to as "GS, no
+shocks" in both tables) reduces to a deterministic representative-agent model. In this model,
+
+
+
+
+                                        This content downloaded from
+                      89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                All use subject to https://about.jstor.org/terms
+1174                               REVIEW OF ECONOMIC STUDIES
+
+                                                   TABLE 18
+                     Shock decomposition- liquid-asset-to-income ratio,
+                                                                     median household
+
+                                      Benchmark              Model                       Model
+                                         (GS)            (GS, noshocks)            (GS, nopref.shock)
+
+           Borrowers                      0.73                   -                        0.50
+                 and savers
+           Borrowers                      0.82                   -                         -
+           Savers                         0.73                 0.34                       0.36
+
+
+
+
+there is no dispersion of consumption, and in steady state, the model would generate constant
+consumption in both cash and credit goods. The computation of the model, given the benchmark
+calibration, produces a solution that is just out of the steady state (as the condition ß = 1+r is
+violated), so there is a very slight decline in household consumption over time. However, the
+solution (as well as the steady state) features positive savings, and thus, the household is a saver.
+The size of the borrower-saver group is 0. The liquidity holdings of the household are at 34% of
+its income, which is just under 47% of the benchmark model.
+     If only the preference shocks are shut off ("GS, no pref. shock"), there is still no borrower-saver
+group in the model. This model is a heterogeneous-agent model due to idiosyncratic histories of
+income shocks, but there is no precautionary liquidity demand here, since cash-good consumption
+is deterministic. The dispersion properties of this model (not in the tables) are nearly identical to
+those of the GS benchmark model, confirming the intuition that itis the income uncertainty that
+drives cross-sectional dispersion of consumption in both goods. Because in this model everyone's
+liquidity constraint binds at the end of the period, anyone with debt here is a borrower. This group
+is 15% of the population in the stationary distribution. A saver household's liquidity holdings are
+essentially the same as in the no-shock model, confirming the intuition that income shocks alone
+do not alter the size of liquidity demand. This version of the model accounts for just under 50%
+of the savers' liquidity holdings in the full model. In sum, preference shocks are necessary for
+generating the borrower-saver group in the model, and for matching the magnitude of liquidity
+holdings of this group in the data; when present, these shocks at least double the liquidity demand
+relative to the model without such shocks.
+
+
+6.4.   Discussion of the results
+The results presented above demonstrate that precautionary demand for liquidity goes a long
+way towards accounting for the credit card debt puzzle within a standard rational-expectations
+framework. To be sure, the model does not account for all liquidity holdings of the mean
+household, and there are households in the data who hold such large amounts of liquidity that
+precautionary demand cannot be the dominant reason. On the other hand, the results presented
+above may be seen as a lower bound on both liquidity demand and the size of the borrower-saver
+group, because there are reasons to hold liquidity that the model abstracts from. One example
+is the minimum balance requirement on checking accounts. Many banks allow their holders to
+avoid sizable fees by maintaining a minimum balance in the account at all times. Anecdotally, this
+minimum balance requirement can go as high as $1,000 or more. I abstract from this requirement
+in the model due to lack of data on minimum balances. However, if many checking account
+balances have some minimum positive amount that they need to exceed, then the total amount of
+liquidity that the model can account for will rise, possibly substantially. The argument would, of
+course, be more nuanced given that one would have to consider when it may be optimal to dip
+below the minimum balance for a household that finds itself in the borrowing-saving situation.
+
+
+
+
+                                        This content downloaded from
+                      89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                All use subject to https://about.jstor.org/terms
+TELYUKO VA        NEED FOR LIQUIDITY AND THE CREDIT CARD DEBT PUZZLE 1175
+
+But if this situation is temporary, this channel may still increase the puzzle household's liquidity
+demand in the model, and itwill certainly increase the demand of saver households; this may be
+one way to help account for average liquidity holdings as well.
+    Another example is fixed participation costs in illiquid asset markets: it may be optimal for
+low-wealth households to have, e.g. only a checking account because saving in other assets
+requires paying a transaction cost. My model abstracts from such fixed costs. One result is that
+the model currently captures only one channel that gives rise to precautionary liquidity demand,
+namely, preference uncertainty. There is, of course, a second source of uncertainty in the model
+                                                                                                  -
+income uncertainty- but it plays a role only in generating disperse non-liquid asset holdings, as
+households insure against this shock by saving or borrowing in the asset b. The reason is that it
+is costless in the first subperiod to acquire additional liquidity from a credit card in the event of
+a low income shock. Yet even predictable expenses may require precautionary money holdings
+in the face of income risk. For example, if one should lose one's job, one still needs to pay the
+mortgage each month. The idea, then, is that both preference (expense) and income uncertainty
+may provide a precautionary motive for holding liquidity for most households, and if this channel
+is modelled by adding a direct cost of transfers from consumer credit to liquidity, both the size
+of the borrower-saver group and liquidity holdings in the model would likely increase.12
+
+
+
+                                           7. CONCLUSION
+
+This article presents the first
+                              examination of liquidity demand as an explanation for the credit card
+debt puzzle. I examine the hypothesis that there is a significant share of household expenditures
+each month that cannot be paid by credit card, so that households need to keep liquidity in the
+bank at all times to pay for these expenditures. Thus, if a household accumulates credit card
+debt, but does not have enough money both for its needed precautionary amount and for debt
+repayment, it will optimally choose to revolve the debt in favour of keeping a sufficient supply
+of liquidity.
+   The central contribution of the article is a detailed measurement of how much of the puzzle
+this hypothesis can account for. First, I document the puzzle carefully in the data, which requires
+a split of household consumption into cash-only goods and cash-or-credit goods, based on
+survey evidence. I then pose a dynamic stochastic model of household portfolio choice with two
+consumption goods and two types of idiosyncratic uncertainty timed so that portfolio decisions
+have to be made before spending needs are known. The model is then calibrated by matching of
+moments in the data to model moments. The parameter estimates are in themselves of interest,
+providing new or even first   measurements of magnitudes of unobservable idiosyncratic expense
+risk and the elasticity of substitution between cash and credit goods in micro data. For example,
+whereas in deterministic cash-credit good models, cash and credit goods were estimated to be
+substitutes, my model implies that they are complements.
+    In terms of the puzzle, I find that, depending on the calibration, the hypothesis successfully
+accounts for at least one-half of the households who revolve debt while having money in the
+bank, and under reasonable calibration alternatives can account for the entire group. For a median
+such borrower-saver household, the model accounts for their entire liquid asset holdings. I also
+decompose the model in terms of the role of the two types of idiosyncratic shocks, and find, for
+example, that one-half of the liquidity demand in the model is precautionary.
+
+
+     12.I confirmed thisintuition
+                               intwo-period
+                                        examples, since a full
+                                                             extension
+                                                                    ofthemodel with
+                                                                                  fixed
+                                                                                      costsof
+adjustment                    harder
+           becomes significantly   computationally.                 demand inanextended
+                                                For example, liquidity                example
+increases by30-50% relative
+                          tothebenchmark.
+
+
+
+
+                                       This content downloaded from
+                     89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                               All use subject to https://about.jstor.org/terms
+1176                                 REVIEW OF ECONOMIC STUDIES
+
+    I discussed some limitations of the exercise, which are left to future research. First, the model
+does not perform as well for the mean household as it does for the median. This is because it
+abstracts from many important reasons for why a household in the data might hold liquidity,
+such as various participation costs in non-liquid asset markets, and because itis not calibrated to
+capture the top tail of the wealth distribution. Second, in order to measure idiosyncratic expense
+shocks in liquid consumption, I had to rely on the residual of consumption measures in the
+Consumer Expenditure Survey, which likely includes measurement error of uncertain nature and
+magnitude; this error may or may not overstate uncertainty in consumption as discussed in the
+empirical section. On balance, itis apparent that transaction and precautionary liquidity demand
+is a key factor in accounting for the credit card debt puzzle.
+
+
+    Acknowledgments.     I amindebted    toVictor  Rios-Rull, Randall Wright,  Jesús Fernández- Villaverde, andDirk
+Krueger  fortheirguidance inthis  project.For many  helpfuldiscussions and suggestions, I thankKjetil Storesletten
+                                                                                                                and
+three anonymous  referees,as well as Orazio Attanasio,Marjorie Flavin, Andreas Lehnert, Ben Lester,Michael Palumbo,
+Shalini Roy, Gustavo Ventura, Ludo Visschers,  and Neil Wallace, and the           ofseminars
+                                                                        participants           andconferences  atthe
+University ofPennsylvania,  UCSD, USC, Notre     Dame, Arizona State, Wash. U. St.Louis, Maryland,  Queen's, Western
+Ontario, UniversityofBritish Columbia, the   Board ofGovernors   oftheFederal Reserve, Federal Reserve Banks ofNew
+York, Cleveland, Philadelphia and  Atlanta, European Central  Bank, the Canadian Economic Association, the  Midwest
+Macroeconomic Meetings,    andtheSED. I amgrateful   totheJacob   K. Javits
+                                                                          Graduate Research Fellowship Fund and  the
+Federal Reserve Board ofGovernors    Dissertation Internshipprogram  for esearch support.
+
+Supplementary Data
+
+         data areavailable atReview of Economic Studies online.
+Supplementary
+
+
+REFERENCES
+
+AMERICAN BANKERS ASSOCIATION / DOVE CONSULTING (2004), "2004 Study
+                                                                 ofConsumer Payment
+  Preferences".
+ATTANASIO, O., BATTISTIN, E. and ICHIMURA, H. (2004), "What Really Happened toConsumption Inequality
+                                                                                                  in
+  theUS?" (Mimeo, UCL).
+ATTANASIO, O., BATTISTIN, E. andPADULA, M. (2011), Inequality inLivingStandards since 1980 (Washington,
+  DC: The AEI Press).
+BEE, A.,MEYER, B. andSULLIVAN, J.(2011), "Micro and Macro Validation ofthe       Consumer Expenditure  Survey"
+  (NBER conference  slides).
+BERTAUT, C. andHALIASSOS, M. (2002), "Debt Revolvers for     Self Control" (UniversityofCyprus).
+BRUCE, L. (2002), "A Graphic Look atDeposit Rates, 1998-2002", bankrate.com.
+CHARI, V.V.,CHRISTIANO, L. and    KEHOE, P.J(.1991), "Optimal Fiscal and Monetary Policy: Some Recent Results",
+  Journalof Money,  Creditand Banking ,23,519-539.
+GARNER, T.,JANINI, G, PASSERO, W.,PASZKIEWICZ, L. andVENDEMIA, M. (2006), "The CE and the              PCE: A
+  Comparison", Monthly  Labor Review , September,20-46.
+GOTTSCHALK, P.andHYUNH, M. (2010), "Are Earnings            Inequalityand Mobility   Overstated? The Impactof
+  Nonclassical Measurement Error", Review of Economics and Statistics
+                                                                    ,92, 302-315.
+GROSS, D. andSOULELES, N. (2002), "Do Liquidity    Constraints and InterestRates MatterforConsumer Behavior?
+  Evidence from Credit Card Data", QuarterlyJournal of Economics, February, 149-185.
+GUVENEN, F.(2009), "An Empirical Investigation   ofLabor Income Processes", Review of Economic Dynamics, 12,
+  58-79.
+GUVENEN, F.andSMITH, A. (2010), "Inferring     Labor Income Risk from  Economic Choices: An Indirect  Inference
+                           ofMinnesota).
+  Approach" (Mimeo, University
+HALIASSOS, M. andREITER, M. (2005), "Credit
+                                         Card Debt Puzzles" (Center for
+                                                                      Financial Studies Working
+                                                                                             Paper
+  2005/26).
+HEATHCOTE, J.,   STORESLETTEN, K. andVIOLANTE, G (2010), "The Maroeconomic Implications ofRising Wage
+  InequalityintheUnited     Journal
+                       States",     of Political Economy ,118,
+                                                             681-722.
+KIYOTAKI and WRIGHT (1989), "On Money as a Medium ofExchange", Journal  of Political Economy ,97,927-954.
+KRUEGER, D. andPERRI, F.(2005), "Does Income InequalityLead toConsumption Inequality?" Review of Economic
+  Studies ,73,163-193.
+
+
+
+
+                                          This content downloaded from
+                        89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                  All use subject to https://about.jstor.org/terms
+TELYUKOVA          NEED FOR LIQUIDITY AND THE CREDIT CARD DEBT PUZZLE 1177
+
+LAIB SON, D., REPETTO, A. andTOBACMAN, J.(2003), "A Debt Puzzle" (Harvard University).    In:Aghion,P,
+  Frydman,  R.,Stiglitz,
+                     J.,Woodford,                              and Expectations inModern Economics: In
+                                 M. (eds) Knowledge, Information
+                                   NJ:Princeton
+  Honor of Edmund S.Phelps (Princeton,          University
+                                                         Press) 228-266.
+LEE, D. andWISWALL, M. (2007), "A Parallel ImplementationoftheSimplex Function    Minimization Routine",
+  Computational Economics 30, 171-187.
+LEHNERT, A. andMAKI, D. M. (2002), "Consumption, Debt and Portfolio                  theEffect
+                                                                       Choice: Testing         ofBankruptcy
+  Law" (Working  Paper 2002-14, Board ofGovernors oftheFederal Reserve Bank).
+NELDER, J.A.,and MEAD, R. (1965), "A Simplex Method for       FunctionMinimization" TheComputer   Journal ,7,
+  308-313.
+PRESCOTT, E. S. andTATAR, D. D. (1999), "Means ofPayment,     theUnbanked, andEFT'99", Federal Reserve Bank
+  of RichmondEconomic Quarterly,  85,49-70.
+ROUWENHORST, K. (1995), "Asset Pricing  Implications ofEquilibrium Business Cycle Models", inT.F.Cooley (ed.),
+  Frontiers                                NJ:Princeton
+        of Business Cycle Research (Princeton,      University
+                                                           Press).
+TAUCHEN, G (1986), "Finite      StateMarkov-Chain Approximations   toUnivariate
+                                                                             andVector   Autoregressions",
+   Economics Letters ,20, 177-181.
+TELYUKOVA, I.A. and VISSCHERS, L. (2011), "Precautionary      Demand for
+                                                                       Money ina Monetary  Business Cycle
+   Model" (Mimeo, UCSD).
+TELYUKOVA, I.A. and WRIGHT, R. (2008), "A Model ofMoney and Credit,   with
+                                                                         Application tothe
+                                                                                         Credit Card Debt
+   Puzzle", Review of Economic Studies ,75,629-647.
+U.S. CENSUS BUREAU (2003), Statistical Abstract   of he UnitedStates.
+ZINMAN, J.(2007), "Household Borrowing     High and Lending Low under          (Dartmouth
+                                                                    No-Arbitrage"         University).
+
+
+
+
+                                        This content downloaded from
+                      89.187.161.220 on Fri, 05 Jun 2026 00:59:29 UTC
+                                All use subject to https://about.jstor.org/terms
+

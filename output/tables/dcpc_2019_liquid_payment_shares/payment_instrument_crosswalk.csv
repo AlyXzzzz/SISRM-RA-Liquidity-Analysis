@@ -1,0 +1,14 @@
+pi,payment_instrument,liquid_narrow,liquid_broad,ambiguous_method,classification_note
+0,Multiple payment methods,,,TRUE,Parse multipi_breakdown; exclude from count shares
+1,Cash,TRUE,TRUE,FALSE,Liquid in both definitions
+2,Check,TRUE,TRUE,FALSE,Liquid in both definitions
+3,Credit card,FALSE,FALSE,FALSE,Nonliquid credit instrument
+4,Debit card,TRUE,TRUE,FALSE,Liquid in both definitions
+5,Prepaid/gift/EBT card,FALSE,FALSE,TRUE,Stored value; retained outside primary liquid sets
+6,Bank account number payment,FALSE,TRUE,FALSE,Added in broad definition
+7,Online banking bill payment,FALSE,TRUE,FALSE,Added in broad definition
+8,Money order,FALSE,FALSE,TRUE,Cash-like but funding source is not observed
+10,Mobile payment app,FALSE,FALSE,TRUE,Residual app balance after Fed funding-source recodes
+11,Account-to-account transfer,FALSE,TRUE,FALSE,Added in broad definition for consumption payments
+13,Other payment method,FALSE,FALSE,TRUE,Unclassified method
+14,Deduction from income,FALSE,FALSE,TRUE,Not treated as a liquid payment instrument

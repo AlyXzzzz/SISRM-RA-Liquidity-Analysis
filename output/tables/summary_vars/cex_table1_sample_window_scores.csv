@@ -1,0 +1,25 @@
+sample_window,qyears,variant,debt_variable,n_households,n_complete_12_month_households,mean_abs_diff,max_abs_diff,household_gap_vs_target,complete_12_month_gap_vs_target
+collection_2002_4q,20021;20022;20023;20024,"primary: finance charges > 0, average balance 2/5",cc_debt_finance_positive_average_balance,3023,2250,0.4778768269263507,0.7168152403895824,280,86
+calendar_2001_5q,20011;20012;20013;20014;20021,"primary: finance charges > 0, average balance 2/5",cc_debt_finance_positive_average_balance,3776,2853,0.6449079990356745,0.9673619985534598,1033,689
+collection_2001_4q,20011;20012;20013;20014,"primary: finance charges > 0, average balance 2/5",cc_debt_finance_positive_average_balance,2965,2251,0.9687351869799846,1.4531027804698713,222,87
+collection_2001_4q,20011;20012;20013;20014,"finance charges > 0, fifth-interview balance",cc_debt_finance_positive_fifth_balance,2965,2251,1.3831388771191444,2.074708315678823,222,87
+calendar_2001_5q,20011;20012;20013;20014;20021,"finance charges > 0, fifth-interview balance",cc_debt_finance_positive_fifth_balance,3776,2853,1.5190440499413491,2.2785660749121206,1033,689
+collection_2002_4q,20021;20022;20023;20024,fifth-interview balance only,cc_balance_fifth,3023,2250,2.4178107186666016,3.62671607799998,280,86
+collection_2002_4q,20021;20022;20023;20024,"finance charges > 0, fifth-interview balance",cc_debt_finance_positive_fifth_balance,3023,2250,2.430795226276146,3.646192839414155,280,86
+calendar_2001_5q,20011;20012;20013;20014;20021,fifth-interview balance only,cc_balance_fifth,3776,2853,3.0798922891591864,4.619838433738806,1033,689
+collection_2001_4q,20011;20012;20013;20014,fifth-interview balance only,cc_balance_fifth,2965,2251,3.1324897708834047,4.698734656325193,222,87
+collection_2001_4q,20011;20012;20013;20014,finance charges / 0.14 implied balance,cc_debt_implied_from_finance_charges,2965,2251,3.3501625649180595,5.025243847377215,222,87
+calendar_2001_5q,20011;20012;20013;20014;20021,finance charges / 0.14 implied balance,cc_debt_implied_from_finance_charges,3776,2853,3.5039436330161564,5.255915449524348,1033,689
+collection_2002_4q,20021;20022;20023;20024,finance charges / 0.14 implied balance,cc_debt_implied_from_finance_charges,3023,2250,4.2819924145476485,6.422988621821446,280,86
+collection_2001_4q,20011;20012;20013;20014,"finance charges >= 14% of $500, average balance 2/5",cc_debt_finance_ge_70_average_balance,2965,2251,4.806843180940711,7.210264771410948,222,87
+collection_2001_4q,20011;20012;20013;20014,implied balance capped at average balance 2/5,cc_debt_implied_capped_at_average_balance,2965,2251,5.236003205302626,7.854004807953814,222,87
+calendar_2001_5q,20011;20012;20013;20014;20021,"finance charges >= 14% of $500, average balance 2/5",cc_debt_finance_ge_70_average_balance,3776,2853,5.315997256438225,7.973995884657242,1033,689
+calendar_2001_5q,20011;20012;20013;20014;20021,implied balance capped at average balance 2/5,cc_debt_implied_capped_at_average_balance,3776,2853,5.68516883836013,8.527753257540112,1033,689
+collection_2002_4q,20021;20022;20023;20024,"finance charges >= 14% of $500, average balance 2/5",cc_debt_finance_ge_70_average_balance,3023,2250,6.35399807516074,9.53099711274109,280,86
+collection_2002_4q,20021;20022;20023;20024,implied balance capped at average balance 2/5,cc_debt_implied_capped_at_average_balance,3023,2250,6.426792868949482,9.640189303424208,280,86
+calendar_2001_5q,20011;20012;20013;20014;20021,average second/fifth balance only,cc_balance_average_2_5,3776,2853,8.46952329698143,12.704284945472182,1033,689
+collection_2002_4q,20021;20022;20023;20024,average second/fifth balance only,cc_balance_average_2_5,3023,2250,8.575780476785702,12.863670715178621,280,86
+collection_2001_4q,20011;20012;20013;20014,average second/fifth balance only,cc_balance_average_2_5,2965,2251,8.696401017205526,13.044601525808382,222,87
+collection_2001_4q,20011;20012;20013;20014,finance charges >= 14% of average balance 2/5,cc_debt_apr14_average_balance,2965,2251,16.412928390562975,24.619392585844395,222,87
+calendar_2001_5q,20011;20012;20013;20014;20021,finance charges >= 14% of average balance 2/5,cc_debt_apr14_average_balance,3776,2853,16.69025231981385,25.035378479720734,1033,689
+collection_2002_4q,20021;20022;20023;20024,finance charges >= 14% of average balance 2/5,cc_debt_apr14_average_balance,3023,2250,17.38544654415029,26.07816981622534,280,86

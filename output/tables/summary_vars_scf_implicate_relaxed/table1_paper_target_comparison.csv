@@ -1,0 +1,10 @@
+table,source,statistic,group,paper,replication,diff
+Table 1,SCF 2001,Puzzle size (%),Borrow,5,4.921653657099376,-0.07834634290062414
+Table 1,SCF 2001,Puzzle size (%),Borrow and save,27,26.754459367178395,-0.245540632821605
+Table 1,SCF 2001,Puzzle size (%),Save,68,68.32388697572239,0.3238869757223881
+Table 1,SCF 2001,Credit-card interest rate (%),Borrow,14.8,16.03732759300963,1.2373275930096277
+Table 1,SCF 2001,Credit-card interest rate (%),Borrow and save,13.7,13.68256371791462,-0.017436282085379062
+Table 1,SCF 2001,Credit-card interest rate (%),Save,9.8,9.281935689370314,-0.5180643106296863
+Table 1,CEX 2001,Puzzle size (%),Borrow,7,8.629474733845203,1.6294747338452034
+Table 1,CEX 2001,Puzzle size (%),Borrow and save,29,29.13397508313134,0.13397508313133955
+Table 1,CEX 2001,Puzzle size (%),Save,64,62.236550183023276,-1.763449816976724

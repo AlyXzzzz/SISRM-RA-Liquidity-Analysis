@@ -1,0 +1,13 @@
+measure,sample,weighting,term,estimate
+benchmark,all_usable,finlwt21,epsilon_lag,-0.41738104903874695
+benchmark,all_usable,unweighted,epsilon_lag,-0.4138898207925268
+benchmark,complete_public_panel_2_5,finlwt21,epsilon_lag,-0.30533538458272724
+benchmark,complete_public_panel_2_5,unweighted,epsilon_lag,-0.30025350821745384
+excluding_food,all_usable,finlwt21,epsilon_lag,-0.4161580321462922
+excluding_food,all_usable,unweighted,epsilon_lag,-0.41367806823413034
+excluding_food,complete_public_panel_2_5,finlwt21,epsilon_lag,-0.3121791369965381
+excluding_food,complete_public_panel_2_5,unweighted,epsilon_lag,-0.30649094513437597
+excluding_food_property_taxes,all_usable,finlwt21,epsilon_lag,-0.4350418353368817
+excluding_food_property_taxes,all_usable,unweighted,epsilon_lag,-0.4395102370746834
+excluding_food_property_taxes,complete_public_panel_2_5,finlwt21,epsilon_lag,-0.30190873537064444
+excluding_food_property_taxes,complete_public_panel_2_5,unweighted,epsilon_lag,-0.30176651590938447

@@ -1,0 +1,109 @@
+candidate,less_than_hs_variable,college_variable,characteristic,group,paper,replication,diff
+primary fork: summary EDCL,less_than_hs_summary,college_degree_or_more_summary,Education: less than HS,Borrow,13,13.712796849357508,0.7127968493575079
+primary fork: summary EDCL,less_than_hs_summary,college_degree_or_more_summary,HS/some college,Borrow,73,73.21204687748761,0.21204687748760875
+primary fork: summary EDCL,less_than_hs_summary,college_degree_or_more_summary,College degree or more,Borrow,14,13.075156273154828,-0.9248437268451717
+primary fork: summary EDCL,less_than_hs_summary,college_degree_or_more_summary,Education: less than HS,Borrow and save,5,4.181296223427742,-0.8187037765722582
+primary fork: summary EDCL,less_than_hs_summary,college_degree_or_more_summary,HS/some college,Borrow and save,61,63.744154161480026,2.7441541614800258
+primary fork: summary EDCL,less_than_hs_summary,college_degree_or_more_summary,College degree or more,Borrow and save,33,32.0745496150922,-0.9254503849077977
+primary fork: summary EDCL,less_than_hs_summary,college_degree_or_more_summary,Education: less than HS,Save,13,14.881662329660303,1.881662329660303
+primary fork: summary EDCL,less_than_hs_summary,college_degree_or_more_summary,HS/some college,Save,51,52.620647911665586,1.6206479116655856
+primary fork: summary EDCL,less_than_hs_summary,college_degree_or_more_summary,College degree or more,Save,36,32.49768975867425,-3.502310241325752
+primary fork: summary EDCL,less_than_hs_summary,college_degree_or_more_summary,Education: less than HS,Population,11,11.961114504354011,0.9611145043540112
+primary fork: summary EDCL,less_than_hs_summary,college_degree_or_more_summary,HS/some college,Population,55,56.610385890185945,1.6103858901859454
+primary fork: summary EDCL,less_than_hs_summary,college_degree_or_more_summary,College degree or more,Population,34,31.42849960546044,-2.5715003945395587
+raw questions: diploma/GED + bachelor degree codes 2/3/4,less_than_hs_raw,college_degree_or_more_raw,Education: less than HS,Borrow,13,16.555658839827366,3.555658839827366
+raw questions: diploma/GED + bachelor degree codes 2/3/4,less_than_hs_raw,college_degree_or_more_raw,HS/some college,Borrow,73,70.36918488701772,-2.630815112982276
+raw questions: diploma/GED + bachelor degree codes 2/3/4,less_than_hs_raw,college_degree_or_more_raw,College degree or more,Borrow,14,13.075156273154828,-0.9248437268451717
+raw questions: diploma/GED + bachelor degree codes 2/3/4,less_than_hs_raw,college_degree_or_more_raw,Education: less than HS,Borrow and save,5,6.332948240534026,1.3329482405340256
+raw questions: diploma/GED + bachelor degree codes 2/3/4,less_than_hs_raw,college_degree_or_more_raw,HS/some college,Borrow and save,61,61.59250214437378,0.5925021443737819
+raw questions: diploma/GED + bachelor degree codes 2/3/4,less_than_hs_raw,college_degree_or_more_raw,College degree or more,Borrow and save,33,32.0745496150922,-0.9254503849077977
+raw questions: diploma/GED + bachelor degree codes 2/3/4,less_than_hs_raw,college_degree_or_more_raw,Education: less than HS,Save,13,17.875448697353907,4.875448697353907
+raw questions: diploma/GED + bachelor degree codes 2/3/4,less_than_hs_raw,college_degree_or_more_raw,HS/some college,Save,51,49.87102551607868,-1.1289744839213185
+raw questions: diploma/GED + bachelor degree codes 2/3/4,less_than_hs_raw,college_degree_or_more_raw,College degree or more,Save,36,32.25352578656753,-3.746474213432471
+raw questions: diploma/GED + bachelor degree codes 2/3/4,less_than_hs_raw,college_degree_or_more_raw,Education: less than HS,Population,11,14.722148846871159,3.7221488468711588
+raw questions: diploma/GED + bachelor degree codes 2/3/4,less_than_hs_raw,college_degree_or_more_raw,HS/some college,Population,55,54.01616869405975,-0.9838313059402495
+raw questions: diploma/GED + bachelor degree codes 2/3/4,less_than_hs_raw,college_degree_or_more_raw,College degree or more,Population,34,31.261682459069405,-2.738317540930595
+summary less-HS + bachelor degree codes 2/3/4,less_than_hs_summary,college_degree_or_more_raw,Education: less than HS,Borrow,13,13.712796849357508,0.7127968493575079
+summary less-HS + bachelor degree codes 2/3/4,less_than_hs_summary,college_degree_or_more_raw,HS/some college,Borrow,73,73.21204687748761,0.21204687748760875
+summary less-HS + bachelor degree codes 2/3/4,less_than_hs_summary,college_degree_or_more_raw,College degree or more,Borrow,14,13.075156273154828,-0.9248437268451717
+summary less-HS + bachelor degree codes 2/3/4,less_than_hs_summary,college_degree_or_more_raw,Education: less than HS,Borrow and save,5,4.181296223427742,-0.8187037765722582
+summary less-HS + bachelor degree codes 2/3/4,less_than_hs_summary,college_degree_or_more_raw,HS/some college,Borrow and save,61,63.744154161480026,2.7441541614800258
+summary less-HS + bachelor degree codes 2/3/4,less_than_hs_summary,college_degree_or_more_raw,College degree or more,Borrow and save,33,32.0745496150922,-0.9254503849077977
+summary less-HS + bachelor degree codes 2/3/4,less_than_hs_summary,college_degree_or_more_raw,Education: less than HS,Save,13,14.881662329660303,1.881662329660303
+summary less-HS + bachelor degree codes 2/3/4,less_than_hs_summary,college_degree_or_more_raw,HS/some college,Save,51,52.86481188377231,1.8648118837723118
+summary less-HS + bachelor degree codes 2/3/4,less_than_hs_summary,college_degree_or_more_raw,College degree or more,Save,36,32.25352578656753,-3.746474213432471
+summary less-HS + bachelor degree codes 2/3/4,less_than_hs_summary,college_degree_or_more_raw,Education: less than HS,Population,11,11.961114504354011,0.9611145043540112
+summary less-HS + bachelor degree codes 2/3/4,less_than_hs_summary,college_degree_or_more_raw,HS/some college,Population,55,56.77720303657697,1.7772030365769709
+summary less-HS + bachelor degree codes 2/3/4,less_than_hs_summary,college_degree_or_more_raw,College degree or more,Population,34,31.261682459069405,-2.738317540930595
+summary less-HS + non-associate degree codes 2/3/4/11,less_than_hs_summary,college_degree_nonassociate,Education: less than HS,Borrow,13,13.712796849357508,0.7127968493575079
+summary less-HS + non-associate degree codes 2/3/4/11,less_than_hs_summary,college_degree_nonassociate,HS/some college,Borrow,73,73.21204687748761,0.21204687748760875
+summary less-HS + non-associate degree codes 2/3/4/11,less_than_hs_summary,college_degree_nonassociate,College degree or more,Borrow,14,13.075156273154828,-0.9248437268451717
+summary less-HS + non-associate degree codes 2/3/4/11,less_than_hs_summary,college_degree_nonassociate,Education: less than HS,Borrow and save,5,4.181296223427742,-0.8187037765722582
+summary less-HS + non-associate degree codes 2/3/4/11,less_than_hs_summary,college_degree_nonassociate,HS/some college,Borrow and save,61,63.744154161480026,2.7441541614800258
+summary less-HS + non-associate degree codes 2/3/4/11,less_than_hs_summary,college_degree_nonassociate,College degree or more,Borrow and save,33,32.0745496150922,-0.9254503849077977
+summary less-HS + non-associate degree codes 2/3/4/11,less_than_hs_summary,college_degree_nonassociate,Education: less than HS,Save,13,14.881662329660303,1.881662329660303
+summary less-HS + non-associate degree codes 2/3/4/11,less_than_hs_summary,college_degree_nonassociate,HS/some college,Save,51,52.438219215776925,1.4382192157769254
+summary less-HS + non-associate degree codes 2/3/4/11,less_than_hs_summary,college_degree_nonassociate,College degree or more,Save,36,32.6801184545629,-3.3198815454370987
+summary less-HS + non-associate degree codes 2/3/4/11,less_than_hs_summary,college_degree_nonassociate,Education: less than HS,Population,11,11.961114504354011,0.9611145043540112
+summary less-HS + non-associate degree codes 2/3/4/11,less_than_hs_summary,college_degree_nonassociate,HS/some college,Population,55,56.48574737695482,1.4857473769548193
+summary less-HS + non-associate degree codes 2/3/4/11,less_than_hs_summary,college_degree_nonassociate,College degree or more,Population,34,31.553138118691543,-2.4468618813084575
+summary less-HS + four or more completed college years,less_than_hs_summary,college_degree_years16,Education: less than HS,Borrow,13,13.712796849357508,0.7127968493575079
+summary less-HS + four or more completed college years,less_than_hs_summary,college_degree_years16,HS/some college,Borrow,73,70.92772035881167,-2.072279641188331
+summary less-HS + four or more completed college years,less_than_hs_summary,college_degree_years16,College degree or more,Borrow,14,15.35948279183075,1.3594827918307502
+summary less-HS + four or more completed college years,less_than_hs_summary,college_degree_years16,Education: less than HS,Borrow and save,5,4.181296223427742,-0.8187037765722582
+summary less-HS + four or more completed college years,less_than_hs_summary,college_degree_years16,HS/some college,Borrow and save,61,62.62319143633537,1.623191436335368
+summary less-HS + four or more completed college years,less_than_hs_summary,college_degree_years16,College degree or more,Borrow and save,33,33.19551234023687,0.19551234023686703
+summary less-HS + four or more completed college years,less_than_hs_summary,college_degree_years16,Education: less than HS,Save,13,14.881662329660303,1.881662329660303
+summary less-HS + four or more completed college years,less_than_hs_summary,college_degree_years16,HS/some college,Save,51,51.775306717386435,0.7753067173864352
+summary less-HS + four or more completed college years,less_than_hs_summary,college_degree_years16,College degree or more,Save,36,33.34303095295339,-2.6569690470466085
+summary less-HS + four or more completed college years,less_than_hs_summary,college_degree_years16,Education: less than HS,Population,11,11.961114504354011,0.9611145043540112
+summary less-HS + four or more completed college years,less_than_hs_summary,college_degree_years16,HS/some college,Population,55,55.620472108190675,0.6204721081906754
+summary less-HS + four or more completed college years,less_than_hs_summary,college_degree_years16,College degree or more,Population,34,32.41841338745574,-1.5815866125442568
+summary less-HS + four-plus years or bachelor degree codes,less_than_hs_summary,college_degree_years16_or_strict,Education: less than HS,Borrow,13,13.712796849357508,0.7127968493575079
+summary less-HS + four-plus years or bachelor degree codes,less_than_hs_summary,college_degree_years16_or_strict,HS/some college,Borrow,73,70.92772035881167,-2.072279641188331
+summary less-HS + four-plus years or bachelor degree codes,less_than_hs_summary,college_degree_years16_or_strict,College degree or more,Borrow,14,15.35948279183075,1.3594827918307502
+summary less-HS + four-plus years or bachelor degree codes,less_than_hs_summary,college_degree_years16_or_strict,Education: less than HS,Borrow and save,5,4.181296223427742,-0.8187037765722582
+summary less-HS + four-plus years or bachelor degree codes,less_than_hs_summary,college_degree_years16_or_strict,HS/some college,Borrow and save,61,62.191710568488446,1.1917105684884461
+summary less-HS + four-plus years or bachelor degree codes,less_than_hs_summary,college_degree_years16_or_strict,College degree or more,Borrow and save,33,33.6269932080838,0.6269932080838032
+summary less-HS + four-plus years or bachelor degree codes,less_than_hs_summary,college_degree_years16_or_strict,Education: less than HS,Save,13,14.881662329660303,1.881662329660303
+summary less-HS + four-plus years or bachelor degree codes,less_than_hs_summary,college_degree_years16_or_strict,HS/some college,Save,51,51.385506681709124,0.38550668170912417
+summary less-HS + four-plus years or bachelor degree codes,less_than_hs_summary,college_degree_years16_or_strict,College degree or more,Save,36,33.73283098863069,-2.2671690113693117
+summary less-HS + four-plus years or bachelor degree codes,less_than_hs_summary,college_degree_years16_or_strict,Education: less than HS,Population,11,11.961114504354011,0.9611145043540112
+summary less-HS + four-plus years or bachelor degree codes,less_than_hs_summary,college_degree_years16_or_strict,HS/some college,Population,55,55.23870573589677,0.23870573589677235
+summary less-HS + four-plus years or bachelor degree codes,less_than_hs_summary,college_degree_years16_or_strict,College degree or more,Population,34,32.80017975974963,-1.199820240250368
+summary less-HS + four-plus years or non-associate degree,less_than_hs_summary,college_degree_years16_or_nonassociate,Education: less than HS,Borrow,13,13.712796849357508,0.7127968493575079
+summary less-HS + four-plus years or non-associate degree,less_than_hs_summary,college_degree_years16_or_nonassociate,HS/some college,Borrow,73,70.92772035881167,-2.072279641188331
+summary less-HS + four-plus years or non-associate degree,less_than_hs_summary,college_degree_years16_or_nonassociate,College degree or more,Borrow,14,15.35948279183075,1.3594827918307502
+summary less-HS + four-plus years or non-associate degree,less_than_hs_summary,college_degree_years16_or_nonassociate,Education: less than HS,Borrow and save,5,4.181296223427742,-0.8187037765722582
+summary less-HS + four-plus years or non-associate degree,less_than_hs_summary,college_degree_years16_or_nonassociate,HS/some college,Borrow and save,61,62.191710568488446,1.1917105684884461
+summary less-HS + four-plus years or non-associate degree,less_than_hs_summary,college_degree_years16_or_nonassociate,College degree or more,Borrow and save,33,33.6269932080838,0.6269932080838032
+summary less-HS + four-plus years or non-associate degree,less_than_hs_summary,college_degree_years16_or_nonassociate,Education: less than HS,Save,13,14.881662329660303,1.881662329660303
+summary less-HS + four-plus years or non-associate degree,less_than_hs_summary,college_degree_years16_or_nonassociate,HS/some college,Save,51,51.20307798582048,0.2030779858204781
+summary less-HS + four-plus years or non-associate degree,less_than_hs_summary,college_degree_years16_or_nonassociate,College degree or more,Save,36,33.91525968451934,-2.0847403154806585
+summary less-HS + four-plus years or non-associate degree,less_than_hs_summary,college_degree_years16_or_nonassociate,Education: less than HS,Population,11,11.961114504354011,0.9611145043540112
+summary less-HS + four-plus years or non-associate degree,less_than_hs_summary,college_degree_years16_or_nonassociate,HS/some college,Population,55,55.11406722266566,0.1140672226656605
+summary less-HS + four-plus years or non-associate degree,less_than_hs_summary,college_degree_years16_or_nonassociate,College degree or more,Population,34,32.92481827298074,-1.0751817270192632
+raw less-HS + four-plus years or non-associate degree,less_than_hs_raw,college_degree_years16_or_nonassociate,Education: less than HS,Borrow,13,16.555658839827366,3.555658839827366
+raw less-HS + four-plus years or non-associate degree,less_than_hs_raw,college_degree_years16_or_nonassociate,HS/some college,Borrow,73,68.08485836834186,-4.915141631658145
+raw less-HS + four-plus years or non-associate degree,less_than_hs_raw,college_degree_years16_or_nonassociate,College degree or more,Borrow,14,15.35948279183075,1.3594827918307502
+raw less-HS + four-plus years or non-associate degree,less_than_hs_raw,college_degree_years16_or_nonassociate,Education: less than HS,Borrow and save,5,6.332948240534026,1.3329482405340256
+raw less-HS + four-plus years or non-associate degree,less_than_hs_raw,college_degree_years16_or_nonassociate,HS/some college,Borrow and save,61,60.040058551382124,-0.9599414486178759
+raw less-HS + four-plus years or non-associate degree,less_than_hs_raw,college_degree_years16_or_nonassociate,College degree or more,Borrow and save,33,33.6269932080838,0.6269932080838032
+raw less-HS + four-plus years or non-associate degree,less_than_hs_raw,college_degree_years16_or_nonassociate,Education: less than HS,Save,13,17.875448697353907,4.875448697353907
+raw less-HS + four-plus years or non-associate degree,less_than_hs_raw,college_degree_years16_or_nonassociate,HS/some college,Save,51,48.20929161812686,-2.790708381873138
+raw less-HS + four-plus years or non-associate degree,less_than_hs_raw,college_degree_years16_or_nonassociate,College degree or more,Save,36,33.91525968451934,-2.0847403154806585
+raw less-HS + four-plus years or non-associate degree,less_than_hs_raw,college_degree_years16_or_nonassociate,Education: less than HS,Population,11,14.722148846871159,3.7221488468711588
+raw less-HS + four-plus years or non-associate degree,less_than_hs_raw,college_degree_years16_or_nonassociate,HS/some college,Population,55,52.35303288014841,-2.6469671198515883
+raw less-HS + four-plus years or non-associate degree,less_than_hs_raw,college_degree_years16_or_nonassociate,College degree or more,Population,34,32.92481827298074,-1.0751817270192632
+summary less-HS + any reported college degree including associate,less_than_hs_summary,college_degree_include_associate,Education: less than HS,Borrow,13,13.712796849357508,0.7127968493575079
+summary less-HS + any reported college degree including associate,less_than_hs_summary,college_degree_include_associate,HS/some college,Borrow,73,64.79301972211327,-8.206980277886728
+summary less-HS + any reported college degree including associate,less_than_hs_summary,college_degree_include_associate,College degree or more,Borrow,14,21.49418342852922,7.494183428529219
+summary less-HS + any reported college degree including associate,less_than_hs_summary,college_degree_include_associate,Education: less than HS,Borrow and save,5,4.181296223427742,-0.8187037765722582
+summary less-HS + any reported college degree including associate,less_than_hs_summary,college_degree_include_associate,HS/some college,Borrow and save,61,55.511501327695534,-5.488498672304466
+summary less-HS + any reported college degree including associate,less_than_hs_summary,college_degree_include_associate,College degree or more,Borrow and save,33,40.307202448876666,7.307202448876666
+summary less-HS + any reported college degree including associate,less_than_hs_summary,college_degree_include_associate,Education: less than HS,Save,13,14.881662329660303,1.881662329660303
+summary less-HS + any reported college degree including associate,less_than_hs_summary,college_degree_include_associate,HS/some college,Save,51,47.14388295471662,-3.8561170452833835
+summary less-HS + any reported college degree including associate,less_than_hs_summary,college_degree_include_associate,College degree or more,Save,36,37.9744547156231,1.9744547156230965
+summary less-HS + any reported college degree including associate,less_than_hs_summary,college_degree_include_associate,Education: less than HS,Population,11,11.961114504354011,0.9611145043540112
+summary less-HS + any reported college degree including associate,less_than_hs_summary,college_degree_include_associate,HS/some college,Population,55,50.25143110939896,-4.748568890601042
+summary less-HS + any reported college degree including associate,less_than_hs_summary,college_degree_include_associate,College degree or more,Population,34,37.787454386247134,3.787454386247134

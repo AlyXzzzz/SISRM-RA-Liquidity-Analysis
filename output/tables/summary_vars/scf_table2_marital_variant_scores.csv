@@ -1,0 +1,27 @@
+characteristic,candidate,variable,mean_abs_diff,max_abs_diff
+Marital status: married,hybrid: legal married + partner/divorced/widowed,married_legal_plus_partner_divorced_widowed,0.7682667644601242,1.3609061819153396
+Marital status: married,primary fork: raw X8023 == 1,married,0.7682667644601242,1.3609061819153396
+Marital status: married,hybrid: legal married + partner/separated/divorced/widowed,married_legal_plus_partner_separated_divorced_widowed,0.8286967332016246,1.1845187038862477
+Marital status: married,hybrid: legal married + partner/divorced,married_legal_plus_partner_divorced,0.8478605171453477,1.5500528452125693
+Marital status: married,hybrid: legal married + partner/separated/divorced,married_legal_plus_partner_separated_divorced,0.9082904858868499,1.1845187038862477
+Marital status: married,diagnostic: legal married + partner/widowed/never married,married_legal_plus_partner_widowed_never_married,0.9830137611263794,2.7943722786922436
+Marital status: married,diagnostic: legal married + partner/never married,married_legal_plus_partner_never_married,1.062476721355326,2.7943722786922436
+Marital status: married,raw X7372 == 1 legal marital status,married_legal,3.2769885792026,4.306810958383082
+Marital status: married,"raw X7372 == 1, nonzero J7372 dropped",married_legal_reported_only,3.2769885792026,4.306810958383082
+Marital status: married,"raw X8023 == 1, nonzero J8023 dropped",married_current_reported_only,3.43258351382047,4.570012159405451
+Marital status: married,raw X8023 == 1,married_raw,3.4393776421949553,4.527155473448367
+Marital status: married,raw X7019 spouse/partner in PEU codes,spouse_partner_in_peu_x7019,3.447183103164667,4.34551520972866
+Marital status: married,raw X7020 == 2 spouse/partner in PEU,spouse_partner_in_peu,3.447183103164667,4.34551520972866
+Marital status: married,raw X7372 == 1 & X7020 == 2,married_legal_and_peu,3.5326009875308593,4.792225696128995
+Marital status: married,raw X8023 == 1 & X7020 == 2,married_current_and_peu,3.6768749554911633,4.969521483561394
+Marital status: married,raw X8023 == 1 | X7020 == 2,married_current_or_peu,3.684680416460882,4.507551370143176
+Marital status: married,raw X7372 == 1 | X7020 == 2,married_legal_or_peu,3.7027955114929245,4.507551370143176
+Marital status: married,raw FAMSTRUCT in 4:5,married_from_raw_famstruct,4.1667024852129835,5.616716178603049
+Marital status: married,raw X7372 == 1 | X8023 == 2,married_legal_or_current_partner,4.1667024852129835,5.616716178603049
+Marital status: married,raw X8023 in 1:2,married_or_partnered,4.1667024852129835,5.616716178603049
+Marital status: married,summary FAMSTRUCT in 4:5,married_from_summary_famstruct,4.1667024852129835,5.616716178603049
+Marital status: married,summary MARRIED == 1,married_summary,4.1667024852129835,5.616716178603049
+Marital status: married,diagnostic: partner/never married only,current_partner_legal_never_married,52.57993019013111,57.94985708008384
+Marital status: married,diagnostic: partner/divorced only,current_partner_legal_divorced,54.088310802521434,58.60147843459219
+Marital status: married,diagnostic: partner/separated only,current_partner_legal_separated,56.21766169561711,61.99898215763745
+Marital status: married,diagnostic: partner/widowed only,current_partner_legal_widowed,56.67040624731478,62

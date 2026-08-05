@@ -1,0 +1,105 @@
+characteristic,candidate,variable,group,paper,replication,diff
+Marital status: married,primary fork: raw X8023 == 1,married,Borrow,48,47.981181890766145,-0.018818109233855296
+Marital status: married,primary fork: raw X8023 == 1,married,Borrow and save,62,62.46512227084268,0.4651222708426772
+Marital status: married,primary fork: raw X8023 == 1,married,Save,58,56.63909381808466,-1.3609061819153396
+Marital status: married,primary fork: raw X8023 == 1,married,Population,59,57.771779504151375,-1.2282204958486247
+Marital status: married,raw X8023 == 1,married_raw,Borrow,48,46.36217480397543,-1.637825196024572
+Marital status: married,raw X8023 == 1,married_raw,Borrow and save,62,58.8467547649492,-3.1532452350507967
+Marital status: married,raw X8023 == 1,married_raw,Save,58,53.47284452655163,-4.527155473448367
+Marital status: married,raw X8023 == 1,married_raw,Population,59,54.560715335743915,-4.4392846642560855
+Marital status: married,raw X7372 == 1 legal marital status,married_legal,Borrow,48,46.36217480397543,-1.637825196024572
+Marital status: married,raw X7372 == 1 legal marital status,married_legal,Borrow and save,62,59.0666007054349,-2.933399294565099
+Marital status: married,raw X7372 == 1 legal marital status,married_legal,Save,58,53.69318904161692,-4.306810958383082
+Marital status: married,raw X7372 == 1 legal marital status,married_legal,Population,59,54.77008113216235,-4.229918867837647
+Marital status: married,hybrid: legal married + partner/divorced,married_legal_plus_partner_divorced,Borrow,48,47.981181890766145,-0.018818109233855296
+Marital status: married,hybrid: legal married + partner/divorced,married_legal_plus_partner_divorced,Borrow and save,62,62.46512227084268,0.4651222708426772
+Marital status: married,hybrid: legal married + partner/divorced,married_legal_plus_partner_divorced,Save,58,56.44994715478743,-1.5500528452125693
+Marital status: married,hybrid: legal married + partner/divorced,married_legal_plus_partner_divorced,Population,59,57.64255115670771,-1.357448843292289
+Marital status: married,hybrid: legal married + partner/divorced/widowed,married_legal_plus_partner_divorced_widowed,Borrow,48,47.981181890766145,-0.018818109233855296
+Marital status: married,hybrid: legal married + partner/divorced/widowed,married_legal_plus_partner_divorced_widowed,Borrow and save,62,62.46512227084268,0.4651222708426772
+Marital status: married,hybrid: legal married + partner/divorced/widowed,married_legal_plus_partner_divorced_widowed,Save,58,56.63909381808466,-1.3609061819153396
+Marital status: married,hybrid: legal married + partner/divorced/widowed,married_legal_plus_partner_divorced_widowed,Population,59,57.771779504151375,-1.2282204958486247
+Marital status: married,hybrid: legal married + partner/separated/divorced,married_legal_plus_partner_separated_divorced,Borrow,48,49.18451870388625,1.1845187038862477
+Marital status: married,hybrid: legal married + partner/separated/divorced,married_legal_plus_partner_separated_divorced,Borrow and save,62,62.466140113205235,0.46614011320523474
+Marital status: married,hybrid: legal married + partner/separated/divorced,married_legal_plus_partner_separated_divorced,Save,58,56.964139822027484,-1.0358601779725163
+Marital status: married,hybrid: legal married + partner/separated/divorced,married_legal_plus_partner_separated_divorced,Population,59,58.0533570515166,-0.9466429484834009
+Marital status: married,hybrid: legal married + partner/separated/divorced/widowed,married_legal_plus_partner_separated_divorced_widowed,Borrow,48,49.18451870388625,1.1845187038862477
+Marital status: married,hybrid: legal married + partner/separated/divorced/widowed,married_legal_plus_partner_separated_divorced_widowed,Borrow and save,62,62.466140113205235,0.46614011320523474
+Marital status: married,hybrid: legal married + partner/separated/divorced/widowed,married_legal_plus_partner_separated_divorced_widowed,Save,58,57.15328648532471,-0.8467135146752867
+Marital status: married,hybrid: legal married + partner/separated/divorced/widowed,married_legal_plus_partner_separated_divorced_widowed,Population,59,58.18258539896027,-0.8174146010397294
+Marital status: married,diagnostic: legal married + partner/never married,married_legal_plus_partner_never_married,Borrow,48,50.794372278692244,2.7943722786922436
+Marital status: married,diagnostic: legal married + partner/never married,married_legal_plus_partner_never_married,Borrow and save,62,63.116743625351056,1.1167436253510559
+Marital status: married,diagnostic: legal married + partner/never married,married_legal_plus_partner_never_married,Save,58,57.79017578115309,-0.2098242188469115
+Marital status: married,diagnostic: legal married + partner/never married,married_legal_plus_partner_never_married,Population,59,58.87103323746891,-0.12896676253109263
+Marital status: married,diagnostic: legal married + partner/widowed/never married,married_legal_plus_partner_widowed_never_married,Borrow,48,50.794372278692244,2.7943722786922436
+Marital status: married,diagnostic: legal married + partner/widowed/never married,married_legal_plus_partner_widowed_never_married,Borrow and save,62,63.116743625351056,1.1167436253510559
+Marital status: married,diagnostic: legal married + partner/widowed/never married,married_legal_plus_partner_widowed_never_married,Save,58,57.97932244445033,-0.02067755554966766
+Marital status: married,diagnostic: legal married + partner/widowed/never married,married_legal_plus_partner_widowed_never_married,Population,59,59.00026158491255,2.61584912550461e-4
+Marital status: married,diagnostic: partner/separated only,current_partner_legal_separated,Borrow,48,1.2033368131201003,-46.7966631868799
+Marital status: married,diagnostic: partner/separated only,current_partner_legal_separated,Borrow and save,62,0.0010178423625501723,-61.99898215763745
+Marital status: married,diagnostic: partner/separated only,current_partner_legal_separated,Save,58,0.5141926672400694,-57.48580733275993
+Marital status: married,diagnostic: partner/separated only,current_partner_legal_separated,Population,59,0.4108058948088513,-58.58919410519115
+Marital status: married,diagnostic: partner/divorced only,current_partner_legal_divorced,Borrow,48,1.6190070867907156,-46.38099291320928
+Marital status: married,diagnostic: partner/divorced only,current_partner_legal_divorced,Borrow and save,62,3.398521565407811,-58.60147843459219
+Marital status: married,diagnostic: partner/divorced only,current_partner_legal_divorced,Save,58,2.756758113170534,-55.243241886829466
+Marital status: married,diagnostic: partner/divorced only,current_partner_legal_divorced,Population,59,2.87247002454521,-56.12752997545479
+Marital status: married,diagnostic: partner/widowed only,current_partner_legal_widowed,Borrow,48,0,-48
+Marital status: married,diagnostic: partner/widowed only,current_partner_legal_widowed,Borrow and save,62,0,-62
+Marital status: married,diagnostic: partner/widowed only,current_partner_legal_widowed,Save,58,0.18914666329722776,-57.81085333670277
+Marital status: married,diagnostic: partner/widowed only,current_partner_legal_widowed,Population,59,0.1292283474436554,-58.87077165255634
+Marital status: married,diagnostic: partner/never married only,current_partner_legal_never_married,Borrow,48,4.432197474716803,-43.5678025252832
+Marital status: married,diagnostic: partner/never married only,current_partner_legal_never_married,Borrow and save,62,4.050142919916164,-57.94985708008384
+Marital status: married,diagnostic: partner/never married only,current_partner_legal_never_married,Save,58,4.096986739536254,-53.903013260463744
+Marital status: married,diagnostic: partner/never married only,current_partner_legal_never_married,Population,59,4.100952105306362,-54.89904789469364
+Marital status: married,"raw X8023 == 1, nonzero J8023 dropped",married_current_reported_only,Borrow,48,46.36217480397543,-1.637825196024572
+Marital status: married,"raw X8023 == 1, nonzero J8023 dropped",married_current_reported_only,Borrow and save,62,58.92411671242074,-3.075883287579259
+Marital status: married,"raw X8023 == 1, nonzero J8023 dropped",married_current_reported_only,Save,58,53.42998784059455,-4.570012159405451
+Marital status: married,"raw X8023 == 1, nonzero J8023 dropped",married_current_reported_only,Population,59,54.5533865877274,-4.4466134122725975
+Marital status: married,"raw X7372 == 1, nonzero J7372 dropped",married_legal_reported_only,Borrow,48,46.36217480397543,-1.637825196024572
+Marital status: married,"raw X7372 == 1, nonzero J7372 dropped",married_legal_reported_only,Borrow and save,62,59.0666007054349,-2.933399294565099
+Marital status: married,"raw X7372 == 1, nonzero J7372 dropped",married_legal_reported_only,Save,58,53.69318904161692,-4.306810958383082
+Marital status: married,"raw X7372 == 1, nonzero J7372 dropped",married_legal_reported_only,Population,59,54.77008113216235,-4.229918867837647
+Marital status: married,raw X7020 == 2 spouse/partner in PEU,spouse_partner_in_peu,Borrow,48,52.1777039505291,4.1777039505291
+Marital status: married,raw X7020 == 2 spouse/partner in PEU,spouse_partner_in_peu,Borrow and save,62,66.34551520972866,4.34551520972866
+Marital status: married,raw X7020 == 2 spouse/partner in PEU,spouse_partner_in_peu,Save,58,60.56600137722425,2.5660013772242465
+Marital status: married,raw X7020 == 2 spouse/partner in PEU,spouse_partner_in_peu,Population,59,61.69951187517666,2.699511875176661
+Marital status: married,raw X7019 spouse/partner in PEU codes,spouse_partner_in_peu_x7019,Borrow,48,52.1777039505291,4.1777039505291
+Marital status: married,raw X7019 spouse/partner in PEU codes,spouse_partner_in_peu_x7019,Borrow and save,62,66.34551520972866,4.34551520972866
+Marital status: married,raw X7019 spouse/partner in PEU codes,spouse_partner_in_peu_x7019,Save,58,60.56600137722425,2.5660013772242465
+Marital status: married,raw X7019 spouse/partner in PEU codes,spouse_partner_in_peu_x7019,Population,59,61.69951187517666,2.699511875176661
+Marital status: married,raw X7372 == 1 & X7020 == 2,married_legal_and_peu,Borrow,48,46.36217480397543,-1.637825196024572
+Marital status: married,raw X7372 == 1 & X7020 == 2,married_legal_and_peu,Borrow and save,62,58.90456454502041,-3.0954354549795866
+Marital status: married,raw X7372 == 1 & X7020 == 2,married_legal_and_peu,Save,58,53.207774303871005,-4.792225696128995
+Marital status: married,raw X7372 == 1 & X7020 == 2,married_legal_and_peu,Population,59,54.395082397009716,-4.604917602990284
+Marital status: married,raw X8023 == 1 & X7020 == 2,married_current_and_peu,Borrow,48,46.36217480397543,-1.637825196024572
+Marital status: married,raw X8023 == 1 & X7020 == 2,married_current_and_peu,Borrow and save,62,58.684718604534716,-3.315281395465284
+Marital status: married,raw X8023 == 1 & X7020 == 2,married_current_and_peu,Save,58,53.030478516438606,-4.969521483561394
+Marital status: married,raw X8023 == 1 & X7020 == 2,married_current_and_peu,Population,59,54.2151282530866,-4.784871746913403
+Marital status: married,raw X8023 == 1 | X7020 == 2,married_current_or_peu,Borrow,48,52.1777039505291,4.1777039505291
+Marital status: married,raw X8023 == 1 | X7020 == 2,married_current_or_peu,Borrow and save,62,66.50755137014318,4.507551370143176
+Marital status: married,raw X8023 == 1 | X7020 == 2,married_current_or_peu,Save,58,61.00836738733724,3.0083673873372376
+Marital status: married,raw X8023 == 1 | X7020 == 2,married_current_or_peu,Population,59,62.045098957834014,3.045098957834014
+Marital status: married,raw X7372 == 1 | X7020 == 2,married_legal_or_peu,Borrow,48,52.1777039505291,4.1777039505291
+Marital status: married,raw X7372 == 1 | X7020 == 2,married_legal_or_peu,Borrow and save,62,66.50755137014318,4.507551370143176
+Marital status: married,raw X7372 == 1 | X7020 == 2,married_legal_or_peu,Save,58,61.051416114970095,3.0514161149700954
+Marital status: married,raw X7372 == 1 | X7020 == 2,married_legal_or_peu,Population,59,62.07451061032933,3.0745106103293267
+Marital status: married,raw X7372 == 1 | X8023 == 2,married_legal_or_current_partner,Borrow,48,53.61671617860305,5.616716178603049
+Marital status: married,raw X7372 == 1 | X8023 == 2,married_legal_or_current_partner,Borrow and save,62,66.51628303312143,4.516283033121425
+Marital status: married,raw X7372 == 1 | X8023 == 2,married_legal_or_current_partner,Save,58,61.25027322486092,3.250273224860919
+Marital status: married,raw X7372 == 1 | X8023 == 2,married_legal_or_current_partner,Population,59,62.28353750426654,3.2835375042665405
+Marital status: married,raw X8023 in 1:2,married_or_partnered,Borrow,48,53.61671617860305,5.616716178603049
+Marital status: married,raw X8023 in 1:2,married_or_partnered,Borrow and save,62,66.51628303312143,4.516283033121425
+Marital status: married,raw X8023 in 1:2,married_or_partnered,Save,58,61.25027322486092,3.250273224860919
+Marital status: married,raw X8023 in 1:2,married_or_partnered,Population,59,62.28353750426654,3.2835375042665405
+Marital status: married,summary MARRIED == 1,married_summary,Borrow,48,53.61671617860305,5.616716178603049
+Marital status: married,summary MARRIED == 1,married_summary,Borrow and save,62,66.51628303312143,4.516283033121425
+Marital status: married,summary MARRIED == 1,married_summary,Save,58,61.25027322486092,3.250273224860919
+Marital status: married,summary MARRIED == 1,married_summary,Population,59,62.28353750426654,3.2835375042665405
+Marital status: married,raw FAMSTRUCT in 4:5,married_from_raw_famstruct,Borrow,48,53.61671617860305,5.616716178603049
+Marital status: married,raw FAMSTRUCT in 4:5,married_from_raw_famstruct,Borrow and save,62,66.51628303312143,4.516283033121425
+Marital status: married,raw FAMSTRUCT in 4:5,married_from_raw_famstruct,Save,58,61.25027322486092,3.250273224860919
+Marital status: married,raw FAMSTRUCT in 4:5,married_from_raw_famstruct,Population,59,62.28353750426654,3.2835375042665405
+Marital status: married,summary FAMSTRUCT in 4:5,married_from_summary_famstruct,Borrow,48,53.61671617860305,5.616716178603049
+Marital status: married,summary FAMSTRUCT in 4:5,married_from_summary_famstruct,Borrow and save,62,66.51628303312143,4.516283033121425
+Marital status: married,summary FAMSTRUCT in 4:5,married_from_summary_famstruct,Save,58,61.25027322486092,3.250273224860919
+Marital status: married,summary FAMSTRUCT in 4:5,married_from_summary_famstruct,Population,59,62.28353750426654,3.2835375042665405

@@ -1,0 +1,25 @@
+variant,debt_variable,statistic,group,paper,share_pct,diff,n_households
+"primary: finance charges > 0, average balance 2/5",cc_debt_finance_positive_average_balance,Puzzle size (%),Borrow,7,8.453102780469871,1.4531027804698713,241
+"primary: finance charges > 0, average balance 2/5",cc_debt_finance_positive_average_balance,Puzzle size (%),Borrow and save,29,28.835823764309282,-0.16417623569071793,902
+"primary: finance charges > 0, average balance 2/5",cc_debt_finance_positive_average_balance,Puzzle size (%),Save,64,62.711073455220635,-1.2889265447793647,1822
+"finance charges > 0, fifth-interview balance",cc_debt_finance_positive_fifth_balance,Puzzle size (%),Borrow,7,7.931822984928904,0.9318229849289041,227
+"finance charges > 0, fifth-interview balance",cc_debt_finance_positive_fifth_balance,Puzzle size (%),Borrow and save,29,26.925291684321177,-2.074708315678823,837
+"finance charges > 0, fifth-interview balance",cc_debt_finance_positive_fifth_balance,Puzzle size (%),Save,64,65.1428853307497,1.1428853307497064,1901
+"finance charges >= 14% of $500, average balance 2/5",cc_debt_finance_ge_70_average_balance,Puzzle size (%),Borrow,7,6.452197437181867,-0.5478025628181333,186
+"finance charges >= 14% of $500, average balance 2/5",cc_debt_finance_ge_70_average_balance,Puzzle size (%),Borrow and save,29,22.337537791406948,-6.662462208593052,707
+"finance charges >= 14% of $500, average balance 2/5",cc_debt_finance_ge_70_average_balance,Puzzle size (%),Save,64,71.21026477141095,7.210264771410948,2072
+finance charges / 0.14 implied balance,cc_debt_implied_from_finance_charges,Puzzle size (%),Borrow,7,7.584922842006229,0.5849228420062289,217
+finance charges / 0.14 implied balance,cc_debt_implied_from_finance_charges,Puzzle size (%),Borrow and save,29,23.974756152622785,-5.025243847377215,760
+finance charges / 0.14 implied balance,cc_debt_implied_from_finance_charges,Puzzle size (%),Save,64,68.44032100537073,4.440321005370734,1988
+implied balance capped at average balance 2/5,cc_debt_implied_capped_at_average_balance,Puzzle size (%),Borrow,7,6.382501276901962,-0.6174987230980378,184
+implied balance capped at average balance 2/5,cc_debt_implied_capped_at_average_balance,Puzzle size (%),Borrow and save,29,21.763493915143975,-7.236506084856025,691
+implied balance capped at average balance 2/5,cc_debt_implied_capped_at_average_balance,Puzzle size (%),Save,64,71.85400480795381,7.854004807953814,2090
+finance charges >= 14% of average balance 2/5,cc_debt_apr14_average_balance,Puzzle size (%),Borrow,7,2.791055285147922,-4.208944714852079,78
+finance charges >= 14% of average balance 2/5,cc_debt_apr14_average_balance,Puzzle size (%),Borrow and save,29,8.589552129007554,-20.410447870992446,277
+finance charges >= 14% of average balance 2/5,cc_debt_apr14_average_balance,Puzzle size (%),Save,64,88.6193925858444,24.619392585844395,2610
+fifth-interview balance only,cc_balance_fifth,Puzzle size (%),Borrow,7,9.148441037422957,2.1484410374229572,259
+fifth-interview balance only,cc_balance_fifth,Puzzle size (%),Borrow and save,29,31.550293618902064,2.5502936189020637,980
+fifth-interview balance only,cc_balance_fifth,Puzzle size (%),Save,64,59.30126534367481,-4.698734656325193,1726
+average second/fifth balance only,cc_balance_average_2_5,Puzzle size (%),Borrow,7,11.58235314833729,4.58235314833729,328
+average second/fifth balance only,cc_balance_average_2_5,Puzzle size (%),Borrow and save,29,37.46224837747091,8.462248377470907,1161
+average second/fifth balance only,cc_balance_average_2_5,Puzzle size (%),Save,64,50.95539847419162,-13.044601525808382,1476

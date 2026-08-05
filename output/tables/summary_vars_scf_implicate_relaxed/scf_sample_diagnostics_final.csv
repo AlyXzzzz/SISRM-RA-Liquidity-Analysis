@@ -1,0 +1,3 @@
+sample_status,n_rows,n_households,rows_per_household,weighted_population,age_mean,income_mean,target_households,household_gap_vs_target
+Dropped,7819,1564,4.999360613810742,39859797.91799994,58.470501521121236,50109.18295898248,NA,NA
+Kept,14391,2879,4.998610628690518,66636011.0339999,43.293283534634554,77429.94335516258,2878,1

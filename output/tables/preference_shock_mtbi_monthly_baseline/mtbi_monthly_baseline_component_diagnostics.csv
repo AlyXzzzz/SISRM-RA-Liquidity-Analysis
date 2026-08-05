@@ -1,0 +1,16 @@
+detail,component,exclusion_group,n_records,mean_nominal,mean_nominal_for_sum,p95_nominal_for_sum,gift_records_remaining
+alcohol,alcohol,food_alcohol_tobacco,235181,37.62093440499312,37.62093440499312,100,0
+cash_contributions,cash_contributions,other,138011,149.25716080094534,149.25716080094534,514,0
+food_total,food,food_alcohol_tobacco,774913,184.80254822244646,184.80254822244646,541.6667,0
+health_insurance,health_insurance,other,302406,96.57918828926043,96.57918828926043,288,0
+household_furnishings_equipment,household_repairs_operations,other,192248,165.82944429643175,165.82944429643175,721,0
+household_operations_total,household_repairs_operations,other,244642,75.29880825369405,75.29880825369405,287,0
+mortgage_interest,mortgages,other,160268,498.0371063880598,498.0371063880598,1290.6499999999942,0
+owned_dwelling_repairs_insurance_other,mortgages,other,82227,300.04699479855213,300.04699479855213,1043.878,0
+vacation_home_mortgage_principal,mortgages,other,4901,-236.1988741073224,236.1988741073224,686,0
+property_taxes,property_taxes,property_taxes,214263,156.33229289564986,156.33229289564986,416.6667,0
+public_transportation,public_transportation,other,81627,134.5270929263598,134.5270929263598,600,0
+rent_as_pay,rents,other,2298,330.2397745430811,330.2397745430811,785.3333,0
+rent_excluding_as_pay,rents,other,110411,519.5605045529744,519.5605045529744,1200,0
+tobacco,tobacco,food_alcohol_tobacco,84480,99.64558419033925,99.64558419033925,242.6667,0
+utilities,utilities,other,1281517,56.03198068695932,56.03198068695932,155,0

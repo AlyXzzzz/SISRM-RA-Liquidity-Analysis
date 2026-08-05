@@ -1,0 +1,4 @@
+measure,n_pairs,n_households,mean_qyear_gap,share_interview_gap_one,corr_consumption,corr_log_consumption
+benchmark,55929,25450,1,1,0.8142212960501068,0.8260390641940023
+excluding_food,55752,25330,1,1,0.8045506307467393,0.7923697502394181
+excluding_food_property_taxes,55666,25305,1,1,0.7475247280815766,0.7651015545730014

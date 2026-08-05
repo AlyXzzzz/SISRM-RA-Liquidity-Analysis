@@ -1,0 +1,42 @@
+characteristic,candidate,variable,mean_abs_diff,max_abs_diff
+Head white-collar/prof.,public X7401 in 1:2 + service employees,head_white_collar_public_12_service_employee,1.9504097055666154,4.514944623645164
+Head white-collar/prof.,public X7401 in 1:2 + service full-time,head_white_collar_public_12_service_full_time,1.9683644255170716,4.572032498591639
+Head white-collar/prof.,public X7401 in 1:3 & current worker recode,head_white_collar_public_13_current_worker,2.2262274852522257,5.380179837151005
+Head white-collar/prof.,"public X7401 in 1:3, J7401 < 90",head_white_collar_public_13_reported_coded,2.2392567100703715,5.79802942972384
+Head white-collar/prof.,public X7401 in 1:2 + service current workers,head_white_collar_public_12_service_current_worker,2.3237497547479897,5.793418877883141
+Head white-collar/prof.,"public X7401 in 1:3, drop missing/imputed J7401 >= 997",head_white_collar_public_13_drop_missing_imputed,2.4081408196023038,5.900673839990176
+Head white-collar/prof.,primary fork: summary OCCAT2 in 1:2,head_white_collar_prof,2.5079420428266204,5.921148429867259
+Head white-collar/prof.,public X7401 in 1:3,head_white_collar_public_13,2.5079420428266204,5.921148429867259
+Head white-collar/prof.,raw X7401 in 1:3,head_white_collar_prof_raw_broad,2.5079420428266204,5.921148429867259
+Head white-collar/prof.,summary OCCAT2 in 1:2,head_white_collar_occat2_broad_summary,2.5079420428266204,5.921148429867259
+Head white-collar/prof.,public X7401 in 1:3 & full-time,head_white_collar_public_13_full_time,2.594267757438061,4.957883862904957
+Head white-collar/prof.,public X7401 in 1:3 & employee,head_white_collar_public_13_employee,7.114809569108472,12.161236763030004
+Head white-collar/prof.,public X7401 in 1:2,head_white_collar_public_12,7.676273763928949,9.376641049262929
+Head white-collar/prof.,raw X7401 in 1:2,head_white_collar_prof_raw,7.676273763928949,9.376641049262929
+Head white-collar/prof.,public X7401 in 1:4,head_white_collar_public_14,14.846555625037244,19.982465282494204
+Head white-collar/prof.,summary OCCAT1 == 1,head_white_collar_occat1_summary,18.55874251979224,23.20269619107698
+Head white-collar/prof.,public X7401 == 1: managerial/professional,head_occ_managerial_professional,27.08736739456949,31.55650426224111
+Head white-collar/prof.,summary OCCAT2 == 1,head_white_collar_occat2_summary,27.08736739456949,31.55650426224111
+Head white-collar/prof.,public X7401 == 2: technical/sales/admin,head_occ_technical_sales_admin,36.83890636935941,41.871724583354776
+Head white-collar/prof.,public X7401 == 3: service/protective/military,head_occ_service_protective_military,46.27044300726869,50.58015355801402
+Head works full-time,primary fork: raw X4511 == 1,head_full_time,2.0311026969972907,4.799534502347058
+Head works full-time,"raw X4511 == 1, drop missing/imputed J4511 >= 997",head_full_time_drop_missing_imputed,2.060249202875749,4.799299379200363
+Head works full-time,"raw X4511 == 1, J4511 < 90",head_full_time_reported_edited,2.093705814288885,4.44001400472834
+Head works full-time,main-job hours >= 30,head_full_time_main_hours30,2.222781219791031,6.2917946922045616
+Head works full-time,raw X4511 == 1 or total hours >= 35,head_full_time_self_report_or_total_hours35,2.2397899955886302,6.049459159508444
+Head works full-time,main + other job hours >= 30,head_full_time_total_hours30,2.405204689153212,6.932669127429207
+Head works full-time,raw X4511 == 1 & X4100 in 11:17,head_full_time_worker_recode,2.4172421384397396,3.7484230729629076
+Head works full-time,raw X4511 == 1 & X4100 in 11:17 or 96,head_full_time_current_worker_recode,2.463803145847532,4.258565909630775
+Head works full-time,"raw X4511 == 1, J4511 == 0",head_full_time_reported_only,2.6492408755029864,3.2102467456840884
+Head works full-time,main + other job hours >= 35,head_full_time_total_hours35,2.660732766083079,4.078667906412306
+Head works full-time,raw X4511 == 1 & active worker recode,head_full_time_active_worker_recode,2.720830432209201,4.09630564238536
+Head works full-time,main-job hours >= 35,head_full_time_main_hours35,3.042344478710941,4.107085000353948
+Head works full-time,raw X4511 == 1 and total hours >= 35,head_full_time_self_report_and_total_hours35,3.05317476256414,4.647140176397087
+Head works full-time,raw X4511 == 1 & X4100 == 11,head_full_time_worker_only,3.8211756117154536,5.129759261756689
+Head works full-time,annual total hours >= 1750,head_full_time_annual_total1750,5.250466232916484,8.00293915434601
+Head works full-time,summary OCCAT1 == 1,head_full_time_summary_occat1_one,5.69125748020776,9.350442155970697
+Head works full-time,summary LF == 1 & OCCAT1 in 1:2,head_full_time_summary_lf_occat1_broad,6.335558266345505,9.22546608793455
+Head works full-time,summary OCCAT1 in 1:2,head_full_time_summary_occat1_broad,6.335558266345505,9.22546608793455
+Head works full-time,raw X4511 == 1 & employee,head_full_time_employee,9.270854214821735,13.517009657786673
+Head works full-time,summary LF == 1,head_full_time_summary_lf,9.909523387823,12.143244479254918
+Head works full-time,raw X4511 == 1 & self-employed,head_full_time_self_employed,70.86048123100203,75.5853256223813

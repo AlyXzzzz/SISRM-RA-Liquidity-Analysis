@@ -1,0 +1,18 @@
+metric,status,observed,expected,detail
+map variable count,PASS,5307,5307,
+map variable names unique,PASS,0,0,
+map positions complete and contiguous,PASS,1-53082,1-53082,
+critical variables present in map,PASS,0,0,
+parsed dimensions,PASS,22210 x 5307,22210 x 5307,
+parsed names match map and order,PASS,0,0,
+critical variables present in parsed data,PASS,0,0,
+raw record count,PASS,22210,22210,
+raw record width,PASS,0,0,"Number of records not exactly 53,082 bytes"
+critical raw fields match parsed RDS,PASS,0,0,
+SCF household count,PASS,4442,4442,
+five implicates per household,PASS,5-5,5-5,
+implicate IDs unique,PASS,0,0,
+summary extract implicate keys,PASS,0,0,
+raw case ID matches summary extract,PASS,0,0,
+raw age matches summary extract,PASS,0,0,
+raw weight matches summary extract,PASS,0.00099998,< 0.0011,Raw X42001 is stored to two decimal places; summary WGT retains more precision.

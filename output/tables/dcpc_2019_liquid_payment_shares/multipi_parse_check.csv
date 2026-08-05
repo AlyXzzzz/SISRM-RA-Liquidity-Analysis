@@ -1,0 +1,8 @@
+transaction_row_id,id,diary_day,transaction_date,diary_date,amnt,multipi_breakdown,parsed_component_total,component_total_gap,component_total_matches,n_unparsed_components,liquid_narrow_amount,liquid_broad_amount
+2298,104420,2,2019-10-21,2019-10-21,27.14,"Cash: 20, Debit Card: 7.14",27.14,0,TRUE,0,27.14,27.14
+2951,105407,3,2019-10-30,2019-10-30,23.07,"Cash: 2, Credit Card: 21.07",23.07,0,TRUE,0,2,2
+5274,101708,1,2019-10-05,2019-10-05,402.56,"Cash: 401.97, Money Order: .59",402.55999999999995,-5.684341886080802e-14,TRUE,0,401.96999999999997,401.96999999999997
+5920,105358,2,2019-10-25,2019-10-25,11.59,"Cash: 6.59, Direct deduction from income: 5",11.59,0,TRUE,0,6.59,6.59
+12170,102468,2,2019-10-20,2019-10-20,26.33,"Cash: 10, Prepaid/gift/EBT card: 16.33",26.330000000000002,3.552713678800501e-15,TRUE,0,10,10
+13315,105003,1,2019-10-04,2019-10-04,49.25,"Cash: 4.89, Check: 44.36",49.25,0,TRUE,0,49.25,49.25
+14652,104284,1,2019-10-19,2019-10-19,7.57,"Credit Card: 3.5, Direct deduction from income: 4.07",7.57,0,TRUE,0,0,0

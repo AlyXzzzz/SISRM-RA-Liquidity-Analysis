@@ -1,0 +1,10 @@
+candidate,less_than_hs_variable,college_variable,mean_abs_diff,max_abs_diff,college_mean_abs_diff
+summary less-HS + four-plus years or non-associate degree,less_than_hs_summary,college_degree_years16_or_nonassociate,1.0918175767101226,2.0847403154806585,1.2865995106036188
+summary less-HS + four-plus years or bachelor degree codes,less_than_hs_summary,college_degree_years16_or_strict,1.142995444896749,2.2671690113693117,1.3633663128835583
+summary less-HS + four or more completed college years,less_than_hs_summary,college_degree_years16,1.271589846225281,2.6569690470466085,1.4483876979146206
+summary less-HS + non-associate degree codes 2/3/4/11,less_than_hs_summary,college_degree_nonassociate,1.4892902191784987,3.3198815454370987,1.9042593846246314
+primary fork: summary EDCL,less_than_hs_summary,college_degree_or_more_summary,1.540468087365127,3.502310241325752,1.98102618690457
+summary less-HS + bachelor degree codes 2/3/4,less_than_hs_summary,college_degree_or_more_raw,1.6089649404480861,3.746474213432471,2.083771466529009
+raw questions: diploma/GED + bachelor degree codes 2/3/4,less_than_hs_raw,college_degree_or_more_raw,2.2631177948266767,4.875448697353907,2.083771466529009
+raw less-HS + four-plus years or non-associate degree,less_than_hs_raw,college_degree_years16_or_nonassociate,2.49544677075014,4.915141631658145,1.2865995106036188
+summary less-HS + any reported college degree including associate,less_than_hs_summary,college_degree_include_associate,3.936478110441318,8.206980277886728,5.140823744819029

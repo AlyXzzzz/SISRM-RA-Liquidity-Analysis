@@ -1,0 +1,17 @@
+metric,value
+fmli_files,5
+mtbi_files,5
+fmli_rows,26903
+fmli_unique_newid,26903
+fmli_unique_panels,13441
+mtbi_rows,2218545
+mtbi_duplicate_primary_keys,0
+mtbi_gift_rows,25312
+mtbi_published_integrated_rows,1642806
+mtbi_topcoded_rows,10876
+mtbi_missing_cost_rows,0
+mtbi_negative_cost_rows,69683
+mtbi_standard_reference_window_rows,2218498
+mtbi_outside_standard_reference_window_rows,47
+complete_interview_1_4_panels,1634
+complete_12_month_mtbi_panels,1634

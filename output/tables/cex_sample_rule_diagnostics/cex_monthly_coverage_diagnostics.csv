@@ -1,0 +1,17 @@
+present_full_12_months,present_consecutive_interviews_2_5,n_expected_months_with_mtbi_records,n_expected_months_with_nonmissing_cost,n_expected_months_with_positive_total,n_households
+TRUE,TRUE,12,12,9,6
+TRUE,TRUE,12,12,10,39
+TRUE,TRUE,12,12,11,1100
+TRUE,TRUE,12,12,12,11329
+FALSE,FALSE,10,10,8,1
+FALSE,FALSE,10,10,9,82
+FALSE,FALSE,9,9,7,2
+FALSE,FALSE,9,9,8,73
+FALSE,FALSE,9,9,9,2012
+FALSE,FALSE,7,7,5,1
+FALSE,FALSE,7,7,6,15
+FALSE,FALSE,6,6,5,30
+FALSE,FALSE,6,6,6,1337
+FALSE,FALSE,3,3,1,1
+FALSE,FALSE,3,3,2,16
+FALSE,FALSE,3,3,3,1376

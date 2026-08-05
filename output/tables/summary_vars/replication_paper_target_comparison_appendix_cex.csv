@@ -1,0 +1,42 @@
+table,source,statistic,characteristic,group,paper,replication,diff
+Table 1,SCF 2001,Puzzle size (%),NA,Borrow,5,4.921982647813267,-0.07801735218673311
+Table 1,SCF 2001,Puzzle size (%),NA,Borrow and save,27,26.756247784100882,-0.24375221589911789
+Table 1,SCF 2001,Puzzle size (%),NA,Save,68,68.321769568086,0.32176956808599755
+Table 1,SCF 2001,Credit-card interest rate (%),NA,Borrow,14.8,16.03732759300963,1.2373275930096277
+Table 1,SCF 2001,Credit-card interest rate (%),NA,Borrow and save,13.7,13.68256371791462,-0.017436282085379062
+Table 1,SCF 2001,Credit-card interest rate (%),NA,Save,9.8,9.282843827770275,-0.5171561722297255
+Table 1,CEX 2001 appendix timing,Puzzle size (%),NA,Borrow,7,7.331559755919946,0.3315597559199457
+Table 1,CEX 2001 appendix timing,Puzzle size (%),NA,Borrow and save,29,29.349192557196112,0.34919255719611186
+Table 1,CEX 2001 appendix timing,Puzzle size (%),NA,Save,64,63.319247686884005,-0.6807523131159954
+Table 2,SCF 2001,Share (%),Race: white,Borrow,70,70.62104377019234,0.6210437701923439
+Table 2,SCF 2001,Share (%),Race: white,Borrow and save,78,79.75257159385691,1.7525715938569135
+Table 2,SCF 2001,Share (%),Race: white,Save,74,74.17069654106679,0.1706965410667891
+Table 2,SCF 2001,Share (%),Race: white,Population,75,75.48948356775001,0.489483567750014
+Table 2,SCF 2001,Share (%),Marital status: married,Borrow,48,47.981181890766145,-0.018818109233855296
+Table 2,SCF 2001,Share (%),Marital status: married,Borrow and save,62,62.46512227084268,0.4651222708426772
+Table 2,SCF 2001,Share (%),Marital status: married,Save,58,56.63909381808466,-1.3609061819153396
+Table 2,SCF 2001,Share (%),Marital status: married,Population,59,57.771779504151375,-1.2282204958486247
+Table 2,SCF 2001,Share (%),Have dependent children,Borrow,45,42.54138038686803,-2.4586196131319724
+Table 2,SCF 2001,Share (%),Have dependent children,Borrow and save,41,43.825917061194225,2.8259170611942253
+Table 2,SCF 2001,Share (%),Have dependent children,Save,39,37.100078531040495,-1.899921468959505
+Table 2,SCF 2001,Share (%),Have dependent children,Population,40,39.16748048688596,-0.8325195131140433
+Table 2,SCF 2001,Share (%),Head works full-time,Borrow,76,74.74295207461724,-1.2570479253827642
+Table 2,SCF 2001,Share (%),Head works full-time,Borrow and save,85,89.79953450234706,4.799534502347058
+Table 2,SCF 2001,Share (%),Head works full-time,Save,80,77.96160347201362,-2.0383965279863787
+Table 2,SCF 2001,Share (%),Head works full-time,Population,81,80.97056816772704,-0.02943183227296231
+Table 2,SCF 2001,Share (%),Head white-collar/prof.,Borrow,48,49.98832388893062,1.9883238889306227
+Table 2,SCF 2001,Share (%),Head white-collar/prof.,Borrow and save,61,66.92114842986726,5.921148429867259
+Table 2,SCF 2001,Share (%),Head white-collar/prof.,Save,58,57.59068237195153,-0.40931762804846983
+Table 2,SCF 2001,Share (%),Head white-collar/prof.,Population,58,59.71297822446013,1.7129782244601301
+Table 2,SCF 2001,Share (%),Education: less than HS,Borrow,13,13.712796849357508,0.7127968493575079
+Table 2,SCF 2001,Share (%),Education: less than HS,Borrow and save,5,4.181296223427742,-0.8187037765722582
+Table 2,SCF 2001,Share (%),Education: less than HS,Save,13,14.881662329660303,1.881662329660303
+Table 2,SCF 2001,Share (%),Education: less than HS,Population,11,11.961114504354011,0.9611145043540112
+Table 2,SCF 2001,Share (%),HS/some college,Borrow,73,73.21204687748761,0.21204687748760875
+Table 2,SCF 2001,Share (%),HS/some college,Borrow and save,61,63.744154161480026,2.7441541614800258
+Table 2,SCF 2001,Share (%),HS/some college,Save,51,52.620647911665586,1.6206479116655856
+Table 2,SCF 2001,Share (%),HS/some college,Population,55,56.610385890185945,1.6103858901859454
+Table 2,SCF 2001,Share (%),College degree or more,Borrow,14,13.075156273154828,-0.9248437268451717
+Table 2,SCF 2001,Share (%),College degree or more,Borrow and save,33,32.0745496150922,-0.9254503849077977
+Table 2,SCF 2001,Share (%),College degree or more,Save,36,32.49768975867425,-3.502310241325752
+Table 2,SCF 2001,Share (%),College degree or more,Population,34,31.42849960546044,-2.5715003945395587

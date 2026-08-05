@@ -1,0 +1,5 @@
+flag,normal_code,n_non_normal_implicate_rows,weighted_non_normal_share_pct,n_missing_or_imputed_implicate_rows,weighted_missing_or_imputed_share_pct,n_assumption_implicate_rows,weighted_assumption_share_pct
+J8023,0,40,0.2832964296056757,5,0.041378693876029604,0,0
+J7372,0,0,0,0,0,0,0
+J7020,8,75,0.47854341442470905,5,0.041378693876029604,10,0.1109280546887225
+J7019,8,75,0.47854341442470905,5,0.041378693876029604,10,0.1109280546887225

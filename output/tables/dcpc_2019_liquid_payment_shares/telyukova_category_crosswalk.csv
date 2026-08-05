@@ -1,0 +1,17 @@
+tely_category,tely_group,crosswalk_quality,definition,limitation
+food_grocery_proxy,food_alcohol_tobacco_proxy,merchant_proxy,"Merchant 1: grocery, convenience, or pharmacy","Food, alcohol, tobacco, and pharmacy purchases cannot be separated"
+food_restaurant_bar_proxy,food_alcohol_tobacco_proxy,merchant_proxy,Merchant 3: sit-down restaurant or bar,Food and alcohol cannot be separated
+food_fast_service_proxy,food_alcohol_tobacco_proxy,merchant_proxy,"Merchant 4: fast food, coffee shop, cafeteria, or food truck",Merchant type is observed rather than the purchased good
+rent,rent,direct_merchant_match,"Merchant 14: rent for a home, apartment, or other building",May include nonresidential building rent
+mortgage_payment,mortgage,followup_identified,"Merchant 15, financial purpose loan, loan type mortgage","Amount is the full mortgage payment, not mortgage interest alone"
+utilities,utilities,merchant_or_followup_match,Merchant 8 or a government payment identified as a utility,Government utility follow-up has a small sample
+communications_entertainment_proxy,utilities,merchant_proxy,"Merchant 10: phone, internet, cable, streaming, or movie theater",Communications cannot be separated from streaming and movie theaters
+household_operations_bill_proxy,household_operations,bill_reminder_merchant_proxy,Bill-reminder payment assigned to Merchant 6 (general services) or Merchant 11 (building contractors),Public data do not retain the exact yard-maintenance versus housing-maintenance bill prompt; the retained sample is small
+household_repairs,owned_dwelling_repairs_insurance_other,direct_merchant_match,"Merchant 11: contractor, plumber, electrician, or HVAC provider",Bill-reminder Merchant 11 payments are assigned to the household-operations proxy instead
+homeowners_renters_insurance,owned_dwelling_repairs_insurance_other,followup_identified,Financial-services insurance payment identified as homeowners or renters insurance,Insurance payment timing may differ from the consumption period
+property_taxes,property_taxes,followup_identified,Government tax payment identified as property tax,Small number of diary transactions is expected
+public_transport_tolls,public_transportation,combined_merchant_proxy,Merchant 21: public transportation and tolls,Public transportation cannot be separated from tolls
+taxi_air_delivery_proxy,public_transportation,merchant_proxy,"Merchant 9: taxi, airplane, or delivery",Delivery cannot be separated from passenger transportation
+health_insurance,health_insurance,followup_identified,Insurance follow-up identified as health insurance,"May include payments through financial, medical, or government payees"
+childcare,childcare,followup_identified,Education or government follow-up identified as childcare/daycare,Informal childcare paid to a person generally cannot be identified
+cash_contributions,cash_contributions,followup_identified,"Charity payment identified as a donation, offering, or tithe",Gifts to individuals are not included

@@ -1,0 +1,13 @@
+spec_id,food_exclusion,measure,n_rows,n_positive,n_zero,n_positive_complete_controls,mean_liquid,p50_liquid,p95_liquid
+current_compact_food_only,food_only,benchmark,92649,92642,7,92642,6408.0784851133,5154.9509400250445,15182.7599299732
+current_compact_food_only,food_only,excluding_food,92649,92586,63,92586,5058.7900934299505,3870.8836704864925,12884.569333288295
+current_compact_food_only,food_only,excluding_food_property_taxes,92649,92550,99,92550,4747.284689414141,3648.6701369180482,12133.879795130724
+current_compact_broad_food,food_alcohol_tobacco,benchmark,92649,92642,7,92642,6408.0784851133,5154.9509400250445,15182.7599299732
+current_compact_broad_food,food_alcohol_tobacco,excluding_food,92649,92562,87,92562,4897.419721623829,3711.822429834031,12612.264984328705
+current_compact_broad_food,food_alcohol_tobacco,excluding_food_property_taxes,92649,92514,135,92514,4585.91431760802,3487.316041591982,11865.697320985017
+drop_nonhealth_insurance_add_cashco_food_only,food_only,benchmark,92649,92635,14,92635,5352.153160132666,4319.248078984958,12416.078987459996
+drop_nonhealth_insurance_add_cashco_food_only,food_only,excluding_food,92649,92492,157,92492,4002.864768449317,3044.375729432478,10061.503384803354
+drop_nonhealth_insurance_add_cashco_food_only,food_only,excluding_food_property_taxes,92649,92433,216,92433,3691.3593644335087,2824.5880410507693,9350.630487727376
+drop_nonhealth_insurance_add_cashco_broad_food,food_alcohol_tobacco,benchmark,92649,92635,14,92635,5352.153160132666,4319.248078984958,12416.078987459996
+drop_nonhealth_insurance_add_cashco_broad_food,food_alcohol_tobacco,excluding_food,92649,92420,229,92420,3841.4943966431965,2887.991718249764,9817.717597528948
+drop_nonhealth_insurance_add_cashco_broad_food,food_alcohol_tobacco,excluding_food_property_taxes,92649,92338,311,92338,3529.9889926273863,2660.736239551267,9099.676682586556

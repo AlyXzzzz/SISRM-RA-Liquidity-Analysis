@@ -1,0 +1,11 @@
+characteristic,candidate,variable,mean_abs_diff,max_abs_diff
+Head white-collar/prof.,primary fork: summary OCCAT2 in 1:2,head_white_collar_prof,2.5083527432852577,5.921148429867259
+Head white-collar/prof.,summary OCCAT2 in 1:2,head_white_collar_occat2_broad_summary,2.5083527432852577,5.921148429867259
+Head white-collar/prof.,raw X7401 in 1:2,head_white_collar_prof_raw,7.678302715679028,9.381397860884178
+Head white-collar/prof.,summary OCCAT1 == 1,head_white_collar_occat1_summary,18.555776948768226,23.20269619107698
+Head white-collar/prof.,summary OCCAT2 == 1,head_white_collar_occat2_summary,27.08870432805879,31.55650426224111
+Head works full-time,primary fork: raw X4511 == 1,head_full_time,2.034362478647271,4.799534502347058
+Head works full-time,summary OCCAT1 == 1,head_full_time_summary_occat1_one,5.6942230512317735,9.357353785381761
+Head works full-time,summary LF == 1 & OCCAT1 in 1:2,head_full_time_summary_lf_occat1_broad,6.332045571718346,9.22546608793455
+Head works full-time,summary OCCAT1 in 1:2,head_full_time_summary_occat1_broad,6.332045571718346,9.22546608793455
+Head works full-time,summary LF == 1,head_full_time_summary_lf,9.909997292975664,12.143244479254918

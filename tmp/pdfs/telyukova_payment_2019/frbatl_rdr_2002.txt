@@ -1,0 +1,1101 @@
+                       How Merchants Get Paid*
+2020-2
+Oz Shy†
+
+Abstract
+Using a representative sample of actual payments made by adult U.S. consumers, this article analyzes
+the composition of payment methods consumers use to pay for goods and services. Consumer spending
+is divided into 21 main merchant categories. Results show the distributions of electronic, card, and
+paper payment methods and the degree of payment concentration for each merchant category.
+
+Key words: how merchants get paid, payment methods, payment instruments
+
+JEL classification: D9, E42, M2
+
+
+
+
+*
+  I thank Nancy Condon and Claire Greene for most valuable comments and suggestions on earlier drafts. The
+views expressed here are the author’s and not necessarily those of the Federal Reserve Bank of Atlanta or the
+Federal Reserve System.
+†
+  Email: Oz.Shy@atl.frb.org. Research Department, Federal Reserve Bank of Atlanta, 1000 Peachtree St. NE,
+Atlanta, GA 30309, U.S.A.
+
+This version: May 28, 2020
+1.    Introduction
+
+Payments for purchases of goods and services, bill payments, and payments to other people are
+made with a variety of payment methods (also called payment instruments). The purpose of
+this research is to analyze which payment methods consumers use to pay for different types of
+goods and services provided by different merchant types. The term “merchants” refers to all
+types of sellers who sell directly to consumers, including all retail stores (brick-and-mortar and
+online), utility service providers, general services, travel services, financial services, government,
+and more (the exact definitions are provided in section 2).
+     Using a representative sample of actual payments made by adult U.S. consumers, this article
+analyzes the composition of payment methods consumers use to pay for goods and services in
+each merchant category. Consumer spending is divided into 21 main merchant categories. For
+each merchant category, I compute the proportion of each payment method consumers use to
+pay merchants, both by volume and by dollar value. Results show the distributions of electronic,
+card, and paper payment methods and the degree of payment concentration for each merchant
+category.
+     In addition, this research uses the Herfindahl-Hirschman index (HHI) to compute the payment
+method concentration index for each merchant category. Whereas the HHI is commonly used to
+measure the degree of market concentration among firms, I find the same method also useful for
+comparing the degree of payment method concentration or diversification among all 21 merchant
+types.
+     The list below provides a description of the payment methods collected by the data described
+in section 2.
+
+
+Electronic payment methods:
+     • Bank account number payment (BANP): You [the respondent] give your bank routing num-
+       ber and account number to a third party to authorize a deduction from your bank account.
+     • Online banking bill pay (OBBP): You initiate a payment at your bank’s online banking web-
+       site.
+
+
+                                                  1
+   • Account-to-account money transfers.
+   • Income deduction: Your employer makes the payment for you on your behalf and deducts
+     the payment amount from your salary.
+
+
+Card payment methods:
+   • Debit card: Your payments are deducted from your bank account. Also, you can use a debit
+     card to withdraw or deposit cash at ATMs.
+   • Credit card: You pay back the credit card company later. Credit cards charge interest (unless
+     the balance is paid by the initial due date).
+   • Prepaid/gift/EBT card: You store or load money on a prepaid card. Sometimes called “pre-
+     paid debit,” “gift cards,” “payroll cards,” or “stored value cards.”
+
+
+Paper payment methods:
+   • Cash: Coins and paper bills.
+   • Check: You write a paper check to a person or business.
+   • Money order: You purchase a money order from a bank, post office, check-cashing store, or
+     retail store. At the time of purchase, you specify the amount and the person or business to
+     be paid.
+
+
+Mobile app: It is important to emphasize that a mobile app is not a payment instrument. Logically,
+a mobile app should be viewed as an electronic wallet that stores information on the payer’s credit
+cards, debit cards, or bank account number. More precisely, a mobile app payment depends on
+the type of funding (source of money) that funds each transaction, generally a credit card, debit
+cards, or a bank account. A consumer who funds a mobile app payment with a credit or debit card
+will see the charge on the card’s monthly statement. Therefore, in our data, a mobile app payment
+is recorded twice: as a mobile app payment and also, for example, as a debit card payment if the
+mobile app is funded by a debit card.
+   For that reason, the core analysis in this article does not view mobile app as a payment method.
+However, because this paper examines the merchant side, it is possible that some merchants may
+
+
+                                                 2
+view a mobile app as a separate payment method. Therefore, mobile app payments are analyzed
+towards the end of this article
+   In the literature, several papers have analyzed how consumer payment choice varies with re-
+spect to payment dollar amount, credit card rewards, merchant card acceptance policy, whether
+the consumer borrows on a credit card (revolver), and consumer demographics; see, for exam-
+ple, Zinman (2009); Arango, Huynh, and Sabetti (2015); and Wakamori and Welte (2017). This
+literature does not distinguish among the merchant types, which is the subject of the present pa-
+per. Some literature focuses on a particular merchant type; for example, Klee (2008) analyzes how
+consumer pay at grocery stores, Wang and Wolman (2016) use data from a discount retailer with
+thousands of stores, and Zhang (2016) analyzes how people pay rent. Finally, Bounie and François
+(2011) and Greene and Stavins (Forthcoming 2020) focus on consumer bill payments.
+   The present paper adds to the above literature by attempting to integrate all types of consumer
+payments into a single analysis for the purpose of getting an overview how different merchants
+get paid. This is accomplished by aggregating all payment types (in-person, remote, bill, and
+nonbill) for each merchant type for the purpose of obtaining a broad summary of how merchants
+get paid. In doing so, this paper abstracts from consumer and merchant incentives to use their
+preferred payment methods. More precisely, this research summarizes actual payments without
+analyzing consumers’ decision-making process of why they choose their payment method for
+each transaction.
+   This article is organized as follows. Section 2 defines merchant types, describes the data, and
+presents sample statistics by merchant type. Section 3 analyzes how merchants get paid and com-
+pares merchant types by payment method concentration. Section 4 analyzes payments by dollar
+value. Section 5 groups all payment methods into three main payment categories. Section 6 briefly
+analyzes payments made via mobile apps. Section 7 concludes.
+
+
+
+
+                                                3
+2.        Data and sample statistics
+
+This section defines merchant types, describes the data, and presents sample statistics by merchant
+type. The data are taken from the 2019 Diary of Consumer Payment Choice (DCPC).1 The DCPC
+uses a representative sample of U.S. (18 and older) consumers. The DCPC records transactions
+during three consecutive days. Transactions include purchases, bill payments, ATM withdrawals,
+and deposits. Respondents’ three-day diaries were evenly distributed throughout the month of
+October 2019 in a way that resembles a three-period overlapping generations model.
+         The DCPC collects a large number of variables describing all sorts of demographics and trans-
+actions. For the purpose of this article, I focus on only a small subset of variables. Table 1 lists 21
+merchant categories that respondents used to categorize each payment. This list provides straight-
+forward description of each of the 21 merchant types. Note that merchant type 16 is slightly dif-
+ferent because it also involves person-to-person money transfers among family and friends, in
+addition to paying to somebody for performing a small job.
+         Table 2 provides sample statistics on the number of payment observations and average and
+median payment values for each of the 21 merchant types. I also chose to display respondents’
+household incomes because they provide some indication on which population is served by each
+merchant type. For example, according to Table 2, the weighted median household income of
+consumers who paid merchant type 14 (rent) is $48,000. On the other extreme, the weighted
+median household income of consumers who pay merchant type 9 (taxis, airplane, delivery ) is
+$125,000.
+         Table 3 divides consumer payments into two types: “in-person” payments, where the con-
+sumers (payers) are physically present at the merchant site, and “remote” payments that are made
+while the consumers are not physically present at the merchant site. It should be noted that some
+types of payments fall into a gray area because they could be classified as either in-person or re-
+     1
+    The Federal Reserve Banks of Atlanta, Boston, and San Francisco conduct the diary, which is summarized by
+Greene and Stavins (2019) and Kumar and O’Brien (2019). Similar surveys are conducted by the Bank of Canada; see
+Henry, Huynh, and Welte (2018). The data and assisting documents (codebooks) are publicly available for down-
+loading from the Federal Reserve Bank of Atlanta website: https://www.frbatlanta.org/banking-and-payments/
+consumer-payments.aspx. The data and the R-code used in this analysis are available for downloading from the au-
+thor’s web page: www.ozshy.com (click on “Recent articles”).
+
+
+
+
+                                                       4
+mote. For example, a payment to Uber or Lyft during the ride may be classified as “in-person”
+whereas a payment after a passenger is dropped off may be classified as “remote.” Other exam-
+ples of gray areas include unattended parking garages, self-checkout counters at grocery stores,
+and vending machines, where consumers (payers) are physically present, but the merchant side is
+only virtually present in the form of unattended card reading or cash machines.
+   Out of 12,269 total payments made by 2,564 respondents, the 2019 DCPC sample generated
+the following distribution of payment volume across the payment methods:
+   • Debit card: Used for 3,302 payments (27 percent).
+   • Cash: Used for 3,201 payments (26.18 percent).
+   • Credit card: Used for 2,961 payments (24.22 percent).
+   • Check: Used for 744 payments (6.08 percent).
+   • Bank account number payment (BANP): Used for 707 payments (5.78 percent).
+   • Online banking bill pay (OBBP): Used for 647 payments (5.29 percent).
+   • Prepaid/gift/EBT card: Used for 210 payments (1.71 percent).
+   • Income deduction: Used for 46 payments (0.37 percent). The reason for this low use is that
+     actual payments are restricted to paydays only. Some people may not have any income de-
+     duction because they may not be employed, or because there are 1099 workers who have no
+     deductions. Others may receive their paychecks only once or twice each month. Therefore,
+     the DCPC does not capture income deductions for most of the respondents. For this reason,
+     the analysis that follows drops income deduction payments from the sample.
+   • Money order: Used for 25 payments (0.2 percent). Because of the low use, this payment
+     method is dropped from the sample in the analysis that follows.
+   The data show that most consumers payments are made with debit cards (27 percent), followed
+by cash (26.18 percent) and credit cards (24.22 percent). Checks, BANP, and OBBP were used each
+for 5 to 7 percent of the payments. Prepaid cards (1.71 percent) show low use. Income deductions
+and money orders are hardly used and are not used in the analysis that follows.
+
+
+
+
+                                               5
+3.     Analysis of payments by volume
+
+Table 4 shows the percentage use of the eight main payment methods (defined in section 1): cash,
+checks, credit cards, debit cards, prepaid cards, bank account number payment, online bank bill
+payment, and account-to-account money transfers. Income deductions and money orders are not
+analyzed because the data indicate low use (less than half a percent). Each row corresponds to
+one merchant type and sums up to 100 percent. Figure 1 visualizes Table 4, showing the fractions
+of payment methods by merchant type.
+
+3.1     Measuring payment method concentration
+
+Table 4 and Figure 1 display the value of the Hirschman-Herfindahl index for each merchant type.
+Appendix A provides the exact derivation of this index, along with examples. Higher HHI val-
+ues reflect higher payment concentration (lower diversification) because merchants receive most
+of their payments using only a few payment instruments. Lower HHI values reflect lower pay-
+ment concentration (higher diversification) because merchants get paid more evenly with a larger
+number of payment methods.
+      The merchant types in Figure 1 are sorted left to right by HHI values. Payments made to mer-
+chants of type 20 (education/childcare), type 10 (phone/internet/cable), and type 12 (professional
+services) are shown to be almost equally diversified among the main payment methods. In con-
+trast, type 16 merchants (person-to-person) exhibit large concentration (with HHI=5,394) because
+they receive most of their in-person payments in cash. An examination of the right-hand side of
+Figure 1 reveals that type 13 merchants (hotel/campsite) receive a large portion of their payment
+in credit and debit cards.
+
+3.2     Sorting merchant types by percentage volume of use of payment methods
+
+The analysis so far sorted merchant types by the degree of concentration with respect to use of
+payment methods (see Table 4). The remainder of this section uses Table 4 to rank merchant types
+by the fraction of use of each payment method separately. This section analyzes payment method
+
+
+
+
+                                                 6
+intensity by volume of use (number of payments). Section 4 analyzes merchants by amount of
+dollar value spent with each payment method.
+
+
+Percentage volume of cash payments: The column labeled “Cash” in Table 4 can be sorted from
+high to low percentage of cash payments. Not surprisingly, person-to-person payments (type 16)
+are the most cash intensive, with 71.8 percent payments made with cash. Fast food and coffee
+shops (type 4) rank second, with 43 percent cash payments. Payments for arts/entertainment
+(type 7 merchants) are 39.2 percent cash, and public transport/tolls payments (type 21) are 39.1
+percent cash. Charitable/religious donations (type 17) are 38.8 percent cash, and payments for
+general services (type 6) are 38 percent cash.
+   In contrast, mortgage/insurance/credit cards (type 15) are the least cash intensive, with only
+1.4 percent made in cash. Phone/internet/cable payments (type 10) are only 2.7 percent cash and
+utilities (type 8) are 3.5 percent cash.
+
+
+Percentage volume of paper check payments: The column labeled “Check” in Table 4 shows
+that 47.1 percents of payments made to contractors, plumbers, and electricians (type 11 merchants)
+are made with checks. The reason for that is quite simple. Contractors are generally small busi-
+nesses who serve customers at their own homes. To avoid paying card processing fees, contractors
+ask for paper checks, which bear no fees.
+   Of all charity and donations payments (type 17), 38.5 percent are made with checks, as some
+of these entities also try to avoid card processing fees. Of rent payments (type 14), 36.9 percent
+are paid with checks for the same reason, as landlords try to avoid paying card processing fees.
+Of government taxes (type 19), 35.2 percent are paid with checks. Schools and colleges (type 20)
+follow, with 26.7 percent of payments with checks.
+   Table 4 also shows a significant number of merchants who receive very few checks (or none).
+For example, transportation-related merchants (type 21 and type 9) are not paid with paper checks.
+
+
+Percentage volume of credit card payments: The column labeled “credit” in Table 4 shows that
+credit card payments dominate merchants related to hospitality services: 62.8 percent of payments
+
+
+                                                 7
+to hotels (type 13) are made with credit cards, followed by 56.2 percent paid for taxis, airplanes,
+and delivery (type 9), followed by 37.7 percent paid to restaurants/bars (type 3).
+   On the other extreme, less than 3 percent of person-to-person payments (type 16) and rent
+(type 14) are paid with credit cards.
+
+
+Percentage volume of debit card payments: The column labeled “Debit” in Table 4 shows that
+over 35 percent of payments to grocery stores (type 1), general merchandise (type 5), and gas
+stations (type 2) are made with debit cards. In addition, a large number of other merchant types
+receive around 30 percent of their payments with debit cards.
+   On the other extreme, around 5 percent of person-to-person (type 16) and charitable and do-
+nations (type 17) payments are made with debit cards.
+
+
+Percentage volume of prepaid card payments: The column labeled “Prepaid” in Table 4 shows
+that 11.3 percent of all payments made for public transport (type 21) are made with prepaid cards.
+The reason is that many public transportation systems around major cities issue transportation
+prepaid cards directly to customers, who can load more value to the cards either online or via
+vending machines located in terminals.
+   Otherwise, prepaid cards are hardly used. Specifically, although consumers can buy prepaid
+cards in pharmacies and other stores, consumers find loading funds on these cards to be costly (see
+Hayashi and Cuddy 2014). For this reason, prepaid cards serve mainly the unbanked or children,
+who typically do not have bank accounts.
+
+
+Percentage volume of BANPs: Recall that BANPs are made by giving the payers’ bank account
+details to the merchants, who then withdraw money directly from the payers’ account. Therefore,
+BANPs are mainly for bills.
+   The column labeled “BANP” in Table 4 shows that 39 percent of payments made to financial
+institutions (type 15) are BANPs, followed by utility companies (type 8) and phone/internet/cable
+companies (type 10), who receive 19.9 percent and 19.1 percent of their payments via BANP, re-
+spectively.
+
+
+                                                8
+     For rent (type 14), 16.2 percent of payments are BANP. Taxes (type 19) follow, at 15.4 percent.
+Note that the DCPC collects data during the month of October, which is not the federal tax season.
+Next, 14.9 percent of school/college/childcare (type 20) are made via BANP.
+
+
+Percentage volume of OBBPs:        Similar to BANP, OBBP are bill payments. OBBPs are made by
+the payer via the payer’s online banking. The column labeled “OBBP” in Table 4 shows that
+around 30 percents of payments made to utility companies (type 8) and financial institutions
+(type 15) are made via OBBP. This is followed by phone/internet/cable companies (type 10),
+which receive 18.2 percent of their payments via OBBP.
+
+
+Percentage volume of account-to-account money transfers:        The column labeled “Acct2acct” in
+Table 4 shows that account-to-account transfers are not used very often: 5.8 percent of payments to
+financial institutions (type 15) and 4.8 percent of person-to-person (type 16) are account-to-account
+transfers.
+
+
+4.    Measuring shares of payment methods by dollar value
+
+The analysis so far was based on payment volume of each payment method consumers use to
+pay each merchant type. That is, the percentage of cash payments to each merchant type was
+computed by dividing the total number of cash payments by the total number of payments made
+to this merchant type using all payment methods.
+     This section takes a different approach by looking at the fraction of total dollar value paid
+to a merchant with a specific payment method out of total dollar value this merchant collects
+through all payment methods. For example, the fraction of cash by value paid to each merchant
+is computed by summing up the total dollar value of cash payments to this merchant divided by
+total dollar value (sales value) this merchant collects through all payment methods.
+     Table 5 displays the fraction of dollar value of each payment method paid to each merchant
+type. Comparing with Table 4, Table 5 displays HHI values that are computed with respect to dol-
+lar value instead of volume of payments. These two measurements are very different because, as
+shown below, some merchants may receive very few of a certain payment type, but each payment
+
+
+                                                  9
+carries a large dollar value. In fact, the correlation coefficient between HHI by value (Table 5) and
+HHI by volume (Table 4) is 0.32, which is positive but low. However, as shown below, correlations
+between volume and value by payment method tend to be much higher.
+
+
+Percentage value of cash payments:         The correlation coefficient between percentage of cash vol-
+ume and cash value is 0.8. The column labeled “Cash” in Table 5 shows that 33.5 percent of
+revenue collected by fast food and coffee shops (type 4) is in cash. This is followed by 30.3 per-
+cent of cash revenue collected by public transport (type 21), and 23.8 percent of cash dollar value
+transferred from person to person (type 16).
+
+
+Percentage value of paper check payments:          The correlation coefficient between percentage of
+check volume and check value is 0.88. The column labeled “Check” in Table 5 shows several
+merchant types for which the percentage revenue collected with checks exceeds 70 percent. More
+precisely, checks constitute 77.5 percent of the dollar value of government taxes (type 19), followed
+by 74.3 percent of check dollar value paid to contractors (type 11), and 71.4 percent of cash value
+paid to professional services (type 12).
+
+
+Percentage value of credit card payments: The correlation coefficient between percentage of
+credit card volume and value is 0.93. The column labeled “Credit” in Table 5 shows that 75.1 of
+the revenue collected by taxi/airplane/delivery (type 9) is with credit cards. This is followed by
+hotels (type 13) that collected 74.3 percent of their revenue with credit cards. The column labeled
+“Credit” in Table 5 also shows that five other merchant types collect between 40 and 60 percent of
+their revenue with credit cards.
+
+
+Percentage value of debit card payments:         The correlation coefficient between percentage debit
+card volume and value is 0.91. Of the revenue collected by grocery stores (type 1), 47.1 percent is
+by debit cads, followed by 38.6 percent of the revenue collected by gas stations (type 2), and 37.6
+percent by fast food and coffee shops (type 4). The column labeled “Debit” in Table 5 also shows
+six other merchant types that collect between 20 and 30 percent of their revenue with debit cards.
+
+
+
+                                                   10
+Percentage value of prepaid card payments: The correlation coefficient between percentage pre-
+paid card volume and value is 0.85. As with volume, prepaid cards show low use also by dollar
+value. The highest is public transport (type 21), where 5.4 percent of dollar amount is paid with
+prepaid card (recall from Table 4 that this merchant type is also highest when measured by vol-
+ume, 11.3 percent).
+
+
+Percentage value of BANPs:        The correlation coefficient between percentage BANP volume and
+value is 0.88. Of the revenue collected by financial institutions (type 15), 35.5 percent is via BANP,
+followed by 34.5 percent of the revenue collected by school/daycare (type 20), followed by 23.6
+percent by phone/internet/cable (type 10).
+
+
+Percentage value of OBBPs:       The correlation coefficient between percentage OBBP volume and
+value is 0.93. OBBP accounts for 43.3 percent of the dollar value paid to financial institutions
+(type 15). Utility companies (type 8), at 27.7 percent, and phone/internet/cable (type 10), at 20.3
+percent, follow.
+
+
+Percentage value of account-to-account money transfers:          The correlation coefficient between
+percentage account-to-account volume of transfers and value of transfers is 0.84. The column
+labeled “Acct2acct” in Table 5 shows that 13.5 percent of dollar value paid by a person to another
+person (type 16) are transfers from account to account. For most other merchant types, the dollar
+value of account-to-account transfers is zero or very small.
+
+
+5.    Grouping payment methods into payment categories
+
+The analysis so far focused on the main payment methods consumers use to pay the wide variety
+of merchants. However, for some purposes, it may be useful to examine payment choice when all
+payment methods are grouped into main categories that characterize these payment methods.
+     Recall that the introduction to this article classifies all payment methods into three main groups:
+     • Paper instruments: Cash, paper checks, and money orders.
+     • Payment cards: Credit, debit, and prepaid cards.
+
+
+                                                   11
+   • Electronic methods: Bank account number payments (BANP), online bank bill payments
+     (OBBP), income deductions, and account-to-account money transfers.
+
+   The analysis in this section groups all payment methods into these three groups, disregarding
+income deductions and money orders due to their low use (see Section 2 for the exact numbers).
+By volume, these three groups consist of 3,945 (35.3 percent) paper instrument payments, 6,473
+(58 percent) card payments, and 743 (6.7 percent) electronic payments.
+
+
+Percentage of paper instrument payments:       Figure 2 displays the percentage use of paper meth-
+ods by merchant type. Of person-to-person payments (type 16), 87 percent are made with paper
+instruments, followed by 82 percent paid to charitable and religious donations (type 17).
+   Paper instrument payments constitute between 61 and 66 percent of the payments made for
+government taxes (type 19), rent (type 14), education/childcare (type 20), and contractors (type 11).
+As shown before, these payments are made mostly with paper checks because these merchants
+prefer paper checks over credit card payments that subject them to card processing fees.
+   On the other extreme, paper instrument payments constitute only 5 percent of payments for
+taxi/airplane/delivery (type 9), and 12 percent for phone/utility/cable (type 10).
+
+
+Percentage of card: Figure 3 shows that card payments constitute 95 percents of the payments
+made to taxi/airplane/delivery (type 9), followed by 79 percent made to hotels (type 13). Recall
+that these two merchant categories were also listed towards the bottom of Figure 2 (percentage of
+paper instrument payments) because these two merchant types are dominated by credit and debit
+card payments.
+   On the other extreme, the bottom of Figure 3 lists several merchant types that are also listed
+on the top of Figure 2. That is, person-to-person (type 16), charitable and religious donations
+(type 17), rent (type 14), and education/childcare (type 20) exhibit heavy use of paper instruments
+and low use of credit and debit cards. Again, these merchants are very sensitive to card processing
+fees and therefore prefer paper check payments over card payments.
+
+
+
+
+                                                 12
+Percentage of electronic payments:      Electronic payments are generally associated with remote
+(not in-person) bill payments. Most of these payments are routed via the ACH (automated clear-
+ing house). The top of Figure 4 shows that electronic payments constitute 57 percent of payments
+made to financial institutions (type 15), followed by 39 percent paid to utility companies (type 8)
+and 24 percent paid to phone/internet/cable (type 10).
+     On the other extreme, electronic payments are not used by merchants who do not issue sched-
+uled bills. These merchants include hotels (type 13), restaurant/bar (type 3), fast food and coffee
+shops (type 4), taxi/airplane/delivery (type 9), gas stations (type 2), and grocery stores (type 1).
+
+
+6.    Mobile app payments
+
+The 2019 DCPC recorded 175 payments consumers made to merchants via a mobile app. This
+amounts to 1.45 percent out of a total of 12,043 payments made to merchants.
+     Recall from the discussion in the introduction that a mobile app is not a payment instrument
+by itself. This is because mobile payment apps must be funded by other payment instruments,
+such as credit cards, debit cards, or bank accounts. However, because some merchants may view
+a mobile app as a payment method, Figure 5 ranks merchant types by the percentage of payments
+merchants receive via mobile apps. The figure shows that only 10 percent of type 16 merchants
+(mainly P2P) are made via mobile apps. The second highest are type 7 merchants (arts and enter-
+tainment), who receive 5 percent of their payments via a mobile payment app.
+     Overall, Figure 5 shows very little use of payment apps relative to other payment methods,
+ranging from 0 percent to 3 percent, with the exception of the type 16 and type 7 merchant types.
+
+
+7.    Discussion
+
+This article provides information and analyzes the type of payments received by different mer-
+chant categories. The 21 merchant types listed in Table 1 seem to cover all (or most) possible
+types of spending made by U.S. consumers. Therefore, the consumer side of payments made to
+merchants seems to be fully covered.
+     However, one limitation of the analysis in this paper is that from the merchant point of view,
+
+
+                                                 13
+this article does not analyze business-to-business (B2B) payments because the Diary of Consumer
+Payment Choice collects the data directly from consumers. Analyzing how merchants pay other
+merchants requires data taken directly from merchant payment surveys.
+    A second limitation of the analysis (which is common to all research on use of payment meth-
+ods) is that it cannot distinguish between supply-and-demand side effects of payment activities.
+Demand constraints refer to merchants who refuse to accept a certain payment method, such as
+credit cards, or surcharge consumers for the use of credit cards to cover their card processing
+fees.2 Another example are merchants who, for safety reasons, may refuse to accept paper checks
+or cash (to protect employees who work at night or in high-crime areas). In contrast, supply con-
+straints refer to consumers who may not have all available payment methods (such as unbanked
+consumers who must use either cash or prepaid cards).
+
+
+Appendix A            Measuring concentration of the use of payment instruments
+
+The column on the right in Table 4 displays the HHI for each merchant type. High HHI scores
+correspond to merchants who receive most payments using only a few payment methods. Low
+HHI scores correspond to merchants who receive payments more evenly with a larger variety of
+payment methods.3
+    The motivation for using concentration measures is as follows. Consider two merchants and
+two payment instruments, say, cash and debit cards. Merchant 1 receives two payments: one with
+cash and one with a debit card. Merchant 2 receives five cash payments and one debit card pay-
+ment (a total of six payments). If we just count the incidence of use of each payment method for
+each merchant, we would conclude that both merchants receive their payments using all available
+payment methods (cash and debit cards). However, such a conclusion omits important infor-
+mation that merchant 2 receives most of the payments with cash, and only a few payments are
+received via debit cards. The concentration measures defined below would indicate significant
+differences in the use of payment instruments between these two merchants.4
+   2
+     For a worldwide comparison of credit card interchange fees (which are part of merchants’ card processing fees),
+see Hayashi and Minhas 2018.
+   3
+     This paper focuses on merchant (payee) concentration. For consumer (payer) concentration, see Shy 2019.
+   4
+     Curry and George 1983 analyze and compare several concentration indices.
+
+
+                                                        14
+   I first define the Herfindahl-Hirschman Index (HHI) for payment methods (see Table 4) made
+to merchant m (m = 1, 2, . . . , 21) as the sum of the squared payment percentage shares:
+
+
+            HHIm = H(sH    K C D P           B O A
+                      m , sm sm , sm , sm , sm , sm , sm )                                        (A.1)
+
+                    = (sH  2    K 2     C 2     D 2     P 2     B 2     O 2     A 2
+                        m ) + (sm ) + (sm ) + (sm ) + (sm ) + (sm ) + (sm ) + (sm ) ,
+
+
+where superscripts H, K, C, D, P , B, O, A correspond to payment methods casH , checK, Credit
+card, Debit card, Prepaid card, BANP, OBBP, and Account-to-account, respectively.
+   The highest concentration is obtained when a merchant is paid with only one payment method
+(100 percent). For example, H(100, 0, 0, 0, 0, 0, 0, 0) = H(0, 0, 0, 0, 0, 0, 100) = 1002 = 10, 000. The
+lowest concentration for eight payment methods is obtained when a merchant receives payments
+that are equally divided among the eight payment instruments—in this case, HHI = 8( 100 2
+                                                                                     8 ) =
+
+1, 250. Therefore, with eight payment instruments, all concentration levels must be in the range
+1, 250 ≤ HHIm ≤ 10, 000.
+
+
+References
+Arango, Carlos, Kim Huynh, and Leonard Sabetti. 2015. “Consumer Payment Choice: Merchant
+  Card Acceptance Versus Pricing Incentives.” Journal of Banking and Finance 55:130–141.
+
+Bounie, David and Abel François. 2011. “The Economics of Bill Payments: An Empirical Analy-
+  sis.” Applied Economics Letters 18 (10):961–966.
+
+Curry, Bruce and Kenneth George. 1983. “Industrial Concentration: A Survey.” Journal of Industrial
+ Economics 31 (3):203–255.
+
+Greene, Claire and Joanna Stavins. 2019. “2018 Diary of Consumer Payment Choice.” Federal
+  Reserve Bank of Atlanta, Research Data Report No. 2019-3.
+
+———. Forthcoming 2020. “Consumer Payment Choice for Bill Payments.” Working paper, Fed-
+ eral Reserve Bank of Boston.
+
+Hayashi, Fumiko and Emily Cuddy. 2014. “General Purpose Reloadable Prepaid Cards: Pene-
+ tration, Use, Fees, and Fraud Risks.” Federal Reserve Bank of Kansas City Research Working
+ Paper No. 14-01.
+
+Hayashi, Fumiko and Sabrina Minhas. 2018. “Credit and Debit Card Interchange Fees in Various
+ Countries: August 2018 Update.” Federal Reserve Bank of Kansas City.
+
+                                                   15
+Henry, Christopher, Kim Huynh, and Angelika Welte. 2018. “2017 Methods-of-Payment Survey
+ Report.” Bank of Canada Staff Discussion Paper 2018–17.
+
+Klee, Elizabeth. 2008. “How People Pay: Evidence from Grocery Store Data.” Journal of Monetary
+  Economics 55 (3):526–541.
+
+Kumar, Raynil and Shaun O’Brien. 2019. “2019 Findings from the Diary of Consumer Payment
+ Choice.” Federal Reserve Bank of San Francisco.
+
+Shy, Oz. 2019. “Consumer Use of Multiple Payment Methods.” Available at SSRN No. 3410535.
+
+Wakamori, Naoki and Angelika Welte. 2017. “Why Do Shoppers Use Cash? Evidence from Shop-
+ ping Diary Data.” Journal of Money, Credit and Banking 49 (1):115–169.
+
+Wang, Zhu and Alexander Wolman. 2016. “Payment Choice and Currency Use: Insights from Two
+ Billion Retail Transactions.” Journal of Monetary Economics 84 (C):94–115.
+
+Zhang, David. 2016. “How Do People Pay Rent?” Federal Reserve Bank of Boston, Research Data
+  Report No. 2016-2.
+
+Zinman, Jonathan. 2009. “Debit or Credit?” Journal of Banking and Finance 33 (2):358–366.
+
+
+
+
+                                               16
+ Type                               Services provided by merchant type
+     1   Grocery stores, convenience stores without gas stations, pharmacies
+     2   Gas stations
+     3   Sit-down restaurants and bars
+     4   Fast food restaurants, coffee shops, cafeterias, food trucks
+     5   General merchandise stores, department stores, other stores, online shopping
+     6   General services: hair dressers, auto repair, parking lots, laundry or dry cleaning, etc.
+     7   Arts, entertainment, recreation
+     8   Utilities not paid to the government: electricity, natural gas, water, sewer, trash, heating
+         oil
+     9   Gas, taxis, airplanes, delivery
+   10    Telephone, internet, cable or satellite TV, video or music streaming services, movie the-
+         aters
+   11    Building contractors, plumbers, electricians, HVAC, etc.
+   12    Professional services: legal, accounting, architectural services; veterinarians; photogra-
+         phers or photo processors
+   13    Hotels, motels, RV parks, campsites
+   14    Rent for apartments, homes, or other buildings, real estate companies, property man-
+         agers, etc.
+   15    Mortgage companies, credit card companies, banks, insurance companies, stock brokers,
+         IRA funds, mutual funds, credit unions, sending remittances
+   16    Can be a gift or repayment to a family member, friend, or co-worker. Can be a payment
+         to somebody who did a small job for you.
+   17    Charitable or religious donations
+   18    Hospital, doctor, dentist, nursing homes, etc.
+   19    Government taxes or fees
+   20    Schools, colleges, childcare centers
+   21    Public transportation and tolls
+
+                             Table 1: Classification of 21 merchant types.
+
+
+Source: The 2019 Diary of Consumer Payment Choice.
+ Merchant                                   Obs    Avg.Val     Med.Val    Med.Income      Med.Income.w
+ 1. Grocery store                          2,207         37          19          65,000          70,000
+ 2. Gas station                            1,239         26          23          65,000          65,000
+ 3. Restaurant/bar                           866         32          25          84,500          83,268
+ 4. Fast food/coffee shop                  1,600         11           8          80,000          80,000
+ 5. General merchandise store              1,937         68          28          72,000          76,000
+ 6. General service                          391         89          26          80,639          95,255
+ 7. Art/entertainment                        355         66          20          75,000          75,000
+ 8. Non-government utility                   433        113          84          65,000          65,000
+ 9. Taxi/airplane/delivery                    76        105          15         130,000         125,000
+ 10. Phone/internet/cable                    461         99          75          60,000          58,199
+ 11. Contractor/plumber/electrician           34        252         160          97,500          95,000
+ 12. Professional service                    101        301          60          75,000          75,000
+ 13. Hotel/motel/campsite                     43        186         137         100,000         100,463
+ 14. Rent                                    131        799         385          43,818          48,000
+ 15. Mortgage/insurance/credit card        1,059        504         201          71,400          75,000
+ 16. Person-to-person                        452        127          25          70,000          65,000
+ 17. Charitable/religious donation           285         77          25          65,000          60,974
+ 18. Hospital/doctor/dentist                 231        152          40          70,000          80,000
+ 19. Government taxes                        109        621          90          70,000          55,322
+ 20. School/college/childcare centers        110        210          50          85,000          95,877
+ 21. Public transport/tolls                  149           8          4          85,000          85,000
+
+                    Table 2: Sample statistics on payments made to 21 merchant types.
+
+
+Source: Author’s computations from the 2019 Survey and Diary of Consumer Payment Choice.
+Notes: The table displays information on 12,269 payments made by 2,564 respondents. Obs are the number
+of observations (payments). All other values are in USD. “w” refers to weighted statistic.
+
+
+
+
+                                                   18
+                                             In-person payments              Remote payments
+  Merchant                                  Obs Avg.Val Med.Val           Obs Avg.Val Med.Val
+  1. Grocery store                         2,125         36          19    80         74         45
+  2. Gas station                           1,179         25          22    60         51         25
+  3. Restaurant/bar                          853         32          25    13         27         27
+  4. Fast food/coffee shop                 1,541         11           8    59         16         14
+  5. General merchandise store             1,417         67          24   519         71         39
+  6. General service                         321         87          24    70         96         56
+  7. Art/entertainment                       223         45          20   132        102         30
+  8. Non-government utility                   64         97          79   366        115         87
+  9. Taxi/airplane/delivery                   34         64          14    42        139         17
+  10. Phone/internet/cable                    51         92          74   409         99         75
+  11. Contractor/plumber/electrician          15        393        195     18        129        111
+  12. Professional service                    61        394          60    40        158         57
+  13. Hotel/motel/campsite                    32        170        121     11        235        200
+  14. Rent                                    66        978        430     62        635        300
+  15. Mortgage/insurance/credit card          86        531        263    971        502        200
+  16. Person-to-person                       354         64          20    98        357         64
+  17. Charitable/religious donation          187         55          20    98        120         39
+  18. Hospital/doctor/dentist                136        141          40    95        169         43
+  19. Government taxes                        46        739          25    63        535        117
+  20. School/college/childcare centers        54        154          28    55        263         95
+  21. Public transport/tolls                  98          7           6    51           8         2
+
+             Table 3: Sample statistics on in-person and remote payments by merchant type.
+
+
+Source: Author’s computations from the 2019 Survey and Diary of Consumer Payment Choice.
+Notes: The table displays information on 12,255 payments made by 2,562 respondents. Obs are the number
+of observations (payments). All other values are in USD.
+
+
+
+
+                                                   19
+          Merchant                                Cash    Check    Credit   Debit    Prepaid    BANP     OBBP    Acct2acct   HHI
+          16. Person-to-person                     71.8     13.8      2.5      5.0       0.0       1.2     1.0         4.8   5,394
+          13. Hotel/motel/campsite                 18.6      2.3     62.8     16.3       0.0       0.0     0.0         0.0   4,559
+          9. Taxi/airplane/delivery                 5.5      0.0     56.2     32.9       5.5       0.0     0.0         0.0   4,295
+          4. Fast food/coffee shop                 43.0      0.2     23.0     30.9       2.9       0.1     0.0         0.0   3,339
+          3. Restaurant/bar                        32.9      0.7     37.7     27.9       0.7       0.0     0.0         0.0   3,290
+          1. Grocery store                         30.6      1.2     27.7     37.7       2.2       0.2     0.4         0.1   3,129
+          17. Charitable/religious donation        38.8     38.5      6.5      5.8       0.4       6.1     3.2         0.7   3,114
+          2. Gas station                           29.1      0.6     31.2     35.9       2.2       0.6     0.4         0.0   3,114
+          5. General merchandise store             18.5      2.4     37.1     36.5       2.3       1.3     1.9         0.1   3,068
+          11. Contractor/plumber/electrician       11.8     47.1     20.6      8.8       0.0       2.9     8.8         0.0   2,941
+          7. Art/entertainment                     39.2      4.5     32.0     17.7       0.6       2.1     3.9         0.0   2,917
+          21. Public transport/tolls               39.1      0.0     33.0     10.4      11.3       4.3     1.7         0.0   2,882
+20        15. Mortgage/insurance/credit card        1.4     12.5      3.2      9.0       0.1     39.0     29.0         5.8   2,644
+          6. General service                       38.0      9.6     24.5     22.1       0.5       1.6     3.5         0.3   2,639
+          14. Rent                                 18.0     36.9      2.7     13.5       0.9     16.2     10.8         0.9   2,260
+          19. Government taxes                     20.9     35.2     11.0     14.3       0.0     15.4      2.2         1.1   2,240
+          All merchants                            27.0      6.3     24.9     27.8       1.8       6.0     5.4         0.8   2,232
+          18. Hospital/doctor/dentist               7.5     21.7     28.8     27.4       1.3       5.3     7.1         0.9   2,187
+          8. Non-government utility                 3.5     22.9      6.1     15.1       1.2     19.9     30.5         0.7   2,131
+          12. Professional service                 18.2     23.2     30.3     15.2       0.0       5.1     8.1         0.0   2,109
+          10. Phone/internet/cable                  2.7      7.3     18.7     31.0       1.8     19.1     18.2         1.1   2,072
+          20. School/college/childcare centers     28.7     26.7      5.0     11.9       1.0     14.9     11.9         0.0   2,067
+
+                                 Table 4: Percentage share of payment volume by merchant type sorted by HHI.
+
+
+     Source: Author’s computations from the 2019 Survey and Diary of Consumer Payment Choice.
+     Notes: The table displays information on 11,868 payments made by 2,543 respondents.
+          Merchant                                  Cash    Check    Credit   Debit    Prepaid    BANP     OBBP      Acct2acct   HHI
+          19. Government taxes                        0.9     77.5      1.1      2.9        0.0     16.9      0.4          0.3   6,306
+          9. Taxi/airplane/delivery                   0.5      0.0     75.1     24.2        0.3      0.0      0.0          0.0   6,217
+          13. Hotel/motel/campsite                    2.1      0.5     74.3     23.1        0.0      0.0      0.0          0.0   6,059
+          11. Contractor/plumber/electrician          2.8     74.3     11.1      5.3        0.0      0.5      6.0          0.0   5,723
+          12. Professional service                    4.3     71.4     11.3      5.9        0.0      2.2      5.0          0.0   5,306
+          14. Rent                                    6.4     68.8      1.8      5.1        0.7     12.8      4.4          0.0   4,990
+          7. Art/entertainment                       21.3      7.7     57.4     10.7        0.1      0.7      2.1          0.0   3,925
+          16. Person-to-person                       23.8     55.8      1.8      3.6        0.0      0.4      1.1         13.5   3,876
+          3. Restaurant/bar                          20.3      0.6     51.2     27.5        0.4      0.0      0.0          0.0   3,785
+          1. Grocery store                           13.4      2.3     33.1     47.1        2.2      0.4      1.4          0.1   3,501
+          15. Mortgage/insurance/credit card          0.3     10.2      1.5      3.6        0.0     35.5     43.3          5.6   3,286
+          4. Fast food/coffee shop                   33.5      0.3     26.4     37.6        2.1      0.1      0.0          0.0   3,235
+21        2. Gas station                             18.1      2.2     37.0     38.6        1.4      1.9      0.7          0.0   3,201
+          17. Charitable/religious donation           8.2     49.7      9.8      2.5        0.1     18.2      8.5          3.0   3,053
+          5. General merchandise store                7.5     13.6     45.4     26.9        1.3      1.4      3.9          0.0   3,045
+          21. Public transport/tolls                 30.3      0.0     43.2      5.9        5.4     13.3      1.9          0.0   3,025
+          18. Hospital/doctor/dentist                 1.8     27.6     40.9     21.2        0.2      3.3      4.6          0.4   2,923
+          20. School/college/childcare centers        5.0     34.9      1.9      4.2        1.5     34.5     18.0          0.0   2,781
+          6. General service                         18.7     27.3     36.1     12.3        0.6      0.9      3.8          0.4   2,564
+          10. Phone/internet/cable                    2.4      9.1     12.9     29.6        1.2     23.6     20.3          1.0   2,100
+          8. Non-government utility                   2.4     21.0      6.9     17.4        1.2     21.9     27.7          1.4   2,051
+          All merchants                               5.9     22.7     15.0     13.0        0.5     19.0     20.9          3.0   1,751
+
+                               Table 5: Percentage share of payment dollar value by merchant types ordered by HHI.
+
+
+     Source: Author’s computations from the 2019 Survey and Diary of Consumer Payment Choice.
+     Notes: Based on 11,868 payments made by 2,543 respondents. Obs are the number of observations (payments). All other values are in USD.
+                                       2067 2072 2109 2131 2187 2240 2260 2639 2644 2882 2917 2941 3068 3114 3114 3129 3290 3339 4295 4559 5394
+                                 0%
+                                 10
+
+
+
+
+                                 75
+                                   %
+                                                                                                                                                      Method
+                                                                                                                                                         Acct_num
+                                                                                                                                                         Acct_to_acct
+                                                                                                                                                         Cash
+                                                                                                                                                         Check
+                                 50                                                                                                                      Credit
+                                   %
+                                                                                                                                                         Debit
+            Payment method (%)
+
+                                                                                                                                                         Online_bill
+                                                                                                                                                         Prepaid
+
+
+
+                                  %
+                                 25
+
+22
+
+
+              20  .  Ed     u   ca     tio                           0%
+             10  .P   h  o   ne             n/c    h  ild  ca
+              12 .  P  ro    fe      /in   ter n   e  t/c  ab  re
+                       8.     N    ss    ion  al    s  erv      le
+            18.H   o  s  pit    a   on    −g  o  v  ' tu     ice
+                19   .  G    o      l /do   cto    r/ d    tilit y                                                                               on
+                                 v   ern    me     n  t  en
+                                                         tax  tis  t
+                       6   .  Ge               1  4  .R     enes                                                                            ers
+               15  .  Mo      r   t g/i ne  ra  l   se   rvi  ce t
+              21 .P    u  b   l i c       ns ur/    c  r ed  it c
+                                                                                                                                         to−
+                    7  .  A   r   t/e  tra  ns  p   o  r t/t                                                                                 p
+                                        nte   r t a  inm     oll s
+              5. G   e  ne     r    11    .C  o   n  tra     en   t
+                                  a   lm    erc    h  an   cto   r
+               17  .  C   h         2.    Ga    s    s  tatdis   e
+                             ari      tab   le / r eli      ion
+                             1.      Gr    oc  e  ry     gio   us
+              4. Fa    s  3  .    Re      sta u   r      sto   re
+              9.  T a     t  foo       d/c   o f f  a  nt/  ba    r
+             13 .H     xi/   a    i r pla   ne    e  es     ho   p
+                16    o  t e  l / mo      tel /c / d  e  live   ry
+                     .  Pe     rso      n−         a  mp    sit  e
+
+
+
+                                                                   Figure 1: Share of payment volume by merchant type.
+
+
+     Source: Author’s computations from the 2019 Diary of Consumer Payment Choice.
+     Note: Based on 11,868 payments made by 2,543 respondents. Merchants types are sorted from low to high payment concentration (HHI
+     displayed on top).
+                    16. Person−to−person                                                                                            87
+
+
+                   17. Charitable/religious                                                                                    82
+
+
+                    19. Government taxes                                                                             66
+
+
+                                  14. Rent                                                                          66
+
+
+                   20. Education/childcare                                                                          65
+
+
+                            11. Contractor                                                                     61
+
+
+                        6. General service                                                                48
+
+
+                      7. Art/entertainment                                                           45
+
+
+                  12. Professional service                                                          44
+
+
+
+
+Merchant type
+                  4. Fast food/coffee shop                                                          43
+
+
+                 21. Public transport/tolls                                                    41
+
+
+                         3. Restaurant/bar                                           34
+
+
+                       8. Non−gov't utility                                      33
+
+
+                          1. Grocery store                                      32
+
+
+                18. Hospital/doctor/dentist                                 31
+
+
+                            2. Gas station                                 30
+
+
+                   15. Mortg/insur/credit c                          23
+
+
+                  5. General merchandise                        21
+
+
+                 13. Hotel/motel/campsite                       21
+
+
+                  10. Phone/internet/cable               12
+
+
+                  9. Taxi/airplane/delivery        5
+
+                                              0                       25                                  50              75
+                                                                     Percentage of paper instrument payments
+                                          Figure 2: Percentage share of paper instrument payments by merchant type.
+
+
+                     Source: Author’s computations from the 2019 Diary of Consumer Payment Choice.
+                     Note: Based on 11,868 payments made by 2,543 respondents.
+
+
+
+
+                                                                                          23
+                  9. Taxi/airplane/delivery                                                                                                            95
+
+
+                 13. Hotel/motel/campsite                                                                                                         79
+
+
+                  5. General merchandise                                                                                                     77
+
+
+                            2. Gas station                                                                                         70
+
+
+                          1. Grocery store                                                                                    68
+
+
+                         3. Restaurant/bar                                                                                   66
+
+
+                  10. Phone/internet/cable                                                                              64
+
+
+                18. Hospital/doctor/dentist                                                                        61
+
+
+                 21. Public transport/tolls                                                                   57
+
+
+
+
+Merchant type
+                  4. Fast food/coffee shop                                                                    57
+
+
+                      7. Art/entertainment                                                               51
+
+
+                  12. Professional service                                                         48
+
+
+                        6. General service                                                         48
+
+
+                            11. Contractor                                      30
+
+
+                    19. Government taxes                                        30
+
+
+                       8. Non−gov't utility                                28
+
+
+                   20. Education/childcare                       21
+
+
+                                  14. Rent                      20
+
+
+                   15. Mortg/insur/credit c                     20
+
+
+                   17. Charitable/religious                13
+
+
+                    16. Person−to−person              8
+
+                                              0                       25                            50                                  75
+                                                                                     Percentage of card payments
+                                                  Figure 3: Percentage share of card payments by merchant type.
+
+
+                     Source: Author’s computations from the 2019 Diary of Consumer Payment Choice.
+                     Note: Based on 11,868 payments made by 2,543 respondents.
+
+
+
+
+                                                                                           24
+                   15. Mortg/insur/credit c                                                                         57
+
+
+                       8. Non−gov't utility                                                                  39
+
+
+                  10. Phone/internet/cable                                            24
+
+
+                                  14. Rent                                14
+
+
+                   20. Education/childcare                                14
+
+
+                            11. Contractor                            9
+
+
+                  12. Professional service                        9
+
+
+                18. Hospital/doctor/dentist                       8
+
+
+                    16. Person−to−person                      6
+
+
+
+
+Merchant type
+                   17. Charitable/religious               4
+
+
+                      7. Art/entertainment                4
+
+
+                    19. Government taxes                  4
+
+
+                        6. General service                4
+
+
+                  5. General merchandise              2
+
+
+                 21. Public transport/tolls           2
+
+
+                          1. Grocery store        0
+
+
+                            2. Gas station        0
+
+
+                  9. Taxi/airplane/delivery   0
+
+
+                  4. Fast food/coffee shop    0
+
+
+                         3. Restaurant/bar    0
+
+
+                 13. Hotel/motel/campsite     0
+
+                                              0                                20                            40
+                                                                               Percentage of card payments
+                                              Figure 4: Percentage share of electronic payments by merchant type.
+
+
+                     Source: Author’s computations from the 2019 Diary of Consumer Payment Choice.
+                     Note: Based on 11,868 payments made by 2,543 respondents.
+
+
+
+
+                                                                                     25
+                    16. Person−to−person                                                                                                  10
+
+                      7. Art/entertainment                                                                  5
+
+                  10. Phone/internet/cable                                                        3
+
+                        6. General service                                                    3
+
+                   20. Education/childcare                                                    3
+
+                  5. General merchandise                                                2
+
+                 21. Public transport/tolls                                         2
+
+                   17. Charitable/religious                                     2
+
+                                  14. Rent                                  2
+
+
+
+
+Merchant type
+                  9. Taxi/airplane/delivery                             1
+
+                  4. Fast food/coffee shop                          1
+
+                    19. Government taxes                        1
+
+                       8. Non−gov't utility                 0
+
+                          1. Grocery store              0
+
+                   15. Mortg/insur/credit c         0
+
+                         3. Restaurant/bar          0
+
+                            2. Gas station      0
+
+                18. Hospital/doctor/dentist     0
+
+                 13. Hotel/motel/campsite       0
+
+                  12. Professional service      0
+
+                            11. Contractor      0
+
+                                              0.0                                       2.5                     5.0                 7.5   10.0
+                                                                                            Percentage of mobile app payments (%)
+
+                                    Figure 5: Percentage share of mobile app payments by merchant type.
+
+
+Source: Author’s computations from the 2019 Diary of Consumer Payment Choice.
+Note: Based on 12,043 payments made by 2,553 respondents.
+
+
+
+
+                                                                                                      26
+

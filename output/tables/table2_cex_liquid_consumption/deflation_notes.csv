@@ -1,0 +1,2 @@
+deflator_source,detail
+none_found_nominal_baseline,No CPI component file was found under raw/cpi or output/cpi. Parsed CEX FMLI does not contain CPI indexes. Baseline uses nominal component sums with month and year dummies.

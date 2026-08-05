@@ -1,0 +1,7 @@
+metric,value
+transaction_rows_before_join,15095
+transaction_rows_after_join,15095
+transaction_rows_without_matching_diary_day,164
+payment_rows_without_matching_diary_day,105
+retained_analysis_transactions,5897
+retained_analysis_respondents,2101

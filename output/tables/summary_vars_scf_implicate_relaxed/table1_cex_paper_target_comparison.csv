@@ -1,0 +1,4 @@
+table,source,statistic,group,paper,replication,diff
+Table 1,CEX 2001,Puzzle size (%),Borrow,7,8.629474733845203,1.6294747338452034
+Table 1,CEX 2001,Puzzle size (%),Borrow and save,29,29.13397508313134,0.13397508313133955
+Table 1,CEX 2001,Puzzle size (%),Save,64,62.236550183023276,-1.763449816976724

@@ -1,0 +1,13 @@
+measure,sample,weighting,nobs,r2,within_r2
+benchmark,all_usable,finlwt21,55318,0.9015906486933225,0.03538997294856694
+benchmark,all_usable,unweighted,55318,0.8995077048390699,0.034818793109015256
+benchmark,complete_public_panel_2_5,finlwt21,33120,0.8901346660631407,0.03762315619807821
+benchmark,complete_public_panel_2_5,unweighted,33120,0.8886606485075146,0.03622221605492082
+excluding_food,all_usable,finlwt21,55271,0.8873691397261527,0.04245866328402226
+excluding_food,all_usable,unweighted,55271,0.8846975832013795,0.04177452669936754
+excluding_food,complete_public_panel_2_5,finlwt21,33115,0.8708383529097328,0.04273960600711846
+excluding_food,complete_public_panel_2_5,unweighted,33115,0.8693790495503455,0.04171400696903105
+excluding_food_property_taxes,all_usable,finlwt21,55246,0.8333168004587233,0.039103025371108435
+excluding_food_property_taxes,all_usable,unweighted,55246,0.8480266446813094,0.04427772626367377
+excluding_food_property_taxes,complete_public_panel_2_5,finlwt21,33108,0.7984306814858859,0.03571305337595054
+excluding_food_property_taxes,complete_public_panel_2_5,unweighted,33108,0.8253710432120391,0.042107125226034436

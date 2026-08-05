@@ -1,0 +1,4 @@
+measure,n_rows,n_households,n_positive_rows,n_positive_households
+benchmark,92649,35437,92626,35426
+excluding_food,92649,35437,92252,35230
+excluding_food_property_taxes,92649,35437,92142,35191

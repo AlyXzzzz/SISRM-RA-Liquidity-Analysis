@@ -1,0 +1,4 @@
+measure,frequency,calendar_year,n_pairs,n_households,corr_consumption,corr_log_consumption
+benchmark,monthly,2019,51095,11432,0.588505097651515,0.8523929053239483
+excluding_food,monthly,2019,50951,11397,0.5603321321745968,0.8435950276213424
+excluding_food_property_taxes,monthly,2019,50913,11387,0.5088468618833971,0.8096261364523388

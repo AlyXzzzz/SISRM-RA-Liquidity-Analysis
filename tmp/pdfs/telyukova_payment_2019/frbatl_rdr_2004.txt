@@ -1,0 +1,611 @@
+                           The 2019 Diary of
+                       Consumer Payment Choice
+2020 ● No. 20-4
+Claire Greene and Joanna Stavins
+
+
+Abstract
+In October 2019, almost half of all payments (43 percent) U.S. consumers made were for groceries, gas,
+and shopping, both in person and online. The distribution was different by value, as 40 percent of
+payments were for financial services, including mortgages, credit card bills, other loan payments,
+insurance, investments, and so on. The most commonly used payment instruments were debit cards,
+cash, and credit cards, which jointly accounted for 80 percent of all payments by number and 37 percent
+by value. By value, about 40 percent of consumer payments were made via ACH payments, executed
+either through online banking bill payment or by providing a bank routing number and account number
+to the payee. The average amount of cash a U.S. consumer held in his or her pocket, purse, or wallet
+was $60 (the median was $24).
+This paper describes key results from the 2019 Diary of Consumer Payment Choice (DCPC), the sixth in a
+series of diary surveys that measure payment behavior through the daily recording of the spending of
+U.S. consumers. The DCPC is the only diary survey of U.S. consumer payments with data and results that
+are available to the public free of charge.
+JEL Classifications: D12, D14, E42
+Keywords: cash, checks, checking accounts, debit cards, credit cards, prepaid cards, electronic
+payments, payment preferences, Diary of Consumer Payment Choice
+https://doi.org/10.29338/rdr2020-04
+
+Claire Greene is a payments risk expert at the Federal Reserve Bank of Atlanta. Joanna Stavins is a senior economist and policy
+adviser at the Federal Reserve Bank of Boston. Their email addresses are claire.greene@atl.frb.org and
+joanna.stavins@bos.frb.org, respectively.
+Acknowledgments appear on the first page of this report. The primary authors are responsible for any errors in the report.
+This paper presents preliminary analysis and results intended to stimulate discussion and critical comment. The views
+expressed herein are those of the authors and do not indicate concurrence by the Federal Reserve Bank of Boston, the Federal
+Reserve Bank of Atlanta, the principals of the Board of Governors, or the Federal Reserve System.
+This report, which may be revised, is available at www.frbatlanta.org/banking-and-payments/consumer-payments/research-
+data-reports.aspx.
+This version: June 15, 2020
+Acknowledgments
+The Diary of Consumer Payment Choice is a collaboration of the Federal Reserve Banks of Atlanta,
+Boston, and San Francisco (Cash Product Office).
+
+The following individuals contributed to the production and dissemination of the 2019 Diary of
+Consumer Payment Choice. From the Atlanta Fed are Kevin Foster, Claire Greene, Marcin Hitczenko,
+Brian Prescott, and Oz Shy. From the Boston Fed are Joanna Stavins and Liang Zhang. From the San
+Francisco Fed Cash Product Office are Alex Bau, Laura Kim, and Shaun O’Brien. From the University of
+Southern California are Marco Angrisani, Tania Gutsche, Arie Kapteyn, Bart Orriens, and Albert
+Weerman.
+1. Introduction
+The 2019 Diary of Consumer Payment Choice (DCPC) is the sixth official study conducted by the Federal
+Reserve Banks of Atlanta, Boston, and San Francisco to gain a comprehensive understanding of the cash
+and noncash payment behavior of U.S. adult consumers (ages 18 and older). 1 This report contains
+results for 2019 and includes estimates of the number, value, and average value of payments that all
+U.S. adult consumers made using U.S. payment instruments. It also includes estimates of cash held on
+person (pocket, purse, or wallet) and stored cash by denomination of currency. 2
+
+The DCPC collects data on individual payments from daily records kept by consumers, including the
+dollar values of payments. Because this daily recording method differs from the recall method used by
+the Survey of Consumer Payment Choice (SCPC), estimates from the two surveys are not directly
+comparable. For more information about the SCPC, see Foster, Greene, and Stavins (2019, 2020); and
+Greene and Stavins (2018). Past reports on the DCPC include Greene and Stavins (2018, 2019) and
+Greene and Schuh (2017).
+
+This report focuses on estimates of the level of consumer payment use in 2019—that is, the number and
+value of consumer payments—and changes from 2018 to 2019. Tables 1–9 report results for 2015
+through 2019.
+
+    •    Number and dollar value of payments by type of payment instrument and by merchant type
+         (Tables 1, 2, and 5)
+
+    •    Number and dollar value of purchases and bills by type of payment instrument (Tables 3 and 4)
+
+    •    Cash holdings on person and stored elsewhere (Tables 6 and 7)
+
+    •    Consumer characteristics, including income and demographics (Table 8 and 9)
+
+Year-to-year results may not be comparable due to questionnaire changes. Due to fewer respondents in
+2015, we have less power to detect changes when comparing 2015 to later years, when the numbers of
+respondents were more similar (Table A). In addition, the calendar periods when respondents recorded
+their payments are aligned for 2016, 2017, 2018, and 2019 (October), while the 2015 calendar period
+
+
+
+
+1 The first official study was the 2012 Diary of Consumer Payment Choice (DCPC), which is described in detail in Greene, Schuh,
+
+and Stavins (2018).
+
+2 The 2019 DCPC was conducted before the coronavirus pandemic. The 2020 DCPC, planned for October 2020, will collect
+
+information in the COVID-19 environment. For supplementary findings from spring 2020, see Kim et al. 2020b.
+
+
+
+
+                                                               2
+was different (mid-October to mid-November). Each year’s questionnaire includes modest changes, so
+the reader should exercise caution when interpreting estimates of changes in payment behavior.
+
+Table A: Number of DCPC respondents
+
+ Survey year             Number of respondents
+ 2015                    1,016
+ 2016                    2,848
+ 2017                    2,793
+ 2018                    2,873
+ 2019                    3,016
+All DCPC data, along with technical documentation, are available to the public free of charge.
+Throughout the paper, small discrepancies in the estimates may exist due to rounding. The data may be
+revised in the future should important new information or analysis warrant doing so.
+
+The remainder of this report is organized as follows. Section 2 provides an overview of the number and
+value of payments for 2019 and describes changes relative to 2018. Section 3 reports estimates of the
+level of consumer payment use by payment instrument and describes the implied changes in payment
+instrument use from 2018 to 2019. Section 4 shows how payment instrument choice for purchases
+differs from bills. Section 5 reports to whom consumers paid: consumers, businesses, or government.
+Section 6 focuses on the use of cash and electronic devices, Section 7 on cash holdings, and Section 8 on
+the speed of payments. Section 9 concludes the report. An appendix summarizes the underlying survey
+methodology.
+
+
+2. Number and value of payments
+U.S. consumers made on average 39 payments for the month, 3 or 1.3 payments per day (Table 1).
+Notably, on average, 21 percent of consumers reported making zero payments on any of their three
+reporting days.
+
+U.S. consumers made on average $4,236 worth of payments for the month (median $310 [some
+respondents reported no payments on some days]). Consumer payments are not the same as consumer
+(or household) expenditures, so the estimated value of consumer payments (and its growth rate) should
+not be compared with data on expenditures. Dividing the value of payments by the number of payments
+yields an average value per consumer payment of $110 (Table 2).
+
+
+
+
+3 All the data reported in this paper refer to October 2019, unless specified otherwise.
+
+
+
+
+                                                                3
+The number of consumer payments decreased about 10 percent (that is, by four payments) compared
+with October 2018 (43 payments per consumer per month) and is lower than the number of payments
+reported in October of all the prior years covered by this report, 2015 through 2018. The total value of
+payments increased by $308 (8 percent) from $3,999 in 2018 and exceeds the total values reported for
+all the prior years of this report. The average dollar value of a payment increased from $92 in 2018 to
+$110 in 2019, an increase that is not statistically significant (Table 2). With the exception of 2017, the
+total value of payments increased in each year from 2015 through 2019.
+
+
+3. Number and value of payments by instrument
+U.S. consumers made more than half of their payments with payment cards (debit, credit, and prepaid):
+55 percent, or 21 payments. They used paper instruments (cash, checks, and money orders) for 31
+percent, or 12 payments; electronic methods for 11 percent or 4 payments 4; and other methods 5 for 2
+percent, or 1 payments (Table 1). Compared with 2018, the volume shares of cards and electronic
+instruments increased and the volume shares of paper instruments declined; however, these changes
+are not statistically significant.
+
+Although cards were used more frequently than electronic payments, the total value of payments made
+electronically exceeded that of payments made by cards: $1,696 compared to $1,303. By value,
+payments using electronic instruments were 40 percent of the monthly total, compared to 31 percent
+for cards and 23 percent for paper instruments (Table 1). The increase in the value share of electronic
+payments from October 2018 was not statistically significant.
+
+Debit cards, cash, and credit cards remain the most commonly used ways to pay, 6 with debit cards used
+most by number of payments (Table 1). Thirty-one percent of payments were with debit cards, 26
+percent with cash, and 24 percent with credit cards. 7 Altogether, consumers made about 80 percent of
+
+
+
+4 The electronic payment instruments are defined as follows. Bank account number payment (BANP): a payment made by
+
+providing a bank account number to a third party, such as an employer or a utility company. The number can be given on
+websites, paper forms, and so on. Online banking bill payment (OBBP): a payment made from a bank’s online banking website
+or online mobile app that accesses funds from a customer’s checking or savings account to pay a bill or to pay other people.
+This payment does not require the customer or the bank to disclose his or her bank account number to a third party.
+
+5 Other methods include income deduction, PayPal, account-to-account transfers (using apps such as Zelle and Venmo), and
+
+mobile payments.
+
+6 Debit, cash, and credit are also the three most frequently used payment instruments by consumers in the SCPC. See Foster,
+
+Greene, and Stavins (2020).
+
+7 This finding differs from the results of the SCPC, a recall survey, which finds that credit or charge card payments slightly
+
+exceed cash payments by number.
+
+
+
+
+                                                                  4
+their payments using debit cards, cash, and credit cards, a result also found by the SCPC (Foster, Greene,
+Stavins 2020).
+
+The distribution by value is different. Cash, debit, and credit payments accounted for 36 percent of the
+value of their payments: 6 percent in cash, 16 percent in debit cards, and 14 percent in credit cards
+(Table 1). The difference between the distribution by volume and by value reflects that consumers tend
+to use cash and payment cards more often, but for relatively low-value payments, and they tend to use
+checks and electronic payments less often, but for relatively high-value payments (Figures 1 and 2). For
+example, U.S. consumers on average made fewer electronic-instrument payments than cash payments
+(four compared with 10), but they used electronic payments for transactions that were higher in
+average value than cash transactions ($417 compared with $27). The average value when using payment
+cards fell between the two, at $60 (Tables 1 and 2).
+
+Figure 1: Number and average value of payments by instrument, October 2019
+
+
+
+
+Note: Payment instruments are ranked left to right by number of transactions per month. OBBP: online banking bill pay. BANP: bank account
+number payment. Other includes PayPal, account-to-account transfers, mobile payments, and deductions from income.
+Source: 2019 Diary of Consumer Payment Choice, Tables 1 and 2.
+
+
+
+
+                                                                     5
+Figure 2: Percentage shares of payments by number and value, October 2019
+
+
+
+
+Source: 2019 Diary of Consumer Payment Choice, Table 1.
+
+
+
+Changes in the number and value of payments by instrument
+As noted above, the overall number of U.S. consumer payments decreased from 2018 to 2019 and the
+value increased. The change in the number of all payments is statistically significant, reflected in
+statistically significant decreases in the number of payments with paper instruments (cash and check)
+and also prepaid card and OBBP (Table 1 and Figure 3). The decline in the use of paper instruments is
+primarily in cash, a statistically significant decline from 11 payments per month to 10. No payment
+instrument showed an increase in the number of payments per month (Figure 3).
+
+
+
+
+                                                     6
+Figure 3: Changes in the number of payments per month by payment instrument, 2018 to 2019
+
+
+
+
+Notes: The vertical lines depict the 95 percent confidence intervals of the changes in the number of payments between 2018 and 2019, and the
+numbered dots depict the point estimates. Confidence intervals that lie entirely above or below the horizontal zero line indicate changes that are
+statistically significantly different from zero. Money orders are omitted from this figure.
+Source: 2018 and 2019 Diary of Consumer Payment Choice
+
+
+The increase in the total dollar value of payments was not statistically significant from 2018 to 2019.
+Examining each payment instrument separately, no payment type showed a significant change in total
+dollar value from 2018 to 2019 (Figure 4).
+
+
+
+
+                                                                        7
+Figure 4: Changes in the total dollar value of payments per month by payment instrument, 2018 to
+2019
+
+
+
+
+Notes: The vertical lines depict the 95 percent confidence intervals of the changes in the total dollar value of payments between 2018 and
+2019, and the numbered dots depict the point estimates. Confidence intervals that lie entirely above or below the horizontal zero line indicate
+changes that are statistically significantly different from zero. Money orders are omitted from this figure.
+Source: 2018 and 2019 Diary of Consumer Payment Choice
+
+
+
+4. Purchases and bills
+U.S. consumers on average made 31 purchases and eight bill payments per month (Tables 3a and 4). 8
+Purchases include goods and services, bought in person and online, as well as payments to another
+person—for example, as a gift or allowance. All payments, including bill payments, include only
+payments made by the individual survey respondent and exclude any payments made by other
+members of the household.
+
+Purchases (both online and in person) accounted for 80 percent of all payments by number and 37
+percent by value. Debit card was the most commonly used payment method for purchases, accounting
+for 33 percent of purchases by number, closely followed by cash (31 percent) and credit cards (28
+percent) (Tables 1 and 3 and Figure 5). In terms of dollar value, however, credit cards captured the
+highest share of purchases, 33 percent, followed by debit cards and cash. The dollar-value relationship
+
+
+
+
+8 Changes in the questionnaire design in 2017 make the purchases/bills splits from prior years not comparable. Therefore, only
+
+cross-sectional data is included in this section.
+
+
+
+
+                                                                       8
+to payment instrument choice described above pertains here: average dollar values for cash, debit, and
+credit purchases were, respectively and in ascending order, $23, $38, and $60 (Table 3a).
+
+Figure 5: Payment instrument use for purchases, shares by number and value
+
+
+
+
+Note: Shares do not sum to 100 because less common payment instruments are omitted.
+Source: 2019 DCPC
+
+Bill payments accounted for 20 percent of all payments by number and 63 percent by value. Electronic
+payment methods and debit cards are most commonly used for bill paying: 24 percent of bills by
+number were paid by BANP, 19 percent by OBBP, and 19 percent by debit card, totaling 6 in 10 of all bill
+payments for the three methods (Table 4 and Figure 6). In addition, 15 percent of bill payments were
+made with a paper check. More than half the value of all bills (59 percent) was paid using electronic
+payments (BANP and OBBP).
+
+
+
+
+                                                                  9
+Figure 6: Payment instrument use for bills, shares by number and value
+
+
+
+
+Note: Shares do not sum to 100 because less common payment instruments are omitted.
+Source: 2019 DCPC
+
+
+
+5. Payees
+Of the average 39 payments per month that U.S. consumers reported, 13 were for everyday purchases
+(groceries, pharmacies, stores, and online shopping); eight were for food consumed away from home
+(including restaurants, bars, and fast food), four were at gas stations, and three were related to financial
+services companies (including insurance; IRA and mutual funds; credit card, mortgage, and other loan
+payments) (Table 5).
+
+The remaining payments were for services related to housing (rent, utilities, communications), for
+medical and education expenses, for other services and recreation, and for charitable donations.
+Consumers made two payments per month to another person, defined in the questionnaire as “friends,
+family, co-workers, or a person you pay for goods or services.”
+
+By number, shopping (including grocery stores, convenience stores, pharmacies, and other physical
+stores as well as online shopping) represented 33 percent of all payments; by value, 15 percent (Table
+5). Similarly, the purchase of food consumed away from home was 21 percent of payments by number
+and just 4 percent by value, reflecting the relatively low average dollar value of such payments. In
+contrast, payments to financial services companies, which include not only loan repayments but also
+transfers to another account and purchases of financial assets, are a small share of all payments by
+
+
+
+
+                                                                 10
+number—8 percent—but the greatest share of any payee type by value: 40 percent. Shy (2020)
+examines the payment instruments consumers used in October 2019 to pay the different payee types.
+
+
+6. Use of cash and electronic devices
+Consumer payment diaries make it possible to track detailed use and management of cash, transaction
+by transaction, during the course of a day. The DCPC reflects two important differences between cash
+and other payment methods. First, cash payments account for a relatively large proportion of the
+number of payments, as mentioned above. Of the total number of payments, 26 percent on average
+involved cash. A second difference is that cash payments account for a relatively small proportion of the
+value of payments. Of a consumer’s total payment value, only 6 percent on average was funded using
+cash. The average value of a cash payment was $27, compared with $235 for the average value of all
+other payments, and the average cash purchase was even lower in value, at $23 (Tables 2 and 3). (For
+details on cash use in 2018, see Kumar and O’Brien 2019; for 2019, see Kim et al. 2020a; for spring 2020,
+Kim et al. 2020b.)
+
+Of course, it is not possible to make cash payments with electronic devices (computer, tablet, mobile
+phone), so we could consider these electronic means of making payments the alternative means to
+paying with cash. In 2019, 24.6 percent of all payments were made using electronic devices; 9.4 percent
+of all payments were made using a mobile phone.
+
+
+7. Cash holdings
+The DCPC obtains data on consumers’ holdings of cash on their person (pocket, purse, or wallet) and
+stored elsewhere (home, car, office, and such). The data on cash holdings were collected every night
+during the diary recording period; the data on stored cash were collected on the first and final nights of
+the survey. For both measures, respondents were asked to count the exact number of bills held by
+denomination, and the online questionnaire automatically summed the dollar values of cash holdings by
+denomination and in total. Respondents did not report holdings of coins.
+
+A U.S. consumer carried $60 of cash each day on average, statistically unchanged from cash holdings in
+2016, 2017, and 2018. By value, about half of the cash on person was in the form of $20 bills and one-
+quarter was in $100 bills (Table 6). Eighty percent of consumers carried at least $1 at the beginning of at
+least one of their diary days. Of the consumers without cash at the start of the diary (one-quarter of
+respondents), two-thirds stated that they usually do not carry cash.
+
+
+
+
+                                                    11
+Fewer consumers store cash elsewhere; just 22 percent of consumers had at least $1 stored elsewhere.
+For all consumers, the average value of cash stored elsewhere was $120. Among the subset of
+consumers who had some stored cash, the average value of that cash was about $1,100. As one might
+expect, most of the value of stored cash was carried in $100 bills: more than three-quarters of the value
+of stored cash. (As documented elsewhere [Judson 2017, Greene, and Schuh 2017], by value, most
+currency in circulation is not stored with U.S. consumers.)
+
+Consumers also were asked about their holdings and use of pennies. Three-quarters of consumers keep
+pennies they receive in change; the remainder leave them in charity boxes or tip jars or with the cashier.
+Of consumers who keep their pennies, 37 percent use them for purchases, 30 percent take them to a
+coin kiosk, 18 percent deposit them at a bank, and 10 percent give them to family members.
+
+
+8. Speed of payments
+The night before their first diary day, consumers reported their preferences for paying bills and for
+making purchases. For their preferred method of bill payment, 7 percent of consumers said “speed” was
+the reason for their choice. For their preferred method of purchases and nonbills, 6 percent of
+consumers chose speed as the most important consideration. Greene and Stavins (forthcoming), using
+2017 DCPC data, found that many consumers choose the catch-all category of “convenience” as their
+reason for preferring a particular payment instrument. Schuh and Stavins (2016) found that some
+aspects of speed—speed at the time of payment and speed of payment deduction—had a statistically
+significant influence on the adoption of some payment instruments, but not as much influence as other
+characteristics of payment instruments.
+
+Consumers who answered that they chose their preferred payment instruments due to “speed” were
+asked to define the aspect of speed that was important for their choice. Of the share of responses for
+bills and purchases related to speed, about half defined speed as "speed at the time of payment." For
+purchases separately, about two-thirds defined the important aspect of speed as "speed at the time of
+payment."
+
+All consumers, whether or not they cited speed as a reason for payment instrument choice, were asked
+if they had heard of faster payments, defined as payments that “allow individuals and businesses to
+send and receive payments within seconds at any time of the day, on any day of the year, such that the
+receiver of a payment can use the funds almost instantly.” Three-quarter of U.S. consumers reported
+that they had not heard of faster payments, further defined to survey respondents as “If you make a
+payment, whether to pay a bill or to pay a friend, money will leave your account immediately. If you
+receive a payment, money will be in your account and available to you immediately.”
+
+The one-quarter of consumers who reported hearing of faster payments answered follow-up questions.
+Of those, about two-thirds had heard of PayPal and approximately one-third had heard of another
+method, including Venmo, Zelle, and a bank’s mobile app.
+
+
+
+
+                                                    12
+9. Conclusion
+Data from the 2019 Diary of Consumer Payment Choice show that consumers use debit cards, cash, and
+credit cards for most of their payments by number. In particular, consumers tend to use cash and cards
+for lower-value transactions, and electronic payments for higher-value transactions. The average dollar
+value of an electronic payment, for example, is $417, compared to a $60 average dollar value for card
+transactions. Debit cards are the most commonly used payment instrument by number for purchases,
+accounting for one-third of purchases, and electronic methods linked to a bank account are used for
+more than four in 10 bill payments by number. By value, debit cards, credit cards, and prepaid cards
+represent almost 60 percent of purchases. Also by value, electronic methods account for more than half
+of bill payments.
+
+
+
+
+                                                   13
+Appendix A: Overview of survey methodology
+This section provides a brief overview of the key elements of the DCPC methodology for 2019. A
+complete Technical Appendix will be published later in 2020. In the interim, Angrisani, Foster, and
+Hitczenko (2018) contains technical information about the DCPC.
+
+Sampling frame and samples
+The 2019 DCPC was implemented with representative samples from the Understanding America Study
+(UAS), managed by the University of Southern California (USC) Dornsife Center for Economic and Social
+Research (CESR) (Table B).
+
+Table B: Overview of samples, 2015–2019
+
+                                                                       2015                 2016               2017        2018        2019
+ UAS available panel                                                   2,140                4,776              4,759       4,718       5,228
+ Number of unique respondents*                                         1,087                3,047              2,871       2,992       3,154
+ Respondents completing all DCPC days**                                1,016                2,848              2,793       2,873       3,016
+ Number of longitudinal panelists***                                   --                   799                2,226       2,276       2,388
+
+Notes: Longitudinal panelists participate in multiple years. *Completed at least one day. **Completed at least four days (“night before” plus
+three diary days). ***Participated in at least one previous DCPC.
+Source: Federal Reserve Bank of Atlanta
+
+
+
+
+Questionnaires
+The DCPC is an online survey administered to diary respondents (“diarists”) over three consecutive days.
+It also includes a prediary online survey. Diarists can record their payments, cash management, and
+related information for each assigned day using some form of memory aid of their choosing. Examples
+of memory aids include a long-form or short-form paper aid or a receipt bag provided by the survey
+vendor. Diarists enter the data—from their memory aid or by recall—into a 10- to 15-minute online
+survey each night. Most of the online questionnaire collects information about payments and related
+data. Each day, it also includes questions specific to that day, such as income received, cash withdrawals
+and deposits, and so forth. Together, the whole process is expected to take no more than 30 minutes
+per day to complete, and respondents receive a $20-per-day incentive. The prediary online survey takes
+about 10 minutes, and respondents receive $10, for a total incentive of $70 per diarist.
+
+Prior to starting the DCPC, all diarists are required to take the 30-minute online Survey of Consumer
+Payment Choice (SCPC), for which they receive an incentive of $20 upon completion. A respondent may
+complete the SCPC any time from its release in the middle of September to the first day of the assigned
+diary period. For 2017, the DCPC questionnaire was changed to help respondents in reporting the payee
+
+
+
+
+                                                                      14
+and identifying bill payments. These changes mean that results for the breakdowns of bills and
+purchases are not comparable between 2016 and 2017/2018. All questionnaires are posted online.
+
+Diary implementation
+Diarists are randomly chosen to begin participating in the DCPC each day throughout the defined sample
+period for the year. Thus, each new diary wave contains a small sample of respondents (an average of
+87 per day in 2018) that is, on average, representative of all U.S. consumers. Diary waves are staggered
+to start two days before the official beginning of the DCPC and end two days after the official end date.
+This way, each day contains approximately one-third of respondents who are completing each day of
+the diary (one, two, or three) and every day-specific group of questions occurs on each day of the
+month. As a result of this implementation strategy, DCPC data provide aggregate estimates that are
+representative of all U.S. consumers on average for each day of the sample period (day-of-the-month
+weights) and, under certain assumptions about temporal trends, for the sum of all days in the sample
+period (monthly weights), usually the month of October.
+
+In addition, the data provide strong evidence that payment behavior is heavily influenced by a weekly
+cycle, with different behaviors on different days of the week. As a result, a hybrid approach for the
+estimates generates estimates for each day of the week by pooling across the relevant monthly data and
+then aggregates these to generate estimates for any particular period of time. (Also see Angrisani,
+Foster, and Hitczenko [2017]; Angrisani, Foster, and Hitczenko [2018]; and Angrisani, Foster, and
+Hitczenko [forthcoming].)
+
+Data preprocessing
+All DCPC survey responses reported here have been analyzed for errors, inconsistencies, and influential
+outlier effects. Where necessary, the DCPC data have been cleaned and adjusted using statistical
+methods similar to methods used previously and reported in earlier SCPC and DCPC technical
+appendices. Because consumer payments and cash management behavior exhibit significant day-of-the-
+week effects, and calendar months can vary notably across years in their composition of days of the
+week, the raw data contain seasonal fluctuations. The results for this report use revised sampling
+weights that attempt to adjust for differences in consumer payment behaviors across days of the week
+within each year.
+
+
+
+
+                                                    15
+References
+Angrisani, Marco, Kevin Foster, and Marcin Hitczenko. 2017. “The 2012 Diary of Consumer Payment
+Choice: Technical Appendix.” Federal Reserve Bank of Boston Research Data Reports no. 17-5. Available
+at www.frbatlanta.org/banking-and-payments/consumer-payments/research-data-reports/2017/the-
+2012-diary-of-consumer-payment-choice-technical-appendix.aspx?panel=1.
+
+Angrisani, Marco, Kevin Foster, and Marcin Hitczenko. 2018. “The 2015 and 2016 Diaries of Consumer
+Payment Choice: Technical Appendix.” Federal Reserve Bank of Boston Research Data Reports no. 18-2.
+Available at www.frbatlanta.org/banking-and-payments/consumer-payments/research-data-
+reports/2018/the-2015-and-2016-diaries-of-consumer-payment-choice-technical-
+appendix.aspx?panel=1.
+
+Angrisani, Marco, Kevin Foster, and Marcin Hitczenko. Forthcoming. “The 2018 and 2019 Survey and
+Diary of Consumer Payment Choice: Technical Appendix.” Federal Reserve Bank of Atlanta Research
+Data Reports.
+
+Foster, Kevin, Claire Greene, and Joanna Stavins. 2019. “The 2018 Survey of Consumer Payment Choice:
+Summary Results.” Federal Reserve Bank of Atlanta Research Data Report no. 19-02. Available at
+www.frbatlanta.org/banking-and-payments/consumer-payments/survey-of-consumer-payment-
+choice/2018-survey.aspx.
+
+Foster, Kevin, Claire Greene, and Joanna Stavins. 2020. “The 2019 Survey of Consumer Payment Choice:
+Summary Results.” Federal Reserve Bank of Atlanta Research Data Report no. 20-3. Available at
+www.frbatlanta.org/banking-and-payments/consumer-payments/survey-of-consumer-payment-
+choice/2019-survey.aspx.
+
+Greene, Claire and Scott D. Schuh. 2017. “The 2016 Diary of Consumer Payment Choice.” Federal
+Reserve Bank of Boston Research Data Reports no. 17-7. Available at www.frbatlanta.org/banking-and-
+payments/consumer-payments/research-data-reports/2017/the-2016-diary-of-consumer-payment-
+choice.aspx?panel=1.
+
+Greene, Claire and Joanna Stavins. 2018. “The 2016 and 2017 Surveys of Consumer Payment Choice:
+Summary Results.” Federal Reserve Bank of Boston Research Data Reports no. 18–3. Available at
+www.frbatlanta.org/banking-and-payments/consumer-payments/research-data-reports/2018/the-
+2016-and-2017-surveys-of-consumer-payment-choice-summary-results.aspx?panel=1.
+
+Greene, Claire and Joanna Stavins. 2018. The 2017 Diary of Consumer Payment Choice. Federal Reserve
+Bank of Atlanta Research Data Report no. 18-05. Available at www.frbatlanta.org/banking-and-
+payments/consumer-payments/research-data-reports/2018/the-2017-diary-of-consumer-payment-
+choice.aspx.
+
+Greene, Claire and Joanna Stavins. Forthcoming. Consumer Payment Choice for Bill Payments. Federal
+Reserve Bank of Boston Working Paper.
+
+Judson, Ruth. 2017. “The Death of Cash? Not So Fast: Demand for U.S. Currency at Home and Abroad,
+1990–2016.” International Cash Conference 2017, War on Cash: Is there a Future for Cash? Deutsche
+Bundesbank, Frankfurt am Main. Available at EconPapers.repec.org/RePEc:zbw:iccp17:162910.
+
+
+
+
+                                                 16
+Kim, Laura, Raynil Kumar, and Shaun O’Brien. 2020a. “2020 Findings from the Diary of Consumer
+Payment Choice.” Federal Reserve Bank of San Francisco Cash FedNotes. Available at
+https://www.frbsf.org/cash/publications/fed-notes/2020/july/2020-findings-from-the-diary-of-
+consumer-payment-choice/.
+
+Kim, Laura, Raynil Kumar, and Shaun O’Brien. 2020b. “Consumer Payments & the COVID-19 Pandemic: A
+supplement to the 2020 Findings from the Diary of Consumer Payment Choice.” Federal Reserve Bank of
+San Francisco Cash FedNotes. Available at www.frbsf.org/cash/publications/fed-
+notes/2020/july/consumer-payments-covid-19-pandemic-2020-diary-consumer-payment-choice-
+supplement/.
+
+Kumar, Raynil and Shaun O’Brien. 2019. “2019 Findings from the Diary of Consumer Payment Choice.”
+Federal Reserve Bank of San Francisco Cash FedNotes. Available at
+www.frbsf.org/cash/publications/fed-notes/2019/june/2019-findings-from-the-diary-of-consumer-
+payment-choice/.
+
+Schuh, Scott, and Joanna Stavins. 2016. "How Do Speed and Security Influence Consumers' Payment
+Behavior?" Contemporary Economic Policy 34(4): 595–613.
+
+Shy, Oz. 2020. “How Merchants Get Paid.” Federal Reserve Bank of Atlanta Research Data Report no. 20-
+2. Available at www.frbatlanta.org/banking-and-payments/consumer-payments/research-data-
+reports/2020/06/04/how-merchants-get-paid.
+
+
+
+
+                                                 17
+

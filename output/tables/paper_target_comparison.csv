@@ -1,0 +1,39 @@
+table,source,statistic,characteristic,group,paper,replication,diff
+Table 1,SCF 2001,Puzzle size (%),NA,Borrow,5,4.921982647813267,-0.07801735218673311
+Table 1,SCF 2001,Puzzle size (%),NA,Borrow and save,27,26.756247784100882,-0.24375221589911789
+Table 1,SCF 2001,Puzzle size (%),NA,Save,68,68.321769568086,0.32176956808599755
+Table 1,SCF 2001,Credit-card interest rate (%),NA,Borrow,14.8,16.03732759300963,1.2373275930096277
+Table 1,SCF 2001,Credit-card interest rate (%),NA,Borrow and save,13.7,13.68256371791462,-0.017436282085379062
+Table 1,SCF 2001,Credit-card interest rate (%),NA,Save,9.8,9.282843827770275,-0.5171561722297255
+Table 2,SCF 2001,Share (%),Race: white,Borrow,70,70.62104377019234,0.6210437701923439
+Table 2,SCF 2001,Share (%),Race: white,Borrow and save,78,79.75257159385691,1.7525715938569135
+Table 2,SCF 2001,Share (%),Race: white,Save,74,74.17069654106679,0.1706965410667891
+Table 2,SCF 2001,Share (%),Race: white,Population,75,75.48948356775001,0.489483567750014
+Table 2,SCF 2001,Share (%),Marital status: married,Borrow,48,46.36217480397543,-1.637825196024572
+Table 2,SCF 2001,Share (%),Marital status: married,Borrow and save,62,58.8467547649492,-3.1532452350507967
+Table 2,SCF 2001,Share (%),Marital status: married,Save,58,53.47284452655163,-4.527155473448367
+Table 2,SCF 2001,Share (%),Marital status: married,Population,59,54.560715335743915,-4.4392846642560855
+Table 2,SCF 2001,Share (%),Have dependent children,Borrow,45,42.54138038686803,-2.4586196131319724
+Table 2,SCF 2001,Share (%),Have dependent children,Borrow and save,41,43.825917061194225,2.8259170611942253
+Table 2,SCF 2001,Share (%),Have dependent children,Save,39,37.100078531040495,-1.899921468959505
+Table 2,SCF 2001,Share (%),Have dependent children,Population,40,39.16748048688596,-0.8325195131140433
+Table 2,SCF 2001,Share (%),Head works full-time,Borrow,76,74.74295207461724,-1.2570479253827642
+Table 2,SCF 2001,Share (%),Head works full-time,Borrow and save,85,89.79953450234706,4.799534502347058
+Table 2,SCF 2001,Share (%),Head works full-time,Save,80,77.96160347201362,-2.0383965279863787
+Table 2,SCF 2001,Share (%),Head works full-time,Population,81,80.97056816772704,-0.02943183227296231
+Table 2,SCF 2001,Share (%),Head white-collar/prof.,Borrow,48,38.91679832530378,-9.08320167469622
+Table 2,SCF 2001,Share (%),Head white-collar/prof.,Borrow and save,61,56.501301987881156,-4.498698012118844
+Table 2,SCF 2001,Share (%),Head white-collar/prof.,Save,58,48.62335895073707,-9.376641049262929
+Table 2,SCF 2001,Share (%),Head white-collar/prof.,Population,58,50.2534456803622,-7.746554319637802
+Table 2,SCF 2001,Share (%),Education: less than HS,Borrow,13,16.555658839827366,3.555658839827366
+Table 2,SCF 2001,Share (%),Education: less than HS,Borrow and save,5,6.332948240534026,1.3329482405340256
+Table 2,SCF 2001,Share (%),Education: less than HS,Save,13,17.875448697353907,4.875448697353907
+Table 2,SCF 2001,Share (%),Education: less than HS,Population,11,14.722148846871159,3.7221488468711588
+Table 2,SCF 2001,Share (%),HS/some college,Borrow,73,70.36918488701772,-2.630815112982276
+Table 2,SCF 2001,Share (%),HS/some college,Borrow and save,61,61.59250214437378,0.5925021443737819
+Table 2,SCF 2001,Share (%),HS/some college,Save,51,49.87102551607868,-1.1289744839213185
+Table 2,SCF 2001,Share (%),HS/some college,Population,55,54.01616869405975,-0.9838313059402495
+Table 2,SCF 2001,Share (%),College degree or more,Borrow,14,13.075156273154828,-0.9248437268451717
+Table 2,SCF 2001,Share (%),College degree or more,Borrow and save,33,32.0745496150922,-0.9254503849077977
+Table 2,SCF 2001,Share (%),College degree or more,Save,36,32.25352578656753,-3.746474213432471
+Table 2,SCF 2001,Share (%),College degree or more,Population,34,31.261682459069405,-2.738317540930595

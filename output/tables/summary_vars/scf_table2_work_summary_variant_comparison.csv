@@ -1,0 +1,165 @@
+characteristic,candidate,variable,group,paper,replication,diff
+Head works full-time,primary fork: raw X4511 == 1,head_full_time,Borrow,76,74.74295207461724,-1.2570479253827642
+Head works full-time,primary fork: raw X4511 == 1,head_full_time,Borrow and save,85,89.79953450234706,4.799534502347058
+Head works full-time,primary fork: raw X4511 == 1,head_full_time,Save,80,77.96160347201362,-2.0383965279863787
+Head works full-time,primary fork: raw X4511 == 1,head_full_time,Population,81,80.97056816772704,-0.02943183227296231
+Head works full-time,"raw X4511 == 1, drop missing/imputed J4511 >= 997",head_full_time_drop_missing_imputed,Borrow,76,74.74295207461724,-1.2570479253827642
+Head works full-time,"raw X4511 == 1, drop missing/imputed J4511 >= 997",head_full_time_drop_missing_imputed,Borrow and save,85,89.79929937920036,4.799299379200363
+Head works full-time,"raw X4511 == 1, drop missing/imputed J4511 >= 997",head_full_time_drop_missing_imputed,Save,80,77.89413364529103,-2.105866354708965
+Head works full-time,"raw X4511 == 1, drop missing/imputed J4511 >= 997",head_full_time_drop_missing_imputed,Population,81,80.9212168477891,-0.07878315221090304
+Head works full-time,"raw X4511 == 1, J4511 < 90",head_full_time_reported_edited,Borrow,76,74.74295207461724,-1.2570479253827642
+Head works full-time,"raw X4511 == 1, J4511 < 90",head_full_time_reported_edited,Borrow and save,85,89.44001400472834,4.44001400472834
+Head works full-time,"raw X4511 == 1, J4511 < 90",head_full_time_reported_edited,Save,80,77.65639115578983,-2.3436088442101664
+Head works full-time,"raw X4511 == 1, J4511 < 90",head_full_time_reported_edited,Population,81,80.66584751716573,-0.3341524828342699
+Head works full-time,"raw X4511 == 1, J4511 == 0",head_full_time_reported_only,Borrow,76,72.90951671716144,-3.090483282838562
+Head works full-time,"raw X4511 == 1, J4511 == 0",head_full_time_reported_only,Borrow and save,85,88.21024674568409,3.2102467456840884
+Head works full-time,"raw X4511 == 1, J4511 == 0",head_full_time_reported_only,Save,80,76.94395140163833,-3.05604859836167
+Head works full-time,"raw X4511 == 1, J4511 == 0",head_full_time_reported_only,Population,81,79.75981512487238,-1.2401848751276248
+Head works full-time,raw X4511 == 1 & X4100 in 11:17,head_full_time_worker_recode,Borrow,76,74.09031018883466,-1.909689811165336
+Head works full-time,raw X4511 == 1 & X4100 in 11:17,head_full_time_worker_recode,Borrow and save,85,88.74842307296291,3.7484230729629076
+Head works full-time,raw X4511 == 1 & X4100 in 11:17,head_full_time_worker_recode,Save,80,76.99341830223463,-3.0065816977653697
+Head works full-time,raw X4511 == 1 & X4100 in 11:17,head_full_time_worker_recode,Population,81,79.99572602813465,-1.004273971865345
+Head works full-time,raw X4511 == 1 & X4100 in 11:17 or 96,head_full_time_current_worker_recode,Borrow,76,74.09031018883466,-1.909689811165336
+Head works full-time,raw X4511 == 1 & X4100 in 11:17 or 96,head_full_time_current_worker_recode,Borrow and save,85,89.25856590963078,4.258565909630775
+Head works full-time,raw X4511 == 1 & X4100 in 11:17 or 96,head_full_time_current_worker_recode,Save,80,77.10475489647663,-2.895245103523365
+Head works full-time,raw X4511 == 1 & X4100 in 11:17 or 96,head_full_time_current_worker_recode,Population,81,80.20828824092935,-0.79171175907065106
+Head works full-time,raw X4511 == 1 & active worker recode,head_full_time_active_worker_recode,Borrow,76,74.09031018883466,-1.909689811165336
+Head works full-time,raw X4511 == 1 & active worker recode,head_full_time_active_worker_recode,Borrow and save,85,89.09630564238536,4.09630564238536
+Head works full-time,raw X4511 == 1 & active worker recode,head_full_time_active_worker_recode,Save,80,76.42334888673956,-3.5766511132604393
+Head works full-time,raw X4511 == 1 & active worker recode,head_full_time_active_worker_recode,Population,81,79.69932483797433,-1.3006751620256694
+Head works full-time,raw X4511 == 1 & X4100 == 11,head_full_time_worker_only,Borrow,76,70.87024073824331,-5.129759261756689
+Head works full-time,raw X4511 == 1 & X4100 == 11,head_full_time_worker_only,Borrow and save,85,87.19716016634234,2.197160166342343
+Head works full-time,raw X4511 == 1 & X4100 == 11,head_full_time_worker_only,Save,80,74.98929468168079,-5.010705318319211
+Head works full-time,raw X4511 == 1 & X4100 == 11,head_full_time_worker_only,Population,81,78.05292229955643,-2.9470777004435718
+Head works full-time,raw X4511 == 1 & employee,head_full_time_employee,Borrow,76,67.78217782353241,-8.2178221764675925
+Head works full-time,raw X4511 == 1 & employee,head_full_time_employee,Borrow and save,85,80.38486012472825,-4.615139875271751
+Head works full-time,raw X4511 == 1 & employee,head_full_time_employee,Save,80,66.48299034221333,-13.517009657786673
+Head works full-time,raw X4511 == 1 & employee,head_full_time_employee,Population,81,70.26655485023907,-10.733445149760925
+Head works full-time,raw X4511 == 1 & self-employed,head_full_time_self_employed,Borrow,76,6.960774251084863,-69.03922574891514
+Head works full-time,raw X4511 == 1 & self-employed,head_full_time_self_employed,Borrow and save,85,9.414674377618697,-75.5853256223813
+Head works full-time,raw X4511 == 1 & self-employed,head_full_time_self_employed,Save,80,11.478613129800328,-68.52138687019968
+Head works full-time,raw X4511 == 1 & self-employed,head_full_time_self_employed,Population,81,10.70401331748801,-70.295986682512
+Head works full-time,main-job hours >= 30,head_full_time_main_hours30,Borrow,76,75.51193489709111,-0.48806510290889094
+Head works full-time,main-job hours >= 30,head_full_time_main_hours30,Borrow and save,85,91.29179469220456,6.2917946922045616
+Head works full-time,main-job hours >= 30,head_full_time_main_hours30,Save,80,79.0185490215794,-0.9814509784205967
+Head works full-time,main-job hours >= 30,head_full_time_main_hours30,Population,81,82.129814105630075,1.129814105630075
+Head works full-time,main-job hours >= 35,head_full_time_main_hours35,Borrow,76,72.9462160195641,-3.0537839804358953
+Head works full-time,main-job hours >= 35,head_full_time_main_hours35,Borrow and save,85,87.99425150059989,2.994251500599887
+Head works full-time,main-job hours >= 35,head_full_time_main_hours35,Save,80,75.89291499964605,-4.107085000353948
+Head works full-time,main-job hours >= 35,head_full_time_main_hours35,Population,81,78.98574256654597,-2.014257433454034
+Head works full-time,main + other job hours >= 30,head_full_time_total_hours30,Borrow,76,76.51754319123614,0.5175431912361432
+Head works full-time,main + other job hours >= 30,head_full_time_total_hours30,Borrow and save,85,91.93266912742921,6.932669127429207
+Head works full-time,main + other job hours >= 30,head_full_time_total_hours30,Save,80,79.52876837889785,-0.4712316211021488
+Head works full-time,main + other job hours >= 30,head_full_time_total_hours30,Population,81,82.69937481684535,1.6993748168453493
+Head works full-time,main + other job hours >= 35,head_full_time_total_hours35,Borrow,76,73.95182431370914,-2.048175686290861
+Head works full-time,main + other job hours >= 35,head_full_time_total_hours35,Borrow and save,85,89.0786679064123,4.078667906412306
+Head works full-time,main + other job hours >= 35,head_full_time_total_hours35,Save,80,76.6448141503816,-3.355185849618394
+Head works full-time,main + other job hours >= 35,head_full_time_total_hours35,Population,81,79.83909837798925,-1.1609016220107549
+Head works full-time,raw X4511 == 1 or total hours >= 35,head_full_time_self_report_or_total_hours35,Borrow,76,75.03899996850643,-0.9610000314935689
+Head works full-time,raw X4511 == 1 or total hours >= 35,head_full_time_self_report_or_total_hours35,Borrow and save,85,91.04945915950844,6.049459159508444
+Head works full-time,raw X4511 == 1 or total hours >= 35,head_full_time_self_report_or_total_hours35,Save,80,79.25355779879226,-0.7464422012077421
+Head works full-time,raw X4511 == 1 or total hours >= 35,head_full_time_self_report_or_total_hours35,Population,81,82.20225859014477,1.2022585901447655
+Head works full-time,raw X4511 == 1 and total hours >= 35,head_full_time_self_report_and_total_hours35,Borrow,76,73.65577641981996,-2.344223580180042
+Head works full-time,raw X4511 == 1 and total hours >= 35,head_full_time_self_report_and_total_hours35,Borrow and save,85,87.82874324925092,2.8287432492509197
+Head works full-time,raw X4511 == 1 and total hours >= 35,head_full_time_self_report_and_total_hours35,Save,80,75.35285982360291,-4.647140176397087
+Head works full-time,raw X4511 == 1 and total hours >= 35,head_full_time_self_report_and_total_hours35,Population,81,78.60740795557149,-2.392592044428511
+Head works full-time,annual total hours >= 1750,head_full_time_annual_total1750,Borrow,76,67.99706084565399,-8.00293915434601
+Head works full-time,annual total hours >= 1750,head_full_time_annual_total1750,Borrow and save,85,88.24008699034495,3.240086990344949
+Head works full-time,annual total hours >= 1750,head_full_time_annual_total1750,Save,80,73.8375206463495,-6.162479353650497
+Head works full-time,annual total hours >= 1750,head_full_time_annual_total1750,Population,81,77.40364056667552,-3.59635943332448
+Head works full-time,summary LF == 1,head_full_time_summary_lf,Borrow,76,88.14324447925492,12.143244479254918
+Head works full-time,summary LF == 1,head_full_time_summary_lf,Borrow and save,85,96.08284999587765,11.082849995877652
+Head works full-time,summary LF == 1,head_full_time_summary_lf,Save,80,87.54983911640666,7.549839116406659
+Head works full-time,summary LF == 1,head_full_time_summary_lf,Population,81,89.86215995975277,8.862159959752773
+Head works full-time,summary OCCAT1 == 1,head_full_time_summary_occat1_one,Borrow,76,71.20269619107698,-4.797303808923019
+Head works full-time,summary OCCAT1 == 1,head_full_time_summary_occat1_one,Borrow and save,85,83.3166849192109,-1.6833150807891002
+Head works full-time,summary OCCAT1 == 1,head_full_time_summary_occat1_one,Save,80,70.6495578440293,-9.350442155970697
+Head works full-time,summary OCCAT1 == 1,head_full_time_summary_occat1_one,Population,81,74.06603112485178,-6.933968875148224
+Head works full-time,summary OCCAT1 in 1:2,head_full_time_summary_occat1_broad,Borrow,76,81.9852006459261,5.985200645926099
+Head works full-time,summary OCCAT1 in 1:2,head_full_time_summary_occat1_broad,Borrow and save,85,94.22546608793455,9.22546608793455
+Head works full-time,summary OCCAT1 in 1:2,head_full_time_summary_occat1_broad,Save,80,84.29395090356994,4.293950903569936
+Head works full-time,summary OCCAT1 in 1:2,head_full_time_summary_occat1_broad,Population,81,86.83761542795143,5.837615427951434
+Head works full-time,summary LF == 1 & OCCAT1 in 1:2,head_full_time_summary_lf_occat1_broad,Borrow,76,81.9852006459261,5.985200645926099
+Head works full-time,summary LF == 1 & OCCAT1 in 1:2,head_full_time_summary_lf_occat1_broad,Borrow and save,85,94.22546608793455,9.22546608793455
+Head works full-time,summary LF == 1 & OCCAT1 in 1:2,head_full_time_summary_lf_occat1_broad,Save,80,84.29395090356994,4.293950903569936
+Head works full-time,summary LF == 1 & OCCAT1 in 1:2,head_full_time_summary_lf_occat1_broad,Population,81,86.83761542795143,5.837615427951434
+Head white-collar/prof.,primary fork: summary OCCAT2 in 1:2,head_white_collar_prof,Borrow,48,49.98832388893062,1.9883238889306227
+Head white-collar/prof.,primary fork: summary OCCAT2 in 1:2,head_white_collar_prof,Borrow and save,61,66.92114842986726,5.921148429867259
+Head white-collar/prof.,primary fork: summary OCCAT2 in 1:2,head_white_collar_prof,Save,58,57.59068237195153,-0.40931762804846983
+Head white-collar/prof.,primary fork: summary OCCAT2 in 1:2,head_white_collar_prof,Population,58,59.71297822446013,1.7129782244601301
+Head white-collar/prof.,public X7401 == 1: managerial/professional,head_occ_managerial_professional,Borrow,48,16.44349573775889,-31.55650426224111
+Head white-collar/prof.,public X7401 == 1: managerial/professional,head_occ_managerial_professional,Borrow and save,61,35.26562976681355,-25.734370233186453
+Head white-collar/prof.,public X7401 == 1: managerial/professional,head_occ_managerial_professional,Save,58,32.49508353409172,-25.50491646590828
+Head white-collar/prof.,public X7401 == 1: managerial/professional,head_occ_managerial_professional,Population,58,32.44632138305788,-25.553678616942122
+Head white-collar/prof.,public X7401 == 2: technical/sales/admin,head_occ_technical_sales_admin,Borrow,48,22.47330258754489,-25.52669741245511
+Head white-collar/prof.,public X7401 == 2: technical/sales/admin,head_occ_technical_sales_admin,Borrow and save,61,21.23567222106771,-39.76432777893229
+Head white-collar/prof.,public X7401 == 2: technical/sales/admin,head_occ_technical_sales_admin,Save,58,16.12827541664522,-41.871724583354776
+Head white-collar/prof.,public X7401 == 2: technical/sales/admin,head_occ_technical_sales_admin,Population,58,17.80712429730454,-40.19287570269546
+Head white-collar/prof.,public X7401 == 3: service/protective/military,head_occ_service_protective_military,Borrow,48,11.07152556362688,-36.92847443637312
+Head white-collar/prof.,public X7401 == 3: service/protective/military,head_occ_service_protective_military,Borrow and save,61,10.419846441985984,-50.58015355801402
+Head white-collar/prof.,public X7401 == 3: service/protective/military,head_occ_service_protective_military,Save,58,8.967323421214614,-49.032676578785384
+Head white-collar/prof.,public X7401 == 3: service/protective/military,head_occ_service_protective_military,Population,58,9.459532544097767,-48.54046745590223
+Head white-collar/prof.,raw X7401 in 1:2,head_white_collar_prof_raw,Borrow,48,38.91679832530378,-9.08320167469622
+Head white-collar/prof.,raw X7401 in 1:2,head_white_collar_prof_raw,Borrow and save,61,56.501301987881156,-4.498698012118844
+Head white-collar/prof.,raw X7401 in 1:2,head_white_collar_prof_raw,Save,58,48.62335895073707,-9.376641049262929
+Head white-collar/prof.,raw X7401 in 1:2,head_white_collar_prof_raw,Population,58,50.2534456803622,-7.746554319637802
+Head white-collar/prof.,public X7401 in 1:2,head_white_collar_public_12,Borrow,48,38.91679832530378,-9.08320167469622
+Head white-collar/prof.,public X7401 in 1:2,head_white_collar_public_12,Borrow and save,61,56.501301987881156,-4.498698012118844
+Head white-collar/prof.,public X7401 in 1:2,head_white_collar_public_12,Save,58,48.62335895073707,-9.376641049262929
+Head white-collar/prof.,public X7401 in 1:2,head_white_collar_public_12,Population,58,50.2534456803622,-7.746554319637802
+Head white-collar/prof.,raw X7401 in 1:3,head_white_collar_prof_raw_broad,Borrow,48,49.98832388893062,1.9883238889306227
+Head white-collar/prof.,raw X7401 in 1:3,head_white_collar_prof_raw_broad,Borrow and save,61,66.92114842986726,5.921148429867259
+Head white-collar/prof.,raw X7401 in 1:3,head_white_collar_prof_raw_broad,Save,58,57.59068237195153,-0.40931762804846983
+Head white-collar/prof.,raw X7401 in 1:3,head_white_collar_prof_raw_broad,Population,58,59.71297822446013,1.7129782244601301
+Head white-collar/prof.,public X7401 in 1:3,head_white_collar_public_13,Borrow,48,49.98832388893062,1.9883238889306227
+Head white-collar/prof.,public X7401 in 1:3,head_white_collar_public_13,Borrow and save,61,66.92114842986726,5.921148429867259
+Head white-collar/prof.,public X7401 in 1:3,head_white_collar_public_13,Save,58,57.59068237195153,-0.40931762804846983
+Head white-collar/prof.,public X7401 in 1:3,head_white_collar_public_13,Population,58,59.71297822446013,1.7129782244601301
+Head white-collar/prof.,"public X7401 in 1:3, drop missing/imputed J7401 >= 997",head_white_collar_public_13_drop_missing_imputed,Borrow,48,49.58762187291002,1.5876218729100202
+Head white-collar/prof.,"public X7401 in 1:3, drop missing/imputed J7401 >= 997",head_white_collar_public_13_drop_missing_imputed,Borrow and save,61,66.90067383999018,5.900673839990176
+Head white-collar/prof.,"public X7401 in 1:3, drop missing/imputed J7401 >= 997",head_white_collar_public_13_drop_missing_imputed,Save,58,57.53189001765943,-0.46810998234057166
+Head white-collar/prof.,"public X7401 in 1:3, drop missing/imputed J7401 >= 997",head_white_collar_public_13_drop_missing_imputed,Population,58,59.67615758316845,1.6761575831684468
+Head white-collar/prof.,"public X7401 in 1:3, J7401 < 90",head_white_collar_public_13_reported_coded,Borrow,48,48.81327594608598,0.8132759460859802
+Head white-collar/prof.,"public X7401 in 1:3, J7401 < 90",head_white_collar_public_13_reported_coded,Borrow and save,61,66.79802942972384,5.79802942972384
+Head white-collar/prof.,"public X7401 in 1:3, J7401 < 90",head_white_collar_public_13_reported_coded,Save,58,56.59882364664672,-1.4011763533532786
+Head white-collar/prof.,"public X7401 in 1:3, J7401 < 90",head_white_collar_public_13_reported_coded,Population,58,58.94454511111839,0.9445451111183871
+Head white-collar/prof.,public X7401 in 1:3 & full-time,head_white_collar_public_13_full_time,Borrow,48,46.93148008554181,-1.068519914458193
+Head white-collar/prof.,public X7401 in 1:3 & full-time,head_white_collar_public_13_full_time,Borrow and save,61,62.66737780512048,1.6673778051204806
+Head white-collar/prof.,public X7401 in 1:3 & full-time,head_white_collar_public_13_full_time,Save,58,53.04211613709504,-4.957883862904957
+Head white-collar/prof.,public X7401 in 1:3 & full-time,head_white_collar_public_13_full_time,Population,58,55.31671055273139,-2.6832894472686135
+Head white-collar/prof.,public X7401 in 1:3 & current worker recode,head_white_collar_public_13_current_worker,Borrow,48,49.33568200314803,1.3356820031480297
+Head white-collar/prof.,public X7401 in 1:3 & current worker recode,head_white_collar_public_13_current_worker,Borrow and save,61,66.380179837151,5.380179837151005
+Head white-collar/prof.,public X7401 in 1:3 & current worker recode,head_white_collar_public_13_current_worker,Save,58,56.82164299585107,-1.1783570041489284
+Head white-collar/prof.,public X7401 in 1:3 & current worker recode,head_white_collar_public_13_current_worker,Population,58,59.01069109656094,1.0106910965609401
+Head white-collar/prof.,public X7401 in 1:3 & employee,head_white_collar_public_13_employee,Borrow,48,43.92137707239642,-4.078622927603583
+Head white-collar/prof.,public X7401 in 1:3 & employee,head_white_collar_public_13_employee,Borrow and save,61,57.82828534751474,-3.1717146524852566
+Head white-collar/prof.,public X7401 in 1:3 & employee,head_white_collar_public_13_employee,Save,58,45.838763236969996,-12.161236763030004
+Head white-collar/prof.,public X7401 in 1:3 & employee,head_white_collar_public_13_employee,Population,58,48.95233606668496,-9.047663933315043
+Head white-collar/prof.,public X7401 in 1:2 + service employees,head_white_collar_public_12_service_employee,Borrow,48,49.28942694380863,1.2894269438086283
+Head white-collar/prof.,public X7401 in 1:2 + service employees,head_white_collar_public_12_service_employee,Borrow and save,61,65.51494462364516,4.514944623645164
+Head white-collar/prof.,public X7401 in 1:2 + service employees,head_white_collar_public_12_service_employee,Save,58,56.68905889261826,-1.310941107381737
+Head white-collar/prof.,public X7401 in 1:2 + service employees,head_white_collar_public_12_service_employee,Population,58,58.68632614743093,0.6863261474309326
+Head white-collar/prof.,public X7401 in 1:2 + service full-time,head_white_collar_public_12_service_full_time,Borrow,48,49.095813202864434,1.0958132028644343
+Head white-collar/prof.,public X7401 in 1:2 + service full-time,head_white_collar_public_12_service_full_time,Borrow and save,61,65.57203249859164,4.572032498591639
+Head white-collar/prof.,public X7401 in 1:2 + service full-time,head_white_collar_public_12_service_full_time,Save,58,56.04950357499179,-1.950496425008211
+Head white-collar/prof.,public X7401 in 1:2 + service full-time,head_white_collar_public_12_service_full_time,Population,58,58.255115575604,0.2551155756040018
+Head white-collar/prof.,public X7401 in 1:2 + service current workers,head_white_collar_public_12_service_current_worker,Borrow,48,49.33568200314803,1.3356820031480297
+Head white-collar/prof.,public X7401 in 1:2 + service current workers,head_white_collar_public_12_service_current_worker,Borrow and save,61,66.79341887788314,5.793418877883141
+Head white-collar/prof.,public X7401 in 1:2 + service current workers,head_white_collar_public_12_service_current_worker,Save,58,57.243753772258145,-0.7562462277418547
+Head white-collar/prof.,public X7401 in 1:2 + service current workers,head_white_collar_public_12_service_current_worker,Population,58,59.40965191021893,1.4096519102189333
+Head white-collar/prof.,public X7401 in 1:4,head_white_collar_public_14,Borrow,48,60.71683043501318,12.716830435013179
+Head white-collar/prof.,public X7401 in 1:4,head_white_collar_public_14,Borrow and save,61,80.9824652824942,19.982465282494204
+Head white-collar/prof.,public X7401 in 1:4,head_white_collar_public_14,Save,58,70.1219967889698,12.121996788969795
+Head white-collar/prof.,public X7401 in 1:4,head_white_collar_public_14,Population,58,72.5649299936718,14.564929993671797
+Head white-collar/prof.,summary OCCAT1 == 1,head_white_collar_occat1_summary,Borrow,48,71.20269619107698,23.20269619107698
+Head white-collar/prof.,summary OCCAT1 == 1,head_white_collar_occat1_summary,Borrow and save,61,83.3166849192109,22.3166849192109
+Head white-collar/prof.,summary OCCAT1 == 1,head_white_collar_occat1_summary,Save,58,70.6495578440293,12.649557844029303
+Head white-collar/prof.,summary OCCAT1 == 1,head_white_collar_occat1_summary,Population,58,74.06603112485178,16.066031124851776
+Head white-collar/prof.,summary OCCAT2 == 1,head_white_collar_occat2_summary,Borrow,48,16.44349573775889,-31.55650426224111
+Head white-collar/prof.,summary OCCAT2 == 1,head_white_collar_occat2_summary,Borrow and save,61,35.26562976681355,-25.734370233186453
+Head white-collar/prof.,summary OCCAT2 == 1,head_white_collar_occat2_summary,Save,58,32.49508353409172,-25.50491646590828
+Head white-collar/prof.,summary OCCAT2 == 1,head_white_collar_occat2_summary,Population,58,32.44632138305788,-25.553678616942122
+Head white-collar/prof.,summary OCCAT2 in 1:2,head_white_collar_occat2_broad_summary,Borrow,48,49.98832388893062,1.9883238889306227
+Head white-collar/prof.,summary OCCAT2 in 1:2,head_white_collar_occat2_broad_summary,Borrow and save,61,66.92114842986726,5.921148429867259
+Head white-collar/prof.,summary OCCAT2 in 1:2,head_white_collar_occat2_broad_summary,Save,58,57.59068237195153,-0.40931762804846983
+Head white-collar/prof.,summary OCCAT2 in 1:2,head_white_collar_occat2_broad_summary,Population,58,59.71297822446013,1.7129782244601301

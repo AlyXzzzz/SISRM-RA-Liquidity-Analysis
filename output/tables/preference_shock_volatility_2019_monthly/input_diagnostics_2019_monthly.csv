@@ -1,0 +1,14 @@
+statistic,value
+fmli_release_rows,26903
+mtbi_release_rows,2218545
+calendar_2019_monthly_rows,64309
+calendar_2019_households,12722
+duplicate_panel_month_cells,0
+selected_non_gift_mtbi_records,1749203
+selected_cash_good_mtbi_records,634103
+gift_records_excluded_in_2019,17751
+outside_reference_window_records_excluded_in_2019,38
+cex_components_with_dcpc_share,11
+cex_components_default_weight_one,1
+unweighted_selected_cash_good_real_sum,121941551.93980065
+liquid_weighted_cash_good_real_sum,102765084.81212543
