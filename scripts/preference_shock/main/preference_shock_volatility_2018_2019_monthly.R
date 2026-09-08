@@ -471,6 +471,11 @@ estimate_measure <- function(data, measure_name) {
     warn = FALSE
   )
 
+  # Direct sample variance of the first-stage residual. Conditional on the
+  # included controls and consumer-unit fixed effects, this is the empirical
+  # variance of log liquid consumption left unexplained by the first stage.
+  first_stage_residual_variance <- var(resid(first_stage))
+
   # Second regression data frame with explicit handling of missing values and 
   # non-consecutive indices
   ar_data <- reg_data %>%
@@ -509,6 +514,11 @@ estimate_measure <- function(data, measure_name) {
       epsilon, epsilon_lag, eta
     )
 
+  alpha_hat <- unname(coef(ar_model)[["epsilon_lag"]])
+  eta_sd_log_points <- sd(innovations$eta)
+  ar1_implied_residual_variance <-
+    eta_sd_log_points^2 / (1 - alpha_hat^2)
+
   result <- tibble(
     frequency = "monthly",
     calendar_years = paste(analysis_calendar_years, collapse = "-"),
@@ -518,9 +528,15 @@ estimate_measure <- function(data, measure_name) {
     n_ar = nrow(ar_data),
     n_households_stage1 = n_distinct(reg_data$panel_id),
     n_households_ar = n_distinct(ar_data$panel_id),
-    rho = unname(coef(ar_model)[["epsilon_lag"]]),
-    eta_sd_log_points = sd(innovations$eta),
-    eta_sd_percent = 100 * eta_sd_log_points
+    rho = alpha_hat,
+    eta_sd_log_points = eta_sd_log_points,
+    eta_sd_percent = 100 * eta_sd_log_points,
+    first_stage_residual_variance = first_stage_residual_variance,
+    ar1_implied_residual_variance = ar1_implied_residual_variance,
+    residual_variance_gap =
+      first_stage_residual_variance - ar1_implied_residual_variance,
+    residual_variance_relative_gap =
+      residual_variance_gap / ar1_implied_residual_variance
   )
 
   list(
@@ -544,7 +560,47 @@ results <- bind_rows(lapply(fits, `[[`, "result")) %>%
 innovations <- bind_rows(lapply(fits, `[[`, "innovations")) %>%
   arrange(match(measure, measure_order), panel_id, ref_month_index)
 
-key_results <- results %>% select("measure", "rho", "eta_sd_log_points", "eta_sd_percent")
+key_results <- results %>%
+  select(
+    "measure", "rho", "eta_sd_log_points", "eta_sd_percent",
+    "first_stage_residual_variance", "ar1_implied_residual_variance",
+    "residual_variance_gap", "residual_variance_relative_gap"
+  )
+
+# Verify the maintained benchmark against the unrounded empirical values used
+# to construct the existing calibration target. The direct first-stage sample
+# variance and the AR(1)-implied stationary variance are reported separately:
+# they estimate the same population object under the maintained AR(1), but they
+# need not be exactly identical in a finite, unbalanced panel.
+empirical_alpha <- 0.1405246873167233
+empirical_eta_sd <- 0.27136654798584364
+log_c_var_target <- empirical_eta_sd^2 / (1 - empirical_alpha^2)
+variance_check_tolerance <- 1e-12
+
+benchmark_variance_check <- results %>%
+  filter(measure == "benchmark") %>%
+  transmute(
+    estimated_alpha = rho,
+    supplied_alpha = .env$empirical_alpha,
+    estimated_eta_sd = eta_sd_log_points,
+    supplied_eta_sd = .env$empirical_eta_sd,
+    direct_first_stage_residual_variance = first_stage_residual_variance,
+    ar1_implied_residual_variance = ar1_implied_residual_variance,
+    supplied_log_c_var_target = .env$log_c_var_target,
+    ar1_implied_minus_supplied_target =
+      ar1_implied_residual_variance - supplied_log_c_var_target,
+    direct_minus_ar1_implied =
+      direct_first_stage_residual_variance - ar1_implied_residual_variance,
+    direct_relative_gap =
+      direct_minus_ar1_implied / ar1_implied_residual_variance,
+    ar1_implied_matches_supplied_target =
+      abs(ar1_implied_minus_supplied_target) <= .env$variance_check_tolerance,
+    direct_matches_ar1_implied_exactly =
+      abs(direct_minus_ar1_implied) <= .env$variance_check_tolerance
+  )
+
+stopifnot(benchmark_variance_check$ar1_implied_matches_supplied_target)
+print(benchmark_variance_check, width = Inf)
 
 # -----------------------------------------------------------------------------
 # 7. Outputs
@@ -579,4 +635,8 @@ write_csv(
 write_csv(
   key_results,
   file.path(output_dir, "preference_shock_volatility_2018_2019_monthly.csv")
+)
+write_csv(
+  benchmark_variance_check,
+  file.path(output_dir, "benchmark_residual_variance_check.csv")
 )

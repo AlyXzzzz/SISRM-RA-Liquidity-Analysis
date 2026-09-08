@@ -47,7 +47,7 @@
 
 \section{Estimation of the Liquidity-Demand Shock}
 
-Following Telyukova (2013), we use a two-stage empirical procedure to estimate the volatility of innovations in consumer-unit liquid consumption. We then use this empirical moment, together with an adjacent-month consumption-correlation moment, to calibrate the idiosyncratic liquidity-demand shock $\theta_{it}$ in the model. The first-stage specification is
+Following Telyukova (2013), we use a two-stage empirical procedure to estimate the dynamic process for the idiosyncratic component of consumer-unit log liquid consumption. The regression estimates are not interpreted as direct estimates of the structural liquidity-demand shock. Instead, they imply a stationary residual-variance moment that is matched by the model jointly with an adjacent-month consumption-correlation moment. The first-stage specification is
 
 \begin{equation}
 	\label{eqn:telyukova_first_stage}
@@ -67,6 +67,18 @@ In the second stage, we estimate the empirical residual process
 
 using only consecutive-month residual pairs and no intercept. We use $\alpha$ exclusively for the persistence of the empirical first-stage residual, and $\eta_{it}$ for its innovation. This notation distinguishes $\alpha$ from the model shock-persistence parameter $\rho$ introduced below.
 
+Under the maintained covariance-stationary AR(1) specification, with $|\alpha|<1$ and innovations orthogonal to lagged residuals, the stationary variance of the empirical residual is
+
+\begin{equation}
+	\label{eqn:empirical_residual_variance}
+	V_{\varepsilon}^{\mathrm{data}}
+	\equiv \operatorname{Var}(\varepsilon_{it})
+	= \frac{\operatorname{Var}(\eta_{it})}{1-\alpha^2}
+	= \frac{\sigma_\eta^2}{1-\alpha^2},
+\end{equation}
+
+where $\sigma_\eta=\operatorname{sd}(\eta_{it})$. Conditional on $\mathbf{X}_{it}$ and $\mu_i$ in equation (\ref{eqn:telyukova_first_stage}), the variance of log liquid consumption is therefore the variance of $\varepsilon_{it}$. The model contains neither household fixed effects nor the empirical controls $\mathbf{X}_{it}$. We consequently use the stationary model variance of log cash-good consumption, $\operatorname{Var}_{\Psi}(\log c_{1})$, as the model counterpart of $V_{\varepsilon}^{\mathrm{data}}$, where $\Psi$ denotes the model's stationary distribution.
+
 Let the model liquidity-demand shock follow
 
 \begin{equation}
@@ -77,16 +89,17 @@ Let the model liquidity-demand shock follow
 	\operatorname{Var}(\xi_{it})=\sigma_\theta^2.
 \end{equation}
 
-The estimated $\operatorname{sd}(\widehat{\eta}_{it})$ is interpreted as the empirical counterpart of the unconditional volatility of $\log(\theta_{it})$, rather than the volatility of the model innovation $\xi_{it}$. Writing $s_\eta=\operatorname{sd}(\widehat{\eta}_{it})$ and imposing covariance stationarity gives
+There is no one-to-one correspondence between the empirical process parameters $(\alpha,\sigma_\eta)$ and the structural shock parameters $(\rho,\sigma_\theta)$. In particular, we do not set $\sigma_\theta$ equal to $\sigma_\eta$, and we do not impose the former mapping $\sigma_\theta=\sigma_\eta\sqrt{1-\rho^2}$. Instead, for each candidate structural parameter vector, we solve the model, compute the stationary distribution, and calculate the model-implied variance of log cash-good consumption. The variance moment condition is
 
 \begin{equation}
-	\label{eqn:model_liquidity_shock_variance}
-	s_\eta^2
-	= \operatorname{Var}(\log(\theta_{it}))
-	= \frac{\sigma_{\theta}^2}{1-\rho^2},
+	\label{eqn:log_consumption_variance_moment}
+	\operatorname{Var}_{\Psi}(\log c_1)
+	-
+	\frac{\widehat{\sigma}_\eta^2}{1-\widehat{\alpha}^2}
+	=0.
 \end{equation}
 
-so that $\sigma_\theta=s_\eta\sqrt{1-\rho^2}$. The model persistence $\rho$ is calibrated separately by matching an adjacent-month liquid-consumption correlation, as described below.
+This condition primarily identifies the model innovation standard deviation $\sigma_\theta$. The model persistence $\rho$ is calibrated by matching the adjacent-month correlation of liquid consumption in levels, as described below. Real money supply is determined by money-market clearing, and the three conditions are iterated jointly because changing any one of the structural parameters can affect all of the model-implied moments. Thus, the Telyukova regression contributes an additional moment to the calibration rather than a direct empirical-to-structural parameter mapping.
 
 The empirical measure $c^{\mathrm{liq}}_{it}$ is monthly consumer-unit expenditure in the maintained liquid-consumption basket, after category-specific CPI deflation and adjustment by DCPC liquid-payment shares. The benchmark basket contains food, alcohol, tobacco, rent, mortgage interest, repairs, insurance, and other owner-occupied dwelling expenses, utilities, household operations, childcare, property taxes, public transportation, and health insurance. Two sensitivity measures first exclude food, alcohol, and tobacco and then additionally exclude property taxes. Gift purchases are excluded. Each category-specific monthly CPI is normalized by its 2019 mean before deflation.
 
@@ -488,40 +501,55 @@ The following flow diagram summarizes the two branches of the construction. They
 	\end{longtable}
 \end{landscape}
 
-\subsection{Estimated Empirical Innovation Volatility}
+\subsection{Empirical Residual-Variance Moment}
 
-Table \ref{tab:liquidity-demand-innovation-volatility-2018-2019} reports $\widehat{\alpha}$ and $\operatorname{sd}(\widehat{\eta}_{it})$ from equations (\ref{eqn:telyukova_first_stage}) and (\ref{eqn:telyukova_second_stage}) using monthly CEX data from 2018--2019. The first stage includes calendar-month and calendar-year indicators. Both stages and the reported innovation standard deviations are unweighted. The maintained output files use the legacy column name \lstinline|rho| for $\widehat{\alpha}$; the notation here distinguishes this empirical coefficient from the model persistence $\rho$.
+Table \ref{tab:liquidity-demand-innovation-volatility-2018-2019} reports $\widehat{\alpha}$ and $\operatorname{sd}(\widehat{\eta}_{it})$ from equations (\ref{eqn:telyukova_first_stage}) and (\ref{eqn:telyukova_second_stage}) using monthly CEX data from 2018--2019. The first stage includes calendar-month and calendar-year indicators. Both stages and the reported innovation standard deviations are unweighted. The final column applies equation (\ref{eqn:empirical_residual_variance}) to report the implied stationary variance of the first-stage residual, which is the moment used in the structural calibration. The maintained output files use the legacy column name \lstinline|rho| for $\widehat{\alpha}$; the notation here distinguishes this empirical coefficient from the model persistence $\rho$.
 
 \begin{table}[htbp]
 	\centering
 	\small
 	\setlength{\tabcolsep}{8pt}
 	\renewcommand{\arraystretch}{1.2}
-	\caption{Monthly empirical innovation-volatility estimates, 2018--2019}
+	\caption{Monthly empirical residual-process estimates and implied variance moments, 2018--2019}
 	\label{tab:liquidity-demand-innovation-volatility-2018-2019}
-	\begin{tabular}{
-			>{\RaggedRight\arraybackslash}p{0.39\textwidth}
-			ccc
-		}
-		\toprule
-		Liquid-consumption measure
-		& $\widehat{\alpha}$
-		& $\operatorname{sd}(\widehat{\eta}_{it})$
-		& $\operatorname{sd}(\widehat{\eta}_{it})$ (\%) \\
-		\midrule
-		Benchmark
-		& 0.141 & 0.271 & 27.14 \\
-		Excluding food, alcohol, and tobacco
-		& 0.139 & 0.285 & 28.53 \\
-		Excluding food, alcohol, tobacco, and property taxes
-		& 0.109 & 0.325 & 32.47 \\
-		\bottomrule
-	\end{tabular}
+	\resizebox{\textwidth}{!}{%
+		\begin{tabular}{
+				>{\RaggedRight\arraybackslash}p{0.36\textwidth}
+				cccc
+			}
+			\toprule
+			Liquid-consumption measure
+			& $\widehat{\alpha}$
+			& $\operatorname{sd}(\widehat{\eta}_{it})$
+			& $\operatorname{sd}(\widehat{\eta}_{it})$ (\%)
+			& $\widehat{V}_{\varepsilon}^{\mathrm{data}}$ \\
+			\midrule
+			Benchmark
+			& 0.141 & 0.271 & 27.14 & 0.075123 \\
+			Excluding food, alcohol, and tobacco
+			& 0.139 & 0.285 & 28.53 & 0.083015 \\
+			Excluding food, alcohol, tobacco, and property taxes
+			& 0.109 & 0.325 & 32.47 & 0.106690 \\
+			\bottomrule
+		\end{tabular}%
+	}
 \end{table}
+
+For the maintained benchmark, the unrounded estimates are $\widehat{\alpha}=0.1405246873$ and $\widehat{\sigma}_\eta=0.2713665480$, implying
+
+\begin{equation}
+	\label{eqn:benchmark_log_consumption_variance_target}
+	\widehat{V}_{\varepsilon}^{\mathrm{data}}
+	=
+	\frac{0.2713665480^2}{1-0.1405246873^2}
+	=0.075123277.
+\end{equation}
+
+This number is a variance in squared log points. It is not assigned directly to $\operatorname{Var}(\xi_{it})$, nor is either empirical standard deviation assigned directly to $\sigma_\theta$. The calibration varies $\sigma_\theta$, resolves the household problem and stationary distribution, and selects the value that makes the model-implied $\operatorname{Var}_{\Psi}(\log c_1)$ match equation (\ref{eqn:benchmark_log_consumption_variance_target}).
 
 \subsection{Adjacent-Month Liquid-Consumption Correlation for Moment Matching}
 
-The model persistence $\rho$ is calibrated by matching the correlation between liquid consumption in consecutive months. Table \ref{tab:adjacent-consumption-correlations-2019} reports the available 2019 candidate moments in levels and logs. These are pooled, unweighted correlations across strictly consecutive months for which both consumer-unit observations have positive liquid consumption. 
+The model persistence $\rho$ is primarily calibrated by matching the correlation between liquid consumption in consecutive months. Table \ref{tab:adjacent-consumption-correlations-2019} reports the available 2019 candidate moments in levels and logs. These are pooled, unweighted correlations across strictly consecutive months for which both consumer-unit observations have positive liquid consumption. The maintained calibration targets the benchmark level correlation, using the unrounded value $0.588505098$, together with the benchmark log-consumption variance target $0.075123277$ and the money-market-clearing condition. Because the three blocks interact, the algorithm repeats them until all parameter changes and all three moment residuals satisfy their respective tolerances.
 
 \begin{table}[htbp]
 	\centering

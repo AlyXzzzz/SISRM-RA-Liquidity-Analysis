@@ -1,0 +1,12 @@
+{
+  "N": 200,
+  "K": 20,
+  "S": 7,
+  "bellman_iterations": 13,
+  "policy_evaluations": 600,
+  "bellman_residual": 8.73119859079452E-7,
+  "value_error_bound": 2.9103995302648373E-5,
+  "elapsed_seconds": 73.945317416666668,
+  "bellman_seconds": 73.574846958333339,
+  "evaluation_seconds": 0.294064125
+}

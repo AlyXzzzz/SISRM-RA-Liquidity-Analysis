@@ -1,0 +1,9 @@
+# macOS metadata
+.DS_Store
+
+# Generated temporary render/review files
+tmp/
+
+# Raw SCF ASCII data exceeds GitHub's per-file size limit.
+# The processed SCF inputs and project outputs remain versioned.
+/raw/scf2001.ascii
